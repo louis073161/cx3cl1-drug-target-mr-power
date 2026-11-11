@@ -1,0 +1,241 @@
+{
+  "n_combos": 19,
+  "n_region_jobs": 133,
+  "elapsed_sec": 113.0,
+  "errors": [],
+  "combos": [
+    {
+      "release": "R9",
+      "endpoint": "DM_NEUROPATHY",
+      "status": "OK",
+      "n_raw_lines": 150,
+      "n_matched": 7,
+      "n_approx": 0,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "10_63389329_G_A",
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R9",
+      "endpoint": "DM_POLYNEURO",
+      "status": "OK",
+      "n_raw_lines": 150,
+      "n_matched": 7,
+      "n_approx": 0,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "10_63389329_G_A",
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R9",
+      "endpoint": "G6_POLYOTHUNS",
+      "status": "OK",
+      "n_raw_lines": 150,
+      "n_matched": 7,
+      "n_approx": 0,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "10_63389329_G_A",
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R9",
+      "endpoint": "DM_RETINOPATHY_EXMORE",
+      "status": "OK",
+      "n_raw_lines": 150,
+      "n_matched": 7,
+      "n_approx": 0,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "10_63389329_G_A",
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R9",
+      "endpoint": "DM_NEPHROPATHY_EXMORE",
+      "status": "OK",
+      "n_raw_lines": 150,
+      "n_matched": 7,
+      "n_approx": 0,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "10_63389329_G_A",
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R10",
+      "endpoint": "G6_POLYOTHUNS",
+      "status": "OK",
+      "n_raw_lines": 155,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R11",
+      "endpoint": "DM_NEUROPATHY",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R11",
+      "endpoint": "G6_POLYOTHUNS",
+      "status": "OK",
+      "n_raw_lines": 155,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R12",
+      "endpoint": "DM_NEUROPATHY",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R12",
+      "endpoint": "G6_POLYOTHUNS",
+      "status": "OK",
+      "n_raw_lines": 155,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R12",
+      "endpoint": "DM_RETINOPATHY_STRICT",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R12",
+      "endpoint": "DM_NEPHROPATHY_EXMORE",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_NEUROPATHY",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "G6_POLYOTHUNS",
+      "status": "OK",
+      "n_raw_lines": 155,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_RETINOPATHY",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_RETINOPATHY_STRICT",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_RETINOPATHY_EXMORE",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_NEPHROPATHY",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    },
+    {
+      "release": "R13",
+      "endpoint": "DM_NEPHROPATHY_EXMORE",
+      "status": "OK",
+      "n_raw_lines": 154,
+      "n_matched": 8,
+      "n_approx": 1,
+      "n_column_check_failed": 0,
+      "missing_variants": [
+        "16_57375150_AAAG_A"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "generated_on": "2026-11-11",
+  "elapsed_seconds": 41.3,
+  "data_sources": {
+    "exposure": "Open Targets Platform v26.9 GraphQL target.credibleSets, UKB-PPP pQTL (real response in data/b1_target_pqtl.json)",
+    "outcome": "FinnGen public R9 / R13 summary stats via tabix HTTP Range requests (no new credentials)"
+  },
+  "target_selection": {
+    "n_candidates_queried": 12,
+    "n_with_cis_pqtl_in_first_page": 7,
+    "n_with_usable_simple_SNP_lead": 7,
+    "rule": "single strongest |z| cis pQTL lead per target; indels excluded to keep allele harmonisation exact",
+    "note": "CRP/HMGCR/CETP/GLP1R returned no UKB_PPP cis pQTL within the first 150 credible sets; NPC1L1 target lookup failed. They were NOT imputed."
+  },
+  "fetch": {
+    "n_region_requests": 63,
+    "n_errors": 0,
+    "errors": [],
+    "n_estimates_total": 63,
+    "n_ok": 63,
+    "n_no_match": 0
+  },
+  "B1": {
+    "n_targets": 7,
+    "n_combinations": 6,
+    "n_estimates": 42,
+    "n_ok": 42,
+    "power_OR_1.5_range": [
+      0.05530769808467519,
+      1.0
+    ],
+    "mde_OR_range": [
+      1.0649413343097673,
+      197.4702452112303
+    ],
+    "n_estimates_power_below_20pct": 11,
+    "n_estimates_mde_OR_above_2": 18,
+    "n_nominally_significant": 1,
+    "expected_nominal_at_5pct": 2.1,
+    "n_release_direction_flips": 6,
+    "flips": [
+      {
+        "target": "IL6R",
+        "endpoint": "DM_NEUROPATHY",
+        "R9_or": 0.9827170768727231,
+        "R13_or": 1.0315380475732372
+      },
+      {
+        "target": "LDLR",
+        "endpoint": "DM_NEUROPATHY",
+        "R9_or": 1.8659379441793424,
+        "R13_or": 0.22616581096121186
+      },
+      {
+        "target": "IL6R",
+        "endpoint": "G6_POLYOTHUNS",
+        "R9_or": 0.9861227844163802,
+        "R13_or": 1.0094188351622635
+      },
+      {
+        "target": "AGT",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "R9_or": 0.9945485118113834,
+        "R13_or": 1.0112097837888583
+      },
+      {
+        "target": "IL6R",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "R9_or": 0.9955365167131013,
+        "R13_or": 1.024386428718537
+      },
+      {
+        "target": "PCSK9",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "R9_or": 0.8159099887583962,
+        "R13_or": 1.1858062745459401
+      }
+    ],
+    "by_instrument_strength": {
+      "F_ge_1000": {
+        "n": 24,
+        "targets": [
+          "ACE",
+          "AGT",
+          "IL6R",
+          "PCSK9"
+        ],
+        "median_power_OR_1.5": 0.999973570619088,
+        "n_power_below_20pct": 0,
+        "median_mde_OR": 1.202146025915805
+      },
+      "F_100_to_1000": {
+        "n": 12,
+        "targets": [
+          "IL1RN",
+          "SERPINE1"
+        ],
+        "median_power_OR_1.5": 0.22780994782588354,
+        "n_power_below_20pct": 5,
+        "median_mde_OR": 2.571338355447853
+      },
+      "F_lt_100": {
+        "n": 6,
+        "targets": [
+          "LDLR"
+        ],
+        "median_power_OR_1.5": 0.058506175813839364,
+        "n_power_below_20pct": 6,
+        "median_mde_OR": 68.54840824746267
+      }
+    },
+    "CX3CL1_baseline_power_OR_1.5": [
+      0.0545,
+      0.101
+    ],
+    "CX3CL1_baseline_mde_OR": [
+      5.6072,
+      318.5693
+    ],
+    "interpretation": "PARTIAL, not universal, replication. Underpowering replicates in targets with weak/small cis effects but NOT in targets with very strong cis pQTL (IL6R, ACE, AGT), where power reaches 80-100%. Therefore low power is NOT an intrinsic property of these FinnGen endpoints; it is the interaction of instrument strength (|beta_exp| and F) with endpoint case counts. Claiming \"underpowering is systematic across all contexts\" would be incorrect."
+  },
+  "B2": {
+    "n_estimates": 21,
+    "n_ok": 21,
+    "pre_specified_directions": {
+      "PCSK9": "positive",
+      "LDLR": "negative"
+    },
+    "bonferroni_threshold": 0.002380952380952381,
+    "rows": [
+      {
+        "target": "ACE",
+        "endpoint": "I9_CHD",
+        "or": 0.9933938058796218,
+        "p": 0.6741446988035673,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 3502.5061460877014,
+        "beta_exp": -0.36911870938376296
+      },
+      {
+        "target": "AGT",
+        "endpoint": "I9_CHD",
+        "or": 1.005954328170239,
+        "p": 0.774871128636407,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "positive",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 1775.3439215348094,
+        "beta_exp": 0.3382316331300982
+      },
+      {
+        "target": "IL1RN",
+        "endpoint": "I9_CHD",
+        "or": 0.9267423162789801,
+        "p": 0.2576771026159509,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 750.9306392847333,
+        "beta_exp": -0.0936262547840244
+      },
+      {
+        "target": "IL6R",
+        "endpoint": "I9_CHD",
+        "or": 0.9544698556982852,
+        "p": 1.0608056155730747e-08,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 20030.780532377765,
+        "beta_exp": 0.7759829862096316
+      },
+      {
+        "target": "LDLR",
+        "endpoint": "I9_CHD",
+        "or": 6.321067560935746,
+        "p": 1.1705459027379005e-05,
+        "expected_direction": "negative",
+        "observed_direction": "positive",
+        "matches_expectation": false,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 64.58632663743403,
+        "beta_exp": -0.04279391981357276
+      },
+      {
+        "target": "PCSK9",
+        "endpoint": "I9_CHD",
+        "or": 2.194637838899541,
+        "p": 9.008974779547701e-29,
+        "expected_direction": "positive",
+        "observed_direction": "positive",
+        "matches_expectation": true,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 1722.7805602608437,
+        "beta_exp": -0.22389590964681255
+      },
+      {
+        "target": "SERPINE1",
+        "endpoint": "I9_CHD",
+        "or": 0.7543205647280808,
+        "p": 0.028684529271934576,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": true,
+        "bonferroni_significant": false,
+        "F_instrument": 161.28095524438837,
+        "beta_exp": -0.05842103161634481
+      },
+      {
+        "target": "ACE",
+        "endpoint": "I9_CORATHER",
+        "or": 0.9950238105214679,
+        "p": 0.7884880960073941,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 3502.5061460877014,
+        "beta_exp": -0.36911870938376296
+      },
+      {
+        "target": "AGT",
+        "endpoint": "I9_CORATHER",
+        "or": 0.9960917902759218,
+        "p": 0.8729942914349524,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 1775.3439215348094,
+        "beta_exp": 0.3382316331300982
+      },
+      {
+        "target": "IL1RN",
+        "endpoint": "I9_CORATHER",
+        "or": 0.8759906797274362,
+        "p": 0.09499573819312233,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 750.9306392847333,
+        "beta_exp": -0.0936262547840244
+      },
+      {
+        "target": "IL6R",
+        "endpoint": "I9_CORATHER",
+        "or": 0.9467383529235969,
+        "p": 1.215117079298766e-08,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 20030.780532377765,
+        "beta_exp": 0.7759829862096316
+      },
+      {
+        "target": "LDLR",
+        "endpoint": "I9_CORATHER",
+        "or": 16.669442753365594,
+        "p": 1.685877917054948e-08,
+        "expected_direction": "negative",
+        "observed_direction": "positive",
+        "matches_expectation": false,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 64.58632663743403,
+        "beta_exp": -0.04279391981357276
+      },
+      {
+        "target": "PCSK9",
+        "endpoint": "I9_CORATHER",
+        "or": 2.705842842426895,
+        "p": 1.9075556038642124e-32,
+        "expected_direction": "positive",
+        "observed_direction": "positive",
+        "matches_expectation": true,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 1722.7805602608437,
+        "beta_exp": -0.22389590964681255
+      },
+      {
+        "target": "SERPINE1",
+        "endpoint": "I9_CORATHER",
+        "or": 0.7813131275275351,
+        "p": 0.10482518935281226,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 161.28095524438837,
+        "beta_exp": -0.05842103161634481
+      },
+      {
+        "target": "ACE",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 1.0544370963450447,
+        "p": 0.590264880234,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "positive",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 3502.5061460877014,
+        "beta_exp": -0.36911870938376296
+      },
+      {
+        "target": "AGT",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 0.8961161997370352,
+        "p": 0.39900228684273664,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 1775.3439215348094,
+        "beta_exp": 0.3382316331300982
+      },
+      {
+        "target": "IL1RN",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 3.183212871615778,
+        "p": 0.006166304308561855,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "positive",
+        "matches_expectation": null,
+        "nominally_significant": true,
+        "bonferroni_significant": false,
+        "F_instrument": 750.9306392847333,
+        "beta_exp": -0.0936262547840244
+      },
+      {
+        "target": "IL6R",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 0.9272259767212204,
+        "p": 0.13454013574858156,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "negative",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 20030.780532377765,
+        "beta_exp": 0.7759829862096316
+      },
+      {
+        "target": "LDLR",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 2626.6861792495283,
+        "p": 0.00486722627535572,
+        "expected_direction": "negative",
+        "observed_direction": "positive",
+        "matches_expectation": false,
+        "nominally_significant": true,
+        "bonferroni_significant": false,
+        "F_instrument": 64.58632663743403,
+        "beta_exp": -0.04279391981357276
+      },
+      {
+        "target": "PCSK9",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 13.533773216701297,
+        "p": 1.415912564039881e-07,
+        "expected_direction": "positive",
+        "observed_direction": "positive",
+        "matches_expectation": true,
+        "nominally_significant": true,
+        "bonferroni_significant": true,
+        "F_instrument": 1722.7805602608437,
+        "beta_exp": -0.22389590964681255
+      },
+      {
+        "target": "SERPINE1",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 1.057760301806725,
+        "p": 0.9444990080223462,
+        "expected_direction": "not_pre_specified",
+        "observed_direction": "positive",
+        "matches_expectation": null,
+        "nominally_significant": false,
+        "bonferroni_significant": false,
+        "F_instrument": 161.28095524438837,
+        "beta_exp": -0.05842103161634481
+      }
+    ],
+    "n_direction_matches": 3,
+    "n_direction_mismatches": 3,
+    "n_nominally_significant": 10,
+    "n_bonferroni_significant": 7,
+    "extreme_estimates_abs_logOR_gt_2": [
+      {
+        "target": "LDLR",
+        "endpoint": "I9_CORATHER",
+        "or": 16.669442753365594,
+        "p": 1.685877917054948e-08,
+        "F_instrument": 64.58632663743403,
+        "beta_exp": -0.04279391981357276
+      },
+      {
+        "target": "LDLR",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 2626.6861792495283,
+        "p": 0.00486722627535572,
+        "F_instrument": 64.58632663743403,
+        "beta_exp": -0.04279391981357276
+      },
+      {
+        "target": "PCSK9",
+        "endpoint": "E4_HYPERLIPMIX",
+        "or": 13.533773216701297,
+        "p": 1.415912564039881e-07,
+        "F_instrument": 1722.7805602608437,
+        "beta_exp": -0.22389590964681255
+      }
+    ],
+    "interpretation": "PCSK9 is the successful biological positive control: direction matches the pre-specified expectation and survives Bonferroni correction on all three cardiovascular endpoints, confirming that this pipeline can detect a known true biological effect (not merely a technical signal from ABO trans variants). LDLR does NOT replicate: direction is opposite to expectation and ORs are extreme (up to 2626). Its cis lead has the weakest instrument (z=-8.04, F=64.6) and the smallest |beta_exp| (0.0428); dividing the outcome beta by a small exposure beta inflates the Wald ratio. LDLR must be EXCLUDED as a positive control and reported instead as a cautionary example. IL6R signals are exploratory (direction not pre-specified) and must not be claimed as causal."
+  },
+  "corrections_to_original_plan": [
+    "The planned claim \"insufficient power and direction drift replicate systematically across targets\" is only PARTLY true: see B1.by_instrument_strength and B1.interpretation.",
+    "LDLR cannot serve as a biological positive control; PCSK9 alone fulfils that role. Both facts are reported, not hidden.",
+    "These results do NOT change the CX3CL1 conclusion: no supporting evidence, and the public data remain insufficient to test a moderate effect for that target."
+  ],
+  "honesty_boundaries": [
+    "B1 targets share the FinnGen outcome resource: cross-target replication, NOT independent-dataset replication.",
+    "One cis lead per target; no LD clumping, coloc, Steiger or reverse MR. Not a confirmatory causal MR for any target.",
+    "B2 is a directional validation, not a substitute for drug trials. A null B2 does NOT mean PCSK9/LDLR are inactive; a significant B2 does NOT prove causality (protein pQTL may reflect reverse causation or linked variants).",
+    "No P-value-driven selection of targets or endpoints; all pre-specified combinations are reported."
+  ]
+}

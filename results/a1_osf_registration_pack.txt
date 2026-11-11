@@ -1,0 +1,71 @@
+A1 — OSF RETROSPECTIVE REGISTRATION (ready-to-paste text)
+Prepared 2026-11-10. Registration itself, date and DOI require the author's OSF account.
+
+TITLE
+Power and phenotype-definition heterogeneity in drug-target Mendelian randomization:
+a worked example using circulating CX3CL1 and diabetic neuropathy across five FinnGen releases
+
+TYPE
+Retrospective registration of an analysis plan for a methodological study using
+publicly available summary-level data. This is NOT a prospective preregistration.
+
+RETROSPECTIVE DISCLOSURE (must be pasted verbatim)
+Before this registration, the authors had already completed exploratory analyses:
+a first two-sample MR of UKB-PPP CX3CL1 pQTL against FinnGen R13 DM_NEUROPATHY,
+LD clumping with 1000 Genomes EUR references, and credible-set-level colocalisation.
+Those results are documented in two internal reports dated 2026-11-10. We do not
+claim that the data were untouched before registration. This registration locks the
+confirmatory re-run (nine instruments x multiple endpoints x multiple releases),
+the power analysis, the reporting framework and the wording rules. Any deviation
+will be logged with an OSF timestamp.
+
+RESEARCH QUESTIONS
+1. In a drug-target MR with a single independent cis instrument and no strong outcome
+   signal in the region, what strength of conclusion can public data support?
+2. How much do point estimates and conclusions drift across endpoint definitions,
+   FinnGen releases and estimator choices?
+3. Which reporting rules prevent an underpowered null from being written as "no effect"?
+
+DESIGN AND DATA
+Summary-level two-sample Mendelian randomisation. Exposure: Open Targets v26.9 / UKB-PPP
+CX3CL1 pQTL, nine SuSiE 95% credible sets, n=33,436 European ancestry. Outcomes:
+FinnGen public summary statistics R9-R13, endpoints DM_NEUROPATHY, DM_POLYNEURO,
+G6_POLYOTHUNS and diabetic microvascular complications (including STRICT / EXMORE
+variants) as negative controls, 19 combinations in total. UKB-PPP and FinnGen are
+non-overlapping populations. Download URLs, tabix indices and manifests are recorded
+in a1_endpoint_dict.tsv and a1_fetch_log.json.
+
+PRIMARY OUTCOME MEASURES
+Wald ratio beta, SE, P, OR and 95% CI for each combination; post-hoc power at OR=1.5
+and minimum detectable OR at 80% power, both derived from the observed SE; range of
+point estimates and number of sign flips; observed versus expected number of
+nominally significant results across 133 combination x method tests.
+
+ANALYSIS PLAN
+Primary analysis is the Wald ratio of the single cis lead instrument rs62037084
+(16_57379748_C_T). Sensitivity analyses: IVW, MR-Egger, weighted median and
+leave-one-out after LD clumping at r2<0.001; Steiger direction test; I2, I2_GX,
+Cochran Q, E-value and instrument-level bootstrap; ABF colocalisation; a simulation
+validating the reporting decision framework; a pipeline / power calibration using
+the same code on large FinnGen endpoints. No missing data are imputed; unmatched
+variants are reported as excluded. Power is driven by observed SE, not by assumed
+case counts.
+
+HANDLING OF NULL RESULTS
+All results are reported regardless of direction. An underpowered null must not be
+written as "no effect"; nominally significant exploratory findings must not be
+written as evidence for causality. Multiplicity and pleiotropy checks precede any
+exploratory interpretation.
+
+STATEMENT ON POWER (STROBE-MR item 4b)
+No a priori power or sample-size calculation was performed. Post-hoc power and the
+minimum detectable effect are the object of this study and will be reported as such.
+
+DATA / CODE
+All inputs, code, checksums and figures are local and will be deposited with DOI.
+FinnGen, Open Targets and UKB-PPP terms and primary publications will be cited.
+
+AUTHOR
+Corresponding author: Dr Yi Lu (鲁义主任医师), Department of Anesthesiology,
+Guangzhou Medical University Affiliated Traditional Chinese Medicine Hospital.
+[Affiliation and ORCID to be completed at submission.]

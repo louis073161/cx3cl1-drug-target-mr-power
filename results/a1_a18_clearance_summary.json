@@ -1,0 +1,54 @@
+{
+  "generated": "2026-11-11",
+  "n_A_items": 18,
+  "status_counts": {
+    "已清": 12,
+    "已清（结构）": 1,
+    "已清（声明）/ 待用户动作": 1,
+    "已清（文本）/ 待用户动作": 1,
+    "已清（含口径更正）": 1,
+    "已清（表）/ 待全文核对": 1,
+    "已清（本地）/ 待用户动作": 1
+  },
+  "residual_type_counts": {
+    "无": 13,
+    "投稿前引用核对（官方 release 日不可核实）": 1,
+    "需账号/机构动作": 2,
+    "需账号/机构动作（本轮用户已排除）": 1,
+    "投稿前全文核对": 1
+  },
+  "fully_cleared_locally": 13,
+  "items_requiring_author_action": [
+    {
+      "item": "4",
+      "status": "已清（声明）/ 待用户动作",
+      "action": "本人完成 FinnGen 官网填表并留存回执；补 Kurki et al. Nature 2023 致谢"
+    },
+    {
+      "item": "9",
+      "status": "已清（文本）/ 待用户动作",
+      "action": "本人注册 OSF 并把日期与 DOI 回填 Methods / Declarations / 版本快照"
+    },
+    {
+      "item": "19",
+      "status": "已清（本地）/ 待用户动作",
+      "action": "本人建 GitHub 仓库 + Zenodo DOI + OSF 三者互链，并把 DOI 回填正文"
+    }
+  ],
+  "items_for_pre_submission_check": [
+    {
+      "item": "4",
+      "action": "各 release 官方公开日期须引用原始文献填入，本轮未推测"
+    },
+    {
+      "item": "13",
+      "action": "逐篇取回全文核对\"是否报效能\"后把\"待全文核对\"替换为确切结论"
+    }
+  ],
+  "corrections_to_original_checklist": [
+    "12b: I2_GX measured 98.66%-99.08% (high, NOME satisfied); the original suggestion to use a low I2_GX to explain 7 nominally significant MR-Egger results is not supported by the data and has been rewritten.",
+    "4b: F statistic is 552.42 (not 22.25); 22.25 is the 80%-power MDE OR.",
+    "13c: Steiger implemented as a transparent approximation, not the official steiger package; 8 combinations without public case counts are NOT imputed."
+  ],
+  "disclaimer": "OSF registration, GitHub/Zenodo DOI, FinnGen web form and full-text verification of prior MR papers require the author account or full texts; materials are prepared, actions are not claimed as completed."
+}

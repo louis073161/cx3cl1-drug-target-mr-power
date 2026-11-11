@@ -1,0 +1,26 @@
+id	item	status	note
+V01	Final title	AUTHOR	Three candidate titles drafted; author chooses one.
+V02	OSF registration date and DOI	DONE	Public and archived 11 November 2026 as a Secondary Data Preregistration (osf.io/apwe2, project osf.io/pmhve); Registration DOI 10.17605/OSF.IO/APWE2.
+V03	GitHub repository and Zenodo DOI	IN_PROGRESS	GitHub repository created at https://github.com/louis073161/cx3cl1-drug-target-mr-power; Zenodo deposit awaiting Publish and DOI.
+V04	Competing interests	AUTHOR	Must be supplied by all authors.
+V05	Corresponding author / affiliation / email	AUTHOR	"Manuscript keeps ""鲁义主任医师"" as corresponding author label; full details and co-author list needed."
+V06	Funding and grant numbers	AUTHOR	Not asserted.
+V07	Primary CX3CL1/CX3CR1 and DPN references	AUTHOR	Insert primary literature, not reviews.
+V08	Official public-release dates R9-R13 and UKB-PPP v1	UNVERIFIABLE	Repeated searches returned no authoritative dated release notice; deliberately not guessed.
+V09	Rosas-Chavez Table 1 full rubric and total score	UNVERIFIABLE	MDPI HTML 403, /xml anti-bot and /pdf blank; SNP reporting stays NOT_SCORED, no total claimed.
+V10	Original Stender et al. reference	OPEN_LITERATURE	Currently cited only as endorsed in Rosas-Chavez 2025.
+V11	LocusCompare2 original Nature Genetics DOI	OPEN_LITERATURE	Only a Chinese secondary summary was found.
+V12	13d per-article full-text check of power reporting	OPEN_LITERATURE	Not performed; do not state a checked percentage.
+V13	Abstract compression to journal word limit	DONE	Review found 467 words against a ~350-word label; abstract rewritten to journal length on 11 November 2026.
+V14	41% power-audit figure	DONE	Corrected: source reports 59% fulfilling the criterion; 41% is only derived and is not used as a quoted figure.
+V15	Code availability / CRediT / declarations	DONE	Full text in submission_pack/a1_declarations.txt; author-specific fields still [VERIFY].
+V16	English vector figures	DONE	fig1-fig9 supplied as EN PDF/SVG/PNG; Figure 9 (B3 region-wide coloc) added to the legends and supplementary index.
+V17	Kurki et al. Nature 2023 acknowledgement	DRAFTED	Included in declarations and compliance checklist; exact volume/pages/DOI to confirm.
+V18	FinnGen website form and receipt	AUTHOR	Checklist prepared; cannot be completed by the agent.
+V19	Journal word limits, APC, presubmission channel	OPEN_LITERATURE	Journal pages checked 11 November 2026: BMC requires Force 11 dataset citation in References and a fixed "Availability of data and materials" sentence. Exact abstract word limit and APC still need a final check.
+V20	PAT-based full coloc appendix	CLOSED	PAT proved unusable (Synapse 403 GEO_RESTRICTION); B3 completed with the fully public Fenland GCST90012074 dataset, no token needed.
+V21	OSF registration Update to correct the seven-target list	CLOSED_PRE_SUBMISSION	Corrected in the draft before resubmission: field 26 now lists ACE, AGT, IL1RN, IL6R, LDLR, PCSK9 and SERPINE1, matching a1_b1_multitarget.tsv. No OSF Update is needed.
+V22	OSF licence and bibliographic contributor	CLOSED_PRE_SUBMISSION	Final review shows License = CC0 1.0 Universal and Contributors = Yi Lu; the earlier empty licence field was fixed before submission. Bibliographic-contributor tick is not visible on the overview page and does not affect the archived text or DOI.
+V23	Region-wide coloc integrated into the manuscript	DONE	M8, R10, D7, Figure 9, S15 and the abstract were added on 11 November 2026; no number differs from the registration.
+V24	Six OSF DOI placeholders	DONE	Backfilled 10.17605/OSF.IO/APWE2 into M6, Declarations, cover letter, declarations document, Zenodo metadata and GitHub README on 11 November 2026; no OSF DOI placeholder remains.
+V25	Stale engineering counts in Chinese internal reports	OPEN_EDITORIAL	Earlier reports say 12 steps / 123-124 files / 8 figures / OSF excluded / B3 needs a PAT. Mark them as historical snapshots or regenerate; do not attach them to the submission.

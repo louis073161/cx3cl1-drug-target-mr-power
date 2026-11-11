@@ -1,0 +1,58 @@
+{
+  "generated_on": "2026-11-11",
+  "n_combinations": 19,
+  "n_pairwise_comparisons": 171,
+  "groups_by_pair_type": {
+    "across_both": {
+      "n_pairs": 112,
+      "median_z_drift": 0.5724507244562107,
+      "max_z_drift": 1.4560506387842307,
+      "n_exceeding_1.96": 0,
+      "pct_exceeding_1.96": 0.0,
+      "n_sign_flips": 69,
+      "expected_exceeding_at_5pct": 5.6000000000000005
+    },
+    "same_endpoint_across_release": {
+      "n_pairs": 21,
+      "median_z_drift": 0.19668169477616732,
+      "max_z_drift": 0.6553106264882232,
+      "n_exceeding_1.96": 0,
+      "pct_exceeding_1.96": 0.0,
+      "n_sign_flips": 4,
+      "expected_exceeding_at_5pct": 1.05
+    },
+    "same_release_different_endpoint": {
+      "n_pairs": 38,
+      "median_z_drift": 0.4093016106291597,
+      "max_z_drift": 1.2205707407479258,
+      "n_exceeding_1.96": 0,
+      "pct_exceeding_1.96": 0.0,
+      "n_sign_flips": 15,
+      "expected_exceeding_at_5pct": 1.9000000000000001
+    }
+  },
+  "attribution_case_counts": {
+    "n_pairs_with_public_case_counts": 55,
+    "spearman_rho": 0.33528138528138535,
+    "p_asymptotic": 0.01233917340620352,
+    "p_permutation_20000": 0.014649267536623168,
+    "interpretation": "Monotonic association detected; still not causal",
+    "caveat": "Only 55 of 171 pairs have public case counts; R11 and most R13 endpoints are NOT_EVALUABLE. Case counts are not used to impute or adjust any MR estimate."
+  },
+  "attribution_endpoint_definition": {
+    "n_strictness_variant_pairs": 11,
+    "n_other_pairs": 160,
+    "mean_abs_delta_logOR_strictness": 0.4042340803262352,
+    "mean_abs_delta_logOR_other": 0.7607893710373921,
+    "p_permutation_20000": 0.022548872556372182
+  },
+  "sampling_noise_test": {
+    "n_pairs": 171,
+    "n_z_gt_1.96": 0,
+    "expected_at_5pct": 8.55,
+    "binomial_p_greater": 1.0,
+    "interpretation": "Most observed drift is compatible with sampling noise under the null; this does NOT mean the estimates are precise - see MDE ORs."
+  },
+  "formula": "z_drift = |beta_i - beta_j| / sqrt(SE_i^2 + SE_j^2); SE_i is the observed Wald ratio SE. Pairs are not statistically independent (shared FinnGen resource); permutation P-values are descriptive, not confirmatory.",
+  "red_lines": "Do not convert drift into a positive CX3CL1 signal; do not impute missing case counts; do not claim independent replication."
+}

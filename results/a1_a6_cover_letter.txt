@@ -1,0 +1,65 @@
+[DRAFT - replace every [VERIFY] field before submission]
+
+To the Editors, BMC Medical Research Methodology
+
+Dear Editors,
+
+Please consider our manuscript, "[VERIFY: final title]", for publication as a
+Research article.
+
+1. Why this manuscript suits BMC Medical Research Methodology
+Your aims and scope explicitly encourage empirical studies of the associations
+between the choice of methodology and study outcomes. Our study is exactly such
+an empirical evaluation: using one drug-target Mendelian randomization (MR) case
+(circulating CX3CL1 and diabetic neuropathy), we quantified how endpoint
+definitions, GWAS data releases and estimator choices change the reported
+conclusion, and how much statistical power the publicly available data actually
+provide. The contribution is a reporting framework for null MR findings, not a
+claim about CX3CL1 biology. Because the journal does not make editorial decisions
+on perceived interest or impact, we believe a scientifically valid negative
+result with a reproducible methodological evaluation is an appropriate fit.
+
+2. Journal-policy matters
+We enclose a completed 43-subitem STROBE-MR checklist. Reporting guidelines,
+data availability, ethics and competing interests are addressed in the
+Declarations. The study uses only publicly available summary-level statistics
+and required no additional ethical approval. Registration is retrospective;
+the date and DOI are [VERIFY: insert OSF registration date and DOI], and all
+analyses completed before registration are disclosed in the Methods. We do not
+claim that CX3CL1 has no effect on diabetic neuropathy, and we do not claim to
+propose a new statistical estimator. All analytical code, version-locked
+dependencies, SHA256 checksums of 75 input files, a version snapshot and a
+one-command offline reproduction script are available at
+[VERIFY: insert GitHub repository and Zenodo DOI].
+
+3. Competing interests
+[VERIFY: insert the authors' competing-interests declaration].
+
+4. Approval of all authors
+All authors have read and approved the manuscript for submission. The
+corresponding author is [VERIFY: insert name, degree and institutional
+affiliation].
+
+5. Originality and duplicate publication
+The content has not been published previously and is not under consideration
+for publication elsewhere. No part of the manuscript has been split from this
+work for separate submission. The analyses form part of a broader
+methodological programme; no salami publication is intended.
+
+Additional points for the editor
+- The primary analysis is designated explicitly in the Methods, with a
+  transparent statement that the designation was fixed after the initial
+  exploratory MR and before the reporting framework was applied.
+- Triangulation is partial and is described as such: cross-context comparisons,
+  negative-control endpoints, a technical positive control and simulation
+  validation are presented, while colocalisation and reverse MR are not counted
+  as independent approaches.
+- A table anticipating eight likely reviewer concerns is supplied as
+  Supplementary Material, in view of the journal's transparent peer-review
+  policy.
+
+Thank you for considering this submission.
+
+Sincerely,
+[VERIFY: corresponding author name and signature]
+[VERIFY: institution, address, email]

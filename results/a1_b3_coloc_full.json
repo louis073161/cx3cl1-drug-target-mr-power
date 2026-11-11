@@ -1,0 +1,159 @@
+{
+ "method": "Wakefield ABF region-wide coloc, single causal variant, priors p1=p2=1e-4, p12=1e-5",
+ "exposure": "Fenland CX3CL1 pQTL (GCST90012074, n=21,758 European, GRCh38)",
+ "region": "chr16:57200000-57600000",
+ "W_main": 0.04000000000000001,
+ "results": [
+  {
+   "release": "R13",
+   "endpoint": "DM_NEUROPATHY",
+   "n_fenland_region": 2010,
+   "n_finngen_region": 3140,
+   "n_shared": 1744,
+   "merge_stats": {
+    "fen_in_region": 2010,
+    "fg_in_region": 3140,
+    "pos_matched": 1746,
+    "allele_resolved": 1744,
+    "ambiguous_skipped": 2,
+    "multi_allelic_positions": 15,
+    "shared": 1744
+   },
+   "coloc_W_0.04": {
+    "n_snp": 1744,
+    "PP.H0": 1.4255083192461553e-63,
+    "PP.H1": 0.9679940395290773,
+    "PP.H2": 1.263701884014517e-67,
+    "PP.H3": 8.58428272671495e-05,
+    "PP.H4": 0.0319201176436549,
+    "logS1": 161.35008002046087,
+    "logS2": 7.3434535557486535,
+    "logS4": 160.24067564186157,
+    "p1": 0.0001,
+    "p2": 0.0001,
+    "p12": 1e-05
+   },
+   "sensitivity_prior_W": [
+    {
+     "W": 0.010000000000000002,
+     "PP.H3": 9.417695610809676e-05,
+     "PP.H4": 0.05848766823999267
+    },
+    {
+     "W": 0.04000000000000001,
+     "PP.H3": 8.58428272671495e-05,
+     "PP.H4": 0.0319201176436549
+    },
+    {
+     "W": 0.16000000000000003,
+     "PP.H3": 6.864917889968487e-05,
+     "PP.H4": 0.01646937152851102
+    }
+   ],
+   "sensitivity_p12": [
+    {
+     "p12": 1e-05,
+     "PP.H4": 0.0319201176436549
+    },
+    {
+     "p12": 5e-06,
+     "PP.H4": 0.016218913637508083
+    },
+    {
+     "p12": 2e-05,
+     "PP.H4": 0.06186548182923955
+    }
+   ],
+   "top_exposure_variant": {
+    "rsid": "rs683544",
+    "pos": 57374866,
+    "z": -18.144144144144143,
+    "pval": 2.809e-73
+   },
+   "top_outcome_variant": {
+    "rsid": "rs72786892",
+    "pos": 57381927,
+    "z": 3.924145711665621,
+    "pval": 8.70382e-05
+   },
+   "n_outcome_p_below_1e5": 0,
+   "n_exposure_p_below_5e8": 297
+  },
+  {
+   "release": "R13",
+   "endpoint": "G6_POLYOTHUNS",
+   "n_fenland_region": 2010,
+   "n_finngen_region": 3145,
+   "n_shared": 1745,
+   "merge_stats": {
+    "fen_in_region": 2010,
+    "fg_in_region": 3145,
+    "pos_matched": 1747,
+    "allele_resolved": 1745,
+    "ambiguous_skipped": 2,
+    "multi_allelic_positions": 15,
+    "shared": 1745
+   },
+   "coloc_W_0.04": {
+    "n_snp": 1745,
+    "PP.H0": 1.4479362757771762e-63,
+    "PP.H1": 0.9826603325339637,
+    "PP.H2": 1.0229149791708019e-67,
+    "PP.H3": 6.94513266854133e-05,
+    "PP.H4": 0.01727021613934983,
+    "logS1": 161.35008002046087,
+    "logS2": 7.117026924283346,
+    "logS4": 159.6113850020827,
+    "p1": 0.0001,
+    "p2": 0.0001,
+    "p12": 1e-05
+   },
+   "sensitivity_prior_W": [
+    {
+     "W": 0.010000000000000002,
+     "PP.H3": 9.51467193916029e-05,
+     "PP.H4": 0.03314013125416182
+    },
+    {
+     "W": 0.04000000000000001,
+     "PP.H3": 6.94513266854133e-05,
+     "PP.H4": 0.01727021613934983
+    },
+    {
+     "W": 0.16000000000000003,
+     "PP.H3": 4.292820283832268e-05,
+     "PP.H4": 0.00876595280278087
+    }
+   ],
+   "sensitivity_p12": [
+    {
+     "p12": 1e-05,
+     "PP.H4": 0.01727021613934983
+    },
+    {
+     "p12": 5e-06,
+     "PP.H4": 0.008710322647053854
+    },
+    {
+     "p12": 2e-05,
+     "PP.H4": 0.03395403869169014
+    }
+   ],
+   "top_exposure_variant": {
+    "rsid": "rs683544",
+    "pos": 57374866,
+    "z": -18.144144144144143,
+    "pval": 2.809e-73
+   },
+   "top_outcome_variant": {
+    "rsid": "rs72622275",
+    "pos": 57570091,
+    "z": 3.5271280601608805,
+    "pval": 0.000420088
+   },
+   "n_outcome_p_below_1e5": 0,
+   "n_exposure_p_below_5e8": 297
+  }
+ ],
+ "note": "This is a true region-wide coloc using all variants shared between the two studies, replacing the credible-set-level approximation used in the main analysis. Exposure and outcome are independent cohorts from different countries (UK, Finland)."
+}

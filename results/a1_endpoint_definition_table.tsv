@@ -1,0 +1,17 @@
+﻿来源类别	release	端点	病例数	对照数	说明	出处
+官方 manifest	R9	DM_NEUROPATHY	2843	271817	糖尿病神经病变；对照未限定糖尿病人群	finngen-public-data-r9/summary_stats/R9_manifest.tsv
+官方 manifest	R9	DM_POLYNEURO	1048	374434	糖尿病多发性神经病（文献常用作痛性 DPN 代理）	finngen-public-data-r9/summary_stats/R9_manifest.tsv
+官方 manifest	R9	G6_POLYOTHUNS	5553	370790	其他/未特指多发性神经病	finngen-public-data-r9/summary_stats/R9_manifest.tsv
+官方 manifest	R10	G6_POLYOTHUNS	6027	405136	同一端点延续	finngen-public-data-r10/summary_stats/R10_manifest.tsv
+端点缺失	R10	DM_NEUROPATHY	—	—	R10 的 2409 个端点中，DM_ 前缀仅 DM_NEOVASCULAR_GLAUCOMA；糖尿病神经并发症端点组整体不可得	finngen-public-data-r10/summary_stats/R10_manifest.tsv
+官方 manifest	R12	DM_NEUROPATHY	3862	92612	对照数较 R9 骤降，提示对照定义改为 DIABETES_FG 限定	finngen-public-data-r12/summary_stats/finngen_R12_manifest.tsv
+官方 manifest	R12	G6_POLYOTHUNS	7512	491583	同一端点延续	finngen-public-data-r12/summary_stats/finngen_R12_manifest.tsv
+官方 manifest	R12	DM_RETINOPATHY_STRICT	6833	82271	严格定义变体；同 release 另有宽泛与 EXMORE 变体	finngen-public-data-r12/summary_stats/finngen_R12_manifest.tsv
+R13 专属端点页	R13	DM_NEUROPATHY	4145	未公开	基因型质控后 4145 例（女 1452/男 2693）；表型数据 519972；ICD-10 E1[0-4]4 等；对照排除 DIABETES_FG；首次见于 DF2	r13.risteys.finngen.fi/endpoints/DM_NEUROPATHY
+通用端点页	未明示	DM_NEUROPATHY	4412	未公开	基因型质控后 4412 例（女 1536/男 2876）；与 R13 专属页数字不一致	risteys.finregistry.fi/endpoints/DM_NEUROPATHY
+无 manifest	R11	DM_NEUROPATHY / G6_POLYOTHUNS	未公开	未公开	R11 公开桶无 manifest，病例/对照数未取得；效能分析不使用病例数	finngen-public-data-r11 公开桶
+无 manifest	R13	其余 6 个端点	未公开	未公开	R13 公开桶无 manifest；效能分析一律使用实测 SE	finngen-public-data-r13 公开桶
+文献口径示例	R9	DN（写作 DM_NEUROPATHY）	271817	2843	已发表文献把 case/control 写反	Diabetol Metab Syndr 2025, PMC11998185
+文献口径示例	R9	diabetic neuropathy	1048	374434	把 DM_POLYNEURO 的病例数当作糖尿病神经病变	Front Immunol 2024, PMC11390399
+文献口径示例	R12	Diabetic neuropathy	1415	162201	补充表给出的第三套数字	Springer 2026 补充材料 40520_2026_3342_MOESM13_ESM.docx
+文献口径示例	R9/R12	DN	2843 / 3862	389580 / 92612	不同论文使用不同 release 与不同对照数	Front Immunol 2026 / PMC12691660

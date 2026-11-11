@@ -1,0 +1,29 @@
+{
+ "source": "GWAS Catalog GCST90012074, Fenland cohort (Pietzner et al., Nat Commun 2021; PMID 33067605)",
+ "trait": "CX3CL1 (Fractalkine) levels, plasma",
+ "ancestry": "European (Fenland, United Kingdom)",
+ "n_samples": 21758,
+ "genome_assembly": "GRCh38, 1-based",
+ "file_url": "https://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90012001-GCST90013000/GCST90012074/harmonised/33067605-GCST90012074-EFO_0009419.h.tsv.gz",
+ "file_bytes": 501219328,
+ "file_md5": "5fc5955f2815e2b8df16b34c69bee914",
+ "file_partial_by_design": true,
+ "file_md5_matches_catalog": false,
+ "is_sorted_upstream": false,
+ "sorted_by_chromosome": true,
+ "partial_rationale": "File is a plain gzip sorted by chromosome and cannot be indexed (no BGZF FEXTRA). Only blocks covering chr1-chr16 were downloaded; tail chromosomes are not needed for the CX3CL1 region.",
+ "region": "chr16:57200000-57600000",
+ "stream_stats": {
+  "total_rows": 11102695,
+  "chr16_rows": 403141,
+  "region_rows": 2010,
+  "beta_na": 0,
+  "se_na": 0,
+  "kept": 2010,
+  "stopped_at_chrom": "17",
+  "truncated": false
+ },
+ "n_variants_in_region": 2010,
+ "why_not_ukbppp": "Synapse syn51364943 returns HTTP 403 GEO_RESTRICTION from this region (NIH NOT-OD-25-083); a PAT would not help. EBI FTP is not geo-restricted.",
+ "fetched": "2026-11-11"
+}

@@ -1,0 +1,119 @@
+{
+  "method": "PIP-based colocalisation (CLPP), prior-independent",
+  "prior_W_for_DPN_ABF": 0.04000000000000001,
+  "n_FinnGen_region_variants": 3140,
+  "note": "Open Targets locus.logBF 用其自身精细定位先验；与 DPN 侧 Wakefield ABF 的先验强度不完全一致，故 ABF 版本仅作敏感性分析",
+  "credible_sets": [
+    {
+      "studyLocusId": "105c82670c90ca735dd8eaca4df8364c",
+      "lead_pos": 57379748,
+      "cs_index": 2,
+      "n_cs_variants": 1,
+      "variants": [
+        {
+          "variant": "16_57379748_C_T",
+          "pos": 57379748,
+          "PIP_pQTL": 1,
+          "beta_pQTL": 0.13660051070809745,
+          "logBF_pQTL": 323.6319920405631,
+          "in_FinnGen": true,
+          "PIP_DPN": 0.00021087731997590696,
+          "logABF_DPN": -0.4768605605342053,
+          "pval_DPN": 0.764107
+        }
+      ],
+      "CLPP": 0.00021087731997590696,
+      "sum_PIP_DPN_over_CS": 0.00021087731997590696,
+      "max_PIP_DPN_in_CS": 0.00021087731997590696
+    },
+    {
+      "studyLocusId": "96cd06ea1449715fd7741da171fc5341",
+      "lead_pos": 57374992,
+      "cs_index": 3,
+      "n_cs_variants": 3,
+      "variants": [
+        {
+          "variant": "16_57374992_T_C",
+          "pos": 57374992,
+          "PIP_pQTL": 0.5151327954112225,
+          "beta_pQTL": -0.06526534523675329,
+          "logBF_pQTL": 72.49612635505429,
+          "in_FinnGen": true,
+          "PIP_DPN": 0.00014512158394310408,
+          "logABF_DPN": -0.8505652019839322,
+          "pval_DPN": 0.411606
+        },
+        {
+          "variant": "16_57373734_C_T",
+          "pos": 57373734,
+          "PIP_pQTL": 0.34584769533327825,
+          "beta_pQTL": -0.0650917641039185,
+          "logBF_pQTL": 72.09770012371105,
+          "in_FinnGen": true,
+          "PIP_DPN": 0.00014679890502937708,
+          "logABF_DPN": -0.8390734457792238,
+          "pval_DPN": 0.401998
+        },
+        {
+          "variant": "16_57381313_C_T",
+          "pos": 57381313,
+          "PIP_pQTL": 0.13901950738430086,
+          "beta_pQTL": -0.06469295297421915,
+          "logBF_pQTL": 71.18631589664014,
+          "in_FinnGen": true,
+          "PIP_DPN": 0.00014329207188448482,
+          "logABF_DPN": -0.8632520950004221,
+          "pval_DPN": 0.422205
+        }
+      ],
+      "CLPP": 0.00014544734343843133,
+      "sum_PIP_DPN_over_CS": 0.000435212560856966,
+      "max_PIP_DPN_in_CS": 0.00014679890502937708
+    },
+    {
+      "studyLocusId": "e4083b0d7c6524ad5ae57f28fc0b1d2d",
+      "lead_pos": 57375150,
+      "cs_index": 1,
+      "n_cs_variants": 1,
+      "variants": [
+        {
+          "variant": "16_57375150_AAAG_A",
+          "pos": 57375150,
+          "PIP_pQTL": 1,
+          "beta_pQTL": -0.16575159021097435,
+          "logBF_pQTL": 477.60211678899367,
+          "in_FinnGen": false,
+          "PIP_DPN": null,
+          "logABF_DPN": null,
+          "pval_DPN": null
+        }
+      ],
+      "CLPP": 0,
+      "sum_PIP_DPN_over_CS": 0,
+      "max_PIP_DPN_in_CS": 0
+    }
+  ],
+  "CLPP_all_three_cis_CS": 0.0003563246634143383,
+  "sum_PIP_DPN_all_CS_variants": 0.000646089880832873,
+  "abf_coloc_over_CS_variants": {
+    "n_snp": 4,
+    "PP.H0": 1.057547514658466e-136,
+    "PP.H1": 0.9415170914021135,
+    "PP.H2": 5.0281132756341785e-141,
+    "PP.H3": 4.020504856884835e-05,
+    "PP.H4": 0.05844270354930968,
+    "logS1": 323.6319920405631,
+    "logS2": 0.6428015255166464,
+    "logS4": 323.1551314800289,
+    "p1": 0.0001,
+    "p2": 0.0001,
+    "p12": 1e-05
+  },
+  "abf_coloc_n_variants": 4,
+  "abf_coloc_variants": [
+    "16_57379748_C_T",
+    "16_57374992_T_C",
+    "16_57373734_C_T",
+    "16_57381313_C_T"
+  ]
+}

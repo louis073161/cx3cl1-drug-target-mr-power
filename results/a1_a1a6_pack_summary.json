@@ -1,0 +1,43 @@
+{
+  "generated": "2026-11-10",
+  "scope": "A1 triangulation text; A2 decision classes; A3 self-assessment; A6 reviewer anticipation and cover letter",
+  "no_new_empirical_analysis": true,
+  "a2": {
+    "n_combinations": 19,
+    "bonferroni_threshold": 0.00037593984962406017,
+    "decision_class_counts": {
+      "III": 15,
+      "IV": 4
+    },
+    "all_power_limited": true,
+    "n_direction_inconsistent": 4,
+    "power_range": [
+      0.054461,
+      0.101026
+    ],
+    "mde_range": [
+      5.6072,
+      318.5693
+    ],
+    "mde_formula": "exp((z_{1-alpha/2}+z_{power}) * SE_Wald)",
+    "class_rule": "I if P<Bonferroni; II if power>=0.8 and upper CI OR<1.5; IV if direction inconsistent within endpoint; else III"
+  },
+  "a3": {
+    "n_items": 15,
+    "total_score": "NOT SUMMED",
+    "reason": "Table 1 body not retrievable (publisher anti-bot); SNP reporting points and correction sub-tiers unstated",
+    "n_not_scored": 1
+  },
+  "a6": {
+    "n_anticipated_comments": 8,
+    "cover_letter_items": 5,
+    "cover_letter_verifies": 8
+  },
+  "outputs": [
+    "a1_a2_decision_classes.tsv",
+    "a1_a3_self_assessment.tsv",
+    "a1_a6_reviewer_anticipation.tsv",
+    "a1_a6_cover_letter.txt",
+    "a1_a1a6_pack_summary.json"
+  ]
+}

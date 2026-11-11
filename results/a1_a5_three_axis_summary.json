@@ -1,0 +1,46 @@
+{
+  "generated_on": "2026-11-11",
+  "n_instrument_sets": 4,
+  "n_combinations": 19,
+  "n_estimates": 76,
+  "axes": {
+    "release": {
+      "n_groups": 20,
+      "median_beta_spread": 0.07725096074378653,
+      "max_beta_spread": 0.7696449995319661,
+      "n_sign_flips_in_listed_order": 9,
+      "n_estimates": 76
+    },
+    "endpoint": {
+      "n_groups": 16,
+      "median_beta_spread": 0.13444956926267299,
+      "max_beta_spread": 2.0510757869618383,
+      "n_sign_flips_in_listed_order": 23,
+      "n_estimates": 76
+    },
+    "instrument": {
+      "n_groups": 19,
+      "median_beta_spread": 0.6493440602727549,
+      "max_beta_spread": 1.795124567121189,
+      "n_sign_flips_in_listed_order": 19,
+      "n_estimates": 76
+    }
+  },
+  "instrument_axis": {
+    "n_combinations_with_direction_inconsistency": 13,
+    "max_or_ratio_within_combination": 6.020224597148352,
+    "n_estimates_below_bonferroni": 0,
+    "power_OR_1.5_range": [
+      0.054461204834742344,
+      1.0
+    ],
+    "mde_OR_range": [
+      1.0553489754910923,
+      318.569332336
+    ]
+  },
+  "formula": "Wald ratio for a single instrument; IVW with intercept fixed to zero for >=2 instruments (weights 1/se_out^2). Power and MDE derived from each observed SE.",
+  "caveats": "The four instrument sets are nested and NOT independent; 76 estimates are a sensitivity grid, not 76 independent tests. S2 contains two cis variants in LD (r2=0.1002). No P-value selection is applied.",
+  "critical_caveat_apparent_power": "S3/S4 reach ~100% power for OR=1.5 and MDE OR ~1.06-1.21, but this is FALSE PRECISION. Their small IVW SEs rely on the assumption that all 7-8 instruments are valid; the trans pQTL instruments have documented horizontal pleiotropy (coloc H4 up to 1.0, CLPP evidence in a1_pip_coloc.json) and were explicitly excluded from the primary cis-only analysis. Adding pleiotropic instruments shrinks SE without adding valid information. The manuscript MUST NOT claim that the power problem is solved by using more instruments, MUST NOT treat S3/S4 as adequately powered null results, and MUST NOT interpret the single nominal P=0.0492 (R9 DM_RETINOPATHY_EXMORE, S4) as a positive finding: it is a negative-control endpoint, below Bonferroni after correction (0 of 76), and driven by the invalid instrument set.",
+  "primary_instrument_set": "S1_lead_cis (single cis lead variant, Wald ratio) remains the pre-specified primary analysis. Its OR=1.5 power is 5.45%-10.10% and MDE OR 5.61-318.57; S2 is a cis-only sensitivity set with two correlated variants."
+}

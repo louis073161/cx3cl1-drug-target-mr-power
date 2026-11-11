@@ -1,0 +1,437 @@
+{
+  "primary_DM_NEUROPATHY_across_R9_R11_R12_R13": {
+    "label": "primary_DM_NEUROPATHY_across_R9_R11_R12_R13",
+    "n": 4,
+    "beta_min": -0.36910330524123874,
+    "beta_max": 0.40054169429072733,
+    "beta_range": 0.7696449995319661,
+    "or_min": 0.6913539862707929,
+    "or_max": 1.492633029477353,
+    "or_ratio_max_over_min": 2.1589996718305047,
+    "p_min": 0.725031622388929,
+    "p_max": 0.9874130083952507,
+    "n_nominal_p_lt_0.05": 0,
+    "expected_nominal_at_0.05": 0.2,
+    "n_sign_flips_in_listed_order": 1,
+    "n_positive": 2,
+    "n_negative": 2,
+    "conclusion_classes": {
+      "negative_and_nonsignificant": 4,
+      "nominally_significant": 0
+    },
+    "values": [
+      {
+        "release": "R9",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": -0.020530230710431432,
+        "or": 0.979679079632279,
+        "p": 0.9874130083952507,
+        "se": 1.3013494538089043
+      },
+      {
+        "release": "R11",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": -0.36910330524123874,
+        "or": 0.6913539862707929,
+        "p": 0.7589990005910214,
+        "se": 1.203092134488323
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": 0.40054169429072733,
+        "or": 1.492633029477353,
+        "p": 0.725031622388929,
+        "se": 1.1387365917862498
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": 0.33228938724099,
+        "or": 1.3941562411694985,
+        "p": 0.7641060510973576,
+        "se": 1.1072872218114906
+      }
+    ]
+  },
+  "broad_G6_POLYOTHUNS_across_R9_to_R13": {
+    "label": "broad_G6_POLYOTHUNS_across_R9_to_R13",
+    "n": 5,
+    "beta_min": -0.4802083071283242,
+    "beta_max": -0.04880472236481036,
+    "beta_range": 0.4314035847635138,
+    "or_min": 0.6186545082388879,
+    "or_max": 0.9523670875338969,
+    "or_ratio_max_over_min": 1.53941670973187,
+    "p_min": 0.5728524387312525,
+    "p_max": 0.9582565041684521,
+    "n_nominal_p_lt_0.05": 0,
+    "expected_nominal_at_0.05": 0.25,
+    "n_sign_flips_in_listed_order": 0,
+    "n_positive": 0,
+    "n_negative": 5,
+    "conclusion_classes": {
+      "negative_and_nonsignificant": 5,
+      "nominally_significant": 0
+    },
+    "values": [
+      {
+        "release": "R9",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.04880472236481036,
+        "or": 0.9523670875338969,
+        "p": 0.9582565041684521,
+        "se": 0.9324269678037868
+      },
+      {
+        "release": "R10",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.23731097220618508,
+        "or": 0.7887459718013534,
+        "p": 0.7915163250631333,
+        "se": 0.8977418851826487
+      },
+      {
+        "release": "R11",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.4802083071283242,
+        "or": 0.6186545082388879,
+        "p": 0.5728524387312525,
+        "se": 0.8516512815138677
+      },
+      {
+        "release": "R12",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.1506765962536032,
+        "or": 0.8601258215968585,
+        "p": 0.8516781545642993,
+        "se": 0.805853502518967
+      },
+      {
+        "release": "R13",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.2956123647757804,
+        "or": 0.7440758021149794,
+        "p": 0.7044297101730952,
+        "se": 0.7792650221306233
+      }
+    ]
+  },
+  "negative_control_microvascular_all": {
+    "label": "negative_control_microvascular_all",
+    "n": 9,
+    "beta_min": 0.38486898568296163,
+    "beta_max": 1.323179533246691,
+    "beta_range": 0.9383105475637292,
+    "or_min": 1.4694217935367422,
+    "or_max": 3.7553426519877977,
+    "or_ratio_max_over_min": 2.5556601028415993,
+    "p_min": 0.14118571802710836,
+    "p_max": 0.5734337304305219,
+    "n_nominal_p_lt_0.05": 0,
+    "expected_nominal_at_0.05": 0.45,
+    "n_sign_flips_in_listed_order": 0,
+    "n_positive": 9,
+    "n_negative": 0,
+    "conclusion_classes": {
+      "negative_and_nonsignificant": 9,
+      "nominally_significant": 0
+    },
+    "values": [
+      {
+        "release": "R9",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 0.6179889047442328,
+        "or": 1.8551933171828576,
+        "p": 0.5734337304305219,
+        "se": 1.0976679312745181
+      },
+      {
+        "release": "R9",
+        "endpoint": "DM_RETINOPATHY_EXMORE",
+        "beta": 1.0018703392145327,
+        "or": 2.7233706950288394,
+        "p": 0.1498172923521213,
+        "se": 0.6956577212442805
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 1.0013286135678539,
+        "or": 2.7218957748150516,
+        "p": 0.31775609673837957,
+        "se": 1.0022510112905774
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_RETINOPATHY_STRICT",
+        "beta": 1.323179533246691,
+        "or": 3.7553426519877977,
+        "p": 0.14118571802710836,
+        "se": 0.899271894103674
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEPHROPATHY",
+        "beta": 0.7633500011052214,
+        "or": 2.1454514600185686,
+        "p": 0.41354647108071774,
+        "se": 0.9335689840319205
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 0.7230595221643272,
+        "or": 2.060728419842402,
+        "p": 0.44800552189967124,
+        "se": 0.9529686186764994
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY",
+        "beta": 0.5473471483556311,
+        "or": 1.7286610483488276,
+        "p": 0.37376796759654785,
+        "se": 0.6153856933934357
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_EXMORE",
+        "beta": 0.38486898568296163,
+        "or": 1.4694217935367422,
+        "p": 0.5441200716694952,
+        "se": 0.6344749338837016
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_STRICT",
+        "beta": 1.1015258963528929,
+        "or": 3.008753569094942,
+        "p": 0.20995509031098603,
+        "se": 0.8786277545951031
+      }
+    ]
+  },
+  "R13_strictness_axis_retinopathy": {
+    "label": "R13_strictness_axis_retinopathy",
+    "n": 3,
+    "beta_min": 0.38486898568296163,
+    "beta_max": 1.1015258963528929,
+    "beta_range": 0.7166569106699312,
+    "or_min": 1.4694217935367422,
+    "or_max": 3.008753569094942,
+    "or_ratio_max_over_min": 2.04757652454112,
+    "p_min": 0.20995509031098603,
+    "p_max": 0.5441200716694952,
+    "n_nominal_p_lt_0.05": 0,
+    "expected_nominal_at_0.05": 0.15000000000000002,
+    "n_sign_flips_in_listed_order": 0,
+    "n_positive": 3,
+    "n_negative": 0,
+    "conclusion_classes": {
+      "negative_and_nonsignificant": 3,
+      "nominally_significant": 0
+    },
+    "values": [
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY",
+        "beta": 0.5473471483556311,
+        "or": 1.7286610483488276,
+        "p": 0.37376796759654785,
+        "se": 0.6153856933934357
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_EXMORE",
+        "beta": 0.38486898568296163,
+        "or": 1.4694217935367422,
+        "p": 0.5441200716694952,
+        "se": 0.6344749338837016
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_STRICT",
+        "beta": 1.1015258963528929,
+        "or": 3.008753569094942,
+        "p": 0.20995509031098603,
+        "se": 0.8786277545951031
+      }
+    ]
+  },
+  "all_19_combos": {
+    "label": "all_19_combos",
+    "n": 19,
+    "beta_min": -1.0492054477473056,
+    "beta_max": 1.323179533246691,
+    "beta_range": 2.3723849809939965,
+    "or_min": 0.3502159034274502,
+    "or_max": 3.7553426519877977,
+    "or_ratio_max_over_min": 10.722935809697589,
+    "p_min": 0.14118571802710836,
+    "p_max": 0.9874130083952507,
+    "n_nominal_p_lt_0.05": 0,
+    "expected_nominal_at_0.05": 0.9500000000000001,
+    "n_sign_flips_in_listed_order": 7,
+    "n_positive": 11,
+    "n_negative": 8,
+    "conclusion_classes": {
+      "negative_and_nonsignificant": 19,
+      "nominally_significant": 0
+    },
+    "values": [
+      {
+        "release": "R9",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 0.6179889047442328,
+        "or": 1.8551933171828576,
+        "p": 0.5734337304305219,
+        "se": 1.0976679312745181
+      },
+      {
+        "release": "R9",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": -0.020530230710431432,
+        "or": 0.979679079632279,
+        "p": 0.9874130083952507,
+        "se": 1.3013494538089043
+      },
+      {
+        "release": "R9",
+        "endpoint": "DM_POLYNEURO",
+        "beta": -1.0492054477473056,
+        "or": 0.3502159034274502,
+        "p": 0.6100660451627116,
+        "se": 2.0573495555997265
+      },
+      {
+        "release": "R9",
+        "endpoint": "DM_RETINOPATHY_EXMORE",
+        "beta": 1.0018703392145327,
+        "or": 2.7233706950288394,
+        "p": 0.1498172923521213,
+        "se": 0.6956577212442805
+      },
+      {
+        "release": "R9",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.04880472236481036,
+        "or": 0.9523670875338969,
+        "p": 0.9582565041684521,
+        "se": 0.9324269678037868
+      },
+      {
+        "release": "R10",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.23731097220618508,
+        "or": 0.7887459718013534,
+        "p": 0.7915163250631333,
+        "se": 0.8977418851826487
+      },
+      {
+        "release": "R11",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": -0.36910330524123874,
+        "or": 0.6913539862707929,
+        "p": 0.7589990005910214,
+        "se": 1.203092134488323
+      },
+      {
+        "release": "R11",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.4802083071283242,
+        "or": 0.6186545082388879,
+        "p": 0.5728524387312525,
+        "se": 0.8516512815138677
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 1.0013286135678539,
+        "or": 2.7218957748150516,
+        "p": 0.31775609673837957,
+        "se": 1.0022510112905774
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": 0.40054169429072733,
+        "or": 1.492633029477353,
+        "p": 0.725031622388929,
+        "se": 1.1387365917862498
+      },
+      {
+        "release": "R12",
+        "endpoint": "DM_RETINOPATHY_STRICT",
+        "beta": 1.323179533246691,
+        "or": 3.7553426519877977,
+        "p": 0.14118571802710836,
+        "se": 0.899271894103674
+      },
+      {
+        "release": "R12",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.1506765962536032,
+        "or": 0.8601258215968585,
+        "p": 0.8516781545642993,
+        "se": 0.805853502518967
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEPHROPATHY",
+        "beta": 0.7633500011052214,
+        "or": 2.1454514600185686,
+        "p": 0.41354647108071774,
+        "se": 0.9335689840319205
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEPHROPATHY_EXMORE",
+        "beta": 0.7230595221643272,
+        "or": 2.060728419842402,
+        "p": 0.44800552189967124,
+        "se": 0.9529686186764994
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_NEUROPATHY",
+        "beta": 0.33228938724099,
+        "or": 1.3941562411694985,
+        "p": 0.7641060510973576,
+        "se": 1.1072872218114906
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY",
+        "beta": 0.5473471483556311,
+        "or": 1.7286610483488276,
+        "p": 0.37376796759654785,
+        "se": 0.6153856933934357
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_EXMORE",
+        "beta": 0.38486898568296163,
+        "or": 1.4694217935367422,
+        "p": 0.5441200716694952,
+        "se": 0.6344749338837016
+      },
+      {
+        "release": "R13",
+        "endpoint": "DM_RETINOPATHY_STRICT",
+        "beta": 1.1015258963528929,
+        "or": 3.008753569094942,
+        "p": 0.20995509031098603,
+        "se": 0.8786277545951031
+      },
+      {
+        "release": "R13",
+        "endpoint": "G6_POLYOTHUNS",
+        "beta": -0.2956123647757804,
+        "or": 0.7440758021149794,
+        "p": 0.7044297101730952,
+        "se": 0.7792650221306233
+      }
+    ]
+  }
+}

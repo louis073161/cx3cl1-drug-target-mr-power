@@ -1,0 +1,74 @@
+{
+  "data_sources": {
+    "exposure": "Open Targets Platform v26.9 / UKB-PPP UKB_PPP_EUR_CX3CL1_P78423_OID20976_v1 (9 credible sets)",
+    "outcome": "FinnGen DF13 (public release 2026-06-02), DM_NEUROPATHY, GCS finngen-public-data-r13",
+    "se_exposure_note": "derived as abs(beta)/abs(zScore); standardError not provided by source",
+    "ld_clumping": "NOT PERFORMED (no LD reference panel on this machine)"
+  },
+  "n_instruments_fetched": 8,
+  "n_cis": 2,
+  "n_cis_exact": 2,
+  "n_trans": 6,
+  "approx_matched_variants": [
+    "10_63389329_G_A"
+  ],
+  "excluded_instruments": [
+    {
+      "variant": "16_57375150_AAAG_A",
+      "reason": "not found in FinnGen R13 within +/-8 kb (indel representation / variant absent)"
+    }
+  ],
+  "primary_note": "Wald ratio uses the strongest EXACT-matched cis instrument; indel 16_57375150_AAAG_A (largest |z|) is absent from FinnGen R13 and cannot be used.",
+  "primary_wald_ratio_lead_cis": {
+    "variant": "16_57379748_C_T",
+    "rsids": "rs62037084",
+    "beta": 0.33228938724099,
+    "se": 1.1072872218114906,
+    "ci_lo": -1.8379935675095316,
+    "ci_hi": 2.5025723419915114,
+    "p": 0.7641060510973576,
+    "or": 1.3941562411694985
+  },
+  "exploratory": {
+    "IVW_cis_3snp": {
+      "n_snp": 2,
+      "beta": -0.04545147051766209,
+      "se": 0.8184236680470023,
+      "ci_lo": -1.6495618598897865,
+      "ci_hi": 1.5586589188544624,
+      "p": 0.9557119431845461,
+      "or": 0.9555659745688264,
+      "intercept": 0.0,
+      "Q": 0.7192259769407666,
+      "Q_df": 1,
+      "Q_p": 0.3963979201491069
+    },
+    "Egger_cis_3snp": null,
+    "IVW_all_including_trans": {
+      "n_snp": 8,
+      "beta": 0.0446774026373552,
+      "se": 0.04080844717748562,
+      "ci_lo": -0.03530715383051661,
+      "ci_hi": 0.12466195910522701,
+      "p": 0.2736008875878464,
+      "or": 1.0456904685035722,
+      "intercept": 0.0,
+      "Q": 3.044575126435349,
+      "Q_df": 7,
+      "Q_p": 0.8808482607109145
+    },
+    "Egger_all": {
+      "n_snp": 8,
+      "beta": 0.0446774026373552,
+      "se": 0.025813179418479364,
+      "ci_lo": -0.00591642902286435,
+      "ci_hi": 0.09527123429757475,
+      "p": 0.0834877757545962,
+      "or": 1.0456904685035722,
+      "intercept": 0.009944830630114632,
+      "Q": 3.044575126435349,
+      "Q_df": 7,
+      "Q_p": 0.8808482607109145
+    }
+  }
+}

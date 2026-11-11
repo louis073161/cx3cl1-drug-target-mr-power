@@ -1,0 +1,56 @@
+{
+  "generated": "2026-11-11",
+  "analysis": "A1 drug-target MR power / phenotype-heterogeneity methodological paper",
+  "data_sources": {
+    "exposure": "Open Targets Platform v26.9; UKB-PPP UKB_PPP_EUR_CX3CL1_P78423_OID20976_v1; 9 SuSiE 95% credible sets; nSamples=33,436",
+    "outcome": "FinnGen public summary statistics R9, R10, R11, R12, R13 (DF13); 19 (release, endpoint) combinations",
+    "ld_reference": "1000 Genomes phase 3 EUR via Ensembl REST (GRCh38)",
+    "coloc": "Open Targets precomputed coloc (COLOC_PIP_ECAVIAR); ABF coloc on FinnGen R13 chr16:57.2-57.6 Mb",
+    "sample_overlap": "None (UKB-PPP United Kingdom vs FinnGen Finland)"
+  },
+  "versions_explicitly_not_assumed": [
+    "FinnGen R11 / R13 have no public manifest; case counts not imputed.",
+    "Release public dates are NOT recorded here; cite primary FinnGen / UKB-PPP publications instead of guessing.",
+    "OT 26.9 and FinnGen R9-R13 identifiers come from the fetched files, not from a guessed version list."
+  ],
+  "parameters": {
+    "clumping_r2_threshold": 0.001,
+    "clumping_unknown_pair_fill": 0.0,
+    "coloc_prior_variance_W": 0.04,
+    "coloc_p1": 0.0001,
+    "coloc_p2": 0.0001,
+    "coloc_p12": 1e-05,
+    "coloc_p12_sensitivity": [
+      1e-06,
+      0.0001
+    ],
+    "weighted_median_bootstrap": 2000,
+    "a18_ivw_bootstrap": 5000,
+    "simulation_replicates_per_point": 20000,
+    "random_seed": 20261110,
+    "alpha_two_sided": 0.05,
+    "ci_z": 1.959964,
+    "power_target": 0.8
+  },
+  "environment": {
+    "python": "3.13.14",
+    "os": "Windows-11-10.0.26300-SP0",
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "matplotlib": "3.11.2",
+    "pandas": "3.1.0",
+    "pyarrow": "26.0.1"
+  },
+  "n_files_in_checksum_manifest": 147,
+  "api_log": "results/a1_fetch_log.json: 133 region requests, 0 errors, 113 s; results/a1_positive_control.json: 49 requests, 0 errors",
+  "registration": {
+    "type": "retrospective (NOT prospective preregistration)",
+    "osf_status": "public and archived 11 November 2026 as a Secondary Data Preregistration (osf.io/apwe2) under project osf.io/pmhve; DOI 10.17605/OSF.IO/APWE2",
+    "disclosure": "exploratory MR, LD clumping and coloc were completed before registration and are disclosed"
+  },
+  "hosting": {
+    "github": "https://github.com/louis073161/cx3cl1-drug-target-mr-power",
+    "zenodo_doi": "pending Zenodo Publish",
+    "osf_doi": "10.17605/OSF.IO/APWE2"
+  }
+}
