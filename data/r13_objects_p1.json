@@ -1,0 +1,4005 @@
+{
+  "nextPageToken": "ClFmaW5lbWFwL2Z1bGwvZmluZW1hcC9maW5uZ2VuX1IxM19DRDJfQkVOSUdOX01FTEFOT0NZVElDX1VQUEVSTElNQi5GSU5FTUFQLnNucC5iZ3o=",
+  "items": [
+    {
+      "name": "annotations/finngen_R13_annotated_variants_v0.gz",
+      "size": "29768495399"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS.FINEMAP.config.bgz",
+      "size": "5163408"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS.FINEMAP.region.bgz",
+      "size": "273"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS.FINEMAP.snp.bgz",
+      "size": "2288101"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "4309"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS_WIDE.FINEMAP.config.bgz",
+      "size": "5335672"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS_WIDE.FINEMAP.region.bgz",
+      "size": "279"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS_WIDE.FINEMAP.snp.bgz",
+      "size": "2319459"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACTINF_NOS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4330"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.FINEMAP.config.bgz",
+      "size": "2357502"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.FINEMAP.snp.bgz",
+      "size": "1355379"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1902"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.FINEMAP.config.bgz",
+      "size": "1986146"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.FINEMAP.snp.bgz",
+      "size": "1004281"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2357"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS.FINEMAP.config.bgz",
+      "size": "2263308"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS.FINEMAP.region.bgz",
+      "size": "229"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS.FINEMAP.snp.bgz",
+      "size": "2033057"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS.FINEMAP.snp.bgz.tbi",
+      "size": "2953"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.FINEMAP.config.bgz",
+      "size": "9611354"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.FINEMAP.region.bgz",
+      "size": "358"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.FINEMAP.snp.bgz",
+      "size": "3922535"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "8787"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_EBV.FINEMAP.config.bgz",
+      "size": "2365353"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_EBV.FINEMAP.region.bgz",
+      "size": "211"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_EBV.FINEMAP.snp.bgz",
+      "size": "1469756"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_EBV.FINEMAP.snp.bgz.tbi",
+      "size": "1791"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS.FINEMAP.config.bgz",
+      "size": "1605976"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS.FINEMAP.region.bgz",
+      "size": "251"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS.FINEMAP.snp.bgz",
+      "size": "2549299"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS.FINEMAP.snp.bgz.tbi",
+      "size": "4726"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS_WIDE.FINEMAP.config.bgz",
+      "size": "1194440"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS_WIDE.FINEMAP.region.bgz",
+      "size": "230"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS_WIDE.FINEMAP.snp.bgz",
+      "size": "1516699"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ENTEROBIASIS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2611"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS.FINEMAP.config.bgz",
+      "size": "20486056"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS.FINEMAP.region.bgz",
+      "size": "531"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS.FINEMAP.snp.bgz",
+      "size": "10360604"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS.FINEMAP.snp.bgz.tbi",
+      "size": "18266"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS_WIDE.FINEMAP.config.bgz",
+      "size": "25266637"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS_WIDE.FINEMAP.region.bgz",
+      "size": "599"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS_WIDE.FINEMAP.snp.bgz",
+      "size": "13109489"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ERYSIPELAS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "23303"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS.FINEMAP.config.bgz",
+      "size": "2346828"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS.FINEMAP.snp.bgz",
+      "size": "1182822"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "1885"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.FINEMAP.config.bgz",
+      "size": "9438284"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.FINEMAP.region.bgz",
+      "size": "361"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.FINEMAP.snp.bgz",
+      "size": "4560346"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "7993"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GONOCOCCAL_WIDE.FINEMAP.config.bgz",
+      "size": "2177854"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GONOCOCCAL_WIDE.FINEMAP.region.bgz",
+      "size": "220"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GONOCOCCAL_WIDE.FINEMAP.snp.bgz",
+      "size": "872517"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_GONOCOCCAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1742"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.FINEMAP.config.bgz",
+      "size": "4828150"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.FINEMAP.region.bgz",
+      "size": "275"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.FINEMAP.snp.bgz",
+      "size": "2628534"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4351"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INFECT_PARASIT_WIDE.FINEMAP.config.bgz",
+      "size": "18596308"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INFECT_PARASIT_WIDE.FINEMAP.region.bgz",
+      "size": "502"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INFECT_PARASIT_WIDE.FINEMAP.snp.bgz",
+      "size": "9361218"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INFECT_PARASIT_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "17630"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS.FINEMAP.config.bgz",
+      "size": "6252740"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS.FINEMAP.region.bgz",
+      "size": "316"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS.FINEMAP.snp.bgz",
+      "size": "3357588"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS.FINEMAP.snp.bgz.tbi",
+      "size": "5396"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.FINEMAP.config.bgz",
+      "size": "14411076"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.FINEMAP.region.bgz",
+      "size": "435"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.FINEMAP.snp.bgz",
+      "size": "7826865"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "12395"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_LYME.FINEMAP.config.bgz",
+      "size": "4697230"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_LYME.FINEMAP.region.bgz",
+      "size": "255"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_LYME.FINEMAP.snp.bgz",
+      "size": "2261765"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_LYME.FINEMAP.snp.bgz.tbi",
+      "size": "3912"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MALARIA.FINEMAP.config.bgz",
+      "size": "2794885"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MALARIA.FINEMAP.region.bgz",
+      "size": "250"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MALARIA.FINEMAP.snp.bgz",
+      "size": "4589627"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MALARIA.FINEMAP.snp.bgz.tbi",
+      "size": "6693"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MEASLES.FINEMAP.config.bgz",
+      "size": "831623"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MEASLES.FINEMAP.region.bgz",
+      "size": "216"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MEASLES.FINEMAP.snp.bgz",
+      "size": "1320221"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MEASLES.FINEMAP.snp.bgz.tbi",
+      "size": "2370"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES.FINEMAP.config.bgz",
+      "size": "4679098"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES.FINEMAP.region.bgz",
+      "size": "256"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES.FINEMAP.snp.bgz",
+      "size": "2347649"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES.FINEMAP.snp.bgz.tbi",
+      "size": "4177"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES_WIDE.FINEMAP.config.bgz",
+      "size": "7125191"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES_WIDE.FINEMAP.region.bgz",
+      "size": "311"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES_WIDE.FINEMAP.snp.bgz",
+      "size": "2824492"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYCOSES_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5960"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYSOSIS_NOS_WIDE.FINEMAP.config.bgz",
+      "size": "895928"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYSOSIS_NOS_WIDE.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYSOSIS_NOS_WIDE.FINEMAP.snp.bgz",
+      "size": "1327381"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_MYSOSIS_NOS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2425"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL.FINEMAP.config.bgz",
+      "size": "7753388"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL.FINEMAP.region.bgz",
+      "size": "319"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL.FINEMAP.snp.bgz",
+      "size": "3476876"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL.FINEMAP.snp.bgz.tbi",
+      "size": "6064"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.FINEMAP.config.bgz",
+      "size": "7550042"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.FINEMAP.region.bgz",
+      "size": "321"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.FINEMAP.snp.bgz",
+      "size": "3212451"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6442"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.FINEMAP.config.bgz",
+      "size": "992164"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.FINEMAP.region.bgz",
+      "size": "230"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.FINEMAP.snp.bgz",
+      "size": "1330967"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1915"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CONDITIONS.FINEMAP.config.bgz",
+      "size": "1101832"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CONDITIONS.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CONDITIONS.FINEMAP.snp.bgz",
+      "size": "1724837"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_CONDITIONS.FINEMAP.snp.bgz.tbi",
+      "size": "2667"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_INFECTIONS.FINEMAP.config.bgz",
+      "size": "2324823"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_INFECTIONS.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_INFECTIONS.FINEMAP.snp.bgz",
+      "size": "1180215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_INFECTIONS.FINEMAP.snp.bgz.tbi",
+      "size": "2375"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.FINEMAP.config.bgz",
+      "size": "954845"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.FINEMAP.snp.bgz",
+      "size": "1516483"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2683"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MYCOBAC.FINEMAP.config.bgz",
+      "size": "994556"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MYCOBAC.FINEMAP.region.bgz",
+      "size": "221"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MYCOBAC.FINEMAP.snp.bgz",
+      "size": "1524202"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_MYCOBAC.FINEMAP.snp.bgz.tbi",
+      "size": "1835"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SEPSIS.FINEMAP.config.bgz",
+      "size": "2224144"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SEPSIS.FINEMAP.region.bgz",
+      "size": "216"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SEPSIS.FINEMAP.snp.bgz",
+      "size": "1452549"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SEPSIS.FINEMAP.snp.bgz.tbi",
+      "size": "1868"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL.FINEMAP.config.bgz",
+      "size": "4722087"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL.FINEMAP.region.bgz",
+      "size": "273"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL.FINEMAP.snp.bgz",
+      "size": "2292739"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL.FINEMAP.snp.bgz.tbi",
+      "size": "3927"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.FINEMAP.config.bgz",
+      "size": "9597298"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.FINEMAP.region.bgz",
+      "size": "353"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.FINEMAP.snp.bgz",
+      "size": "4627970"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "7532"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.FINEMAP.config.bgz",
+      "size": "1380211"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.FINEMAP.region.bgz",
+      "size": "229"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.FINEMAP.snp.bgz",
+      "size": "1973842"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.FINEMAP.snp.bgz.tbi",
+      "size": "1878"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.FINEMAP.config.bgz",
+      "size": "2437977"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.FINEMAP.region.bgz",
+      "size": "232"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.FINEMAP.snp.bgz",
+      "size": "1836660"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1865"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL.FINEMAP.config.bgz",
+      "size": "2305827"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL.FINEMAP.region.bgz",
+      "size": "221"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL.FINEMAP.snp.bgz",
+      "size": "1309163"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL.FINEMAP.snp.bgz.tbi",
+      "size": "2359"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL_WIDE.FINEMAP.config.bgz",
+      "size": "1978005"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL_WIDE.FINEMAP.region.bgz",
+      "size": "226"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL_WIDE.FINEMAP.snp.bgz",
+      "size": "1215022"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_VIRAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2397"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.FINEMAP.config.bgz",
+      "size": "834234"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.FINEMAP.snp.bgz",
+      "size": "1332338"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2455"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER.FINEMAP.config.bgz",
+      "size": "728197"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER.FINEMAP.region.bgz",
+      "size": "213"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER.FINEMAP.snp.bgz",
+      "size": "1203256"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER.FINEMAP.snp.bgz.tbi",
+      "size": "2593"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER_WIDE.FINEMAP.config.bgz",
+      "size": "743521"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER_WIDE.FINEMAP.region.bgz",
+      "size": "220"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER_WIDE.FINEMAP.snp.bgz",
+      "size": "1206747"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RELAP_FEVER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2601"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RESP_TUBERCU_CONF.FINEMAP.config.bgz",
+      "size": "1130353"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RESP_TUBERCU_CONF.FINEMAP.region.bgz",
+      "size": "223"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RESP_TUBERCU_CONF.FINEMAP.snp.bgz",
+      "size": "1337499"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_RESP_TUBERCU_CONF.FINEMAP.snp.bgz.tbi",
+      "size": "2388"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCABIES_WIDE.FINEMAP.config.bgz",
+      "size": "2246688"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCABIES_WIDE.FINEMAP.region.bgz",
+      "size": "221"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCABIES_WIDE.FINEMAP.snp.bgz",
+      "size": "1430244"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCABIES_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1846"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCARLET_FEVER.FINEMAP.config.bgz",
+      "size": "1152771"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCARLET_FEVER.FINEMAP.region.bgz",
+      "size": "213"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCARLET_FEVER.FINEMAP.snp.bgz",
+      "size": "1860724"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SCARLET_FEVER.FINEMAP.snp.bgz.tbi",
+      "size": "2001"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.FINEMAP.config.bgz",
+      "size": "2389199"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.FINEMAP.region.bgz",
+      "size": "233"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.FINEMAP.snp.bgz",
+      "size": "1346266"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2580"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.FINEMAP.config.bgz",
+      "size": "11575911"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.FINEMAP.region.bgz",
+      "size": "398"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.FINEMAP.snp.bgz",
+      "size": "5591581"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "10818"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.FINEMAP.config.bgz",
+      "size": "13729769"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.FINEMAP.region.bgz",
+      "size": "431"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.FINEMAP.snp.bgz",
+      "size": "6535771"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "12636"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULAE_INF_NOS.FINEMAP.config.bgz",
+      "size": "3906045"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULAE_INF_NOS.FINEMAP.region.bgz",
+      "size": "271"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULAE_INF_NOS.FINEMAP.snp.bgz",
+      "size": "2794716"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULAE_INF_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "4743"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.FINEMAP.config.bgz",
+      "size": "2473223"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.FINEMAP.region.bgz",
+      "size": "242"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.FINEMAP.snp.bgz",
+      "size": "1462580"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.FINEMAP.snp.bgz.tbi",
+      "size": "1934"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.FINEMAP.config.bgz",
+      "size": "2396836"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.FINEMAP.region.bgz",
+      "size": "230"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.FINEMAP.snp.bgz",
+      "size": "867934"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1733"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.FINEMAP.config.bgz",
+      "size": "6683518"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.FINEMAP.region.bgz",
+      "size": "312"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.FINEMAP.snp.bgz",
+      "size": "3337623"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5121"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_STREPTO_SEPSIS.FINEMAP.config.bgz",
+      "size": "2463896"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_STREPTO_SEPSIS.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_STREPTO_SEPSIS.FINEMAP.snp.bgz",
+      "size": "1237989"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_STREPTO_SEPSIS.FINEMAP.snp.bgz.tbi",
+      "size": "2559"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_TULARAEMIA.FINEMAP.config.bgz",
+      "size": "864438"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_TULARAEMIA.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_TULARAEMIA.FINEMAP.snp.bgz",
+      "size": "1353920"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_TULARAEMIA.FINEMAP.snp.bgz.tbi",
+      "size": "2565"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VARICELLA.FINEMAP.config.bgz",
+      "size": "2217655"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VARICELLA.FINEMAP.region.bgz",
+      "size": "216"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VARICELLA.FINEMAP.snp.bgz",
+      "size": "1468919"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VARICELLA.FINEMAP.snp.bgz.tbi",
+      "size": "1929"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.FINEMAP.config.bgz",
+      "size": "2594836"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.FINEMAP.region.bgz",
+      "size": "236"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.FINEMAP.snp.bgz",
+      "size": "1554474"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1947"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER.FINEMAP.config.bgz",
+      "size": "1016779"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER.FINEMAP.region.bgz",
+      "size": "222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER.FINEMAP.snp.bgz",
+      "size": "1216508"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER.FINEMAP.snp.bgz.tbi",
+      "size": "2309"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER_WIDE.FINEMAP.config.bgz",
+      "size": "1617414"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER_WIDE.FINEMAP.region.bgz",
+      "size": "229"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER_WIDE.FINEMAP.snp.bgz",
+      "size": "1196557"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_INOTHER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2289"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.FINEMAP.config.bgz",
+      "size": "7076210"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.FINEMAP.region.bgz",
+      "size": "325"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.FINEMAP.snp.bgz",
+      "size": "3976254"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.FINEMAP.snp.bgz.tbi",
+      "size": "5450"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.FINEMAP.config.bgz",
+      "size": "2551421"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.FINEMAP.region.bgz",
+      "size": "241"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.FINEMAP.snp.bgz",
+      "size": "1136093"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1892"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.FINEMAP.config.bgz",
+      "size": "2272880"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.FINEMAP.region.bgz",
+      "size": "229"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.FINEMAP.snp.bgz",
+      "size": "1502087"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.FINEMAP.snp.bgz.tbi",
+      "size": "2452"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.FINEMAP.config.bgz",
+      "size": "4912668"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.FINEMAP.region.bgz",
+      "size": "293"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.FINEMAP.snp.bgz",
+      "size": "2766116"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4045"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.FINEMAP.config.bgz",
+      "size": "2361604"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.FINEMAP.snp.bgz",
+      "size": "1276323"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1854"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_WHOOPCOUGH.FINEMAP.config.bgz",
+      "size": "979783"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_WHOOPCOUGH.FINEMAP.region.bgz",
+      "size": "211"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_WHOOPCOUGH.FINEMAP.snp.bgz",
+      "size": "1554687"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_WHOOPCOUGH.FINEMAP.snp.bgz.tbi",
+      "size": "1857"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER.FINEMAP.config.bgz",
+      "size": "2424319"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER.FINEMAP.region.bgz",
+      "size": "214"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER.FINEMAP.snp.bgz",
+      "size": "1335495"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER.FINEMAP.snp.bgz.tbi",
+      "size": "1866"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER_WIDE.FINEMAP.config.bgz",
+      "size": "2409680"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER_WIDE.FINEMAP.region.bgz",
+      "size": "223"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER_WIDE.FINEMAP.snp.bgz",
+      "size": "989301"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AB1_ZOSTER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1817"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA.FINEMAP.config.bgz",
+      "size": "85700145"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA.FINEMAP.region.bgz",
+      "size": "1528"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA.FINEMAP.snp.bgz",
+      "size": "37271185"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA.FINEMAP.snp.bgz.tbi",
+      "size": "70425"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA_POSTOP.FINEMAP.config.bgz",
+      "size": "27192322"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA_POSTOP.FINEMAP.region.bgz",
+      "size": "630"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA_POSTOP.FINEMAP.snp.bgz",
+      "size": "11501870"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ABDOM_HERNIA_POSTOP.FINEMAP.snp.bgz.tbi",
+      "size": "22712"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.FINEMAP.config.bgz",
+      "size": "722062"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.FINEMAP.region.bgz",
+      "size": "231"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.FINEMAP.snp.bgz",
+      "size": "1131670"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.FINEMAP.snp.bgz.tbi",
+      "size": "2504"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_AM_EXMORE.FINEMAP.config.bgz",
+      "size": "9659960"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_AM_EXMORE.FINEMAP.region.bgz",
+      "size": "343"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_AM_EXMORE.FINEMAP.snp.bgz",
+      "size": "4859843"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_AM_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "7631"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_EO_EXMORE.FINEMAP.config.bgz",
+      "size": "10178117"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_EO_EXMORE.FINEMAP.region.bgz",
+      "size": "346"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_EO_EXMORE.FINEMAP.snp.bgz",
+      "size": "5904675"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_EO_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "9356"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_LO_EXMORE.FINEMAP.config.bgz",
+      "size": "48182814"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_LO_EXMORE.FINEMAP.region.bgz",
+      "size": "941"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_LO_EXMORE.FINEMAP.snp.bgz",
+      "size": "22703125"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_LO_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "38365"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_U_EXMORE.FINEMAP.config.bgz",
+      "size": "3308405"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_U_EXMORE.FINEMAP.region.bgz",
+      "size": "273"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_U_EXMORE.FINEMAP.snp.bgz",
+      "size": "2690030"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AD_U_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "4392"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOHOLACUTE10.FINEMAP.config.bgz",
+      "size": "2276214"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOHOLACUTE10.FINEMAP.region.bgz",
+      "size": "224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOHOLACUTE10.FINEMAP.snp.bgz",
+      "size": "906975"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOHOLACUTE10.FINEMAP.snp.bgz.tbi",
+      "size": "2340"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCACU.FINEMAP.config.bgz",
+      "size": "9186006"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCACU.FINEMAP.region.bgz",
+      "size": "348"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCACU.FINEMAP.snp.bgz",
+      "size": "3571999"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCACU.FINEMAP.snp.bgz.tbi",
+      "size": "8663"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCCHRON.FINEMAP.config.bgz",
+      "size": "15301325"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCCHRON.FINEMAP.region.bgz",
+      "size": "424"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCCHRON.FINEMAP.snp.bgz",
+      "size": "6551605"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCOPANCCHRON.FINEMAP.snp.bgz.tbi",
+      "size": "13734"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCO_PRESCRIPTION.FINEMAP.config.bgz",
+      "size": "4718128"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCO_PRESCRIPTION.FINEMAP.region.bgz",
+      "size": "270"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCO_PRESCRIPTION.FINEMAP.snp.bgz",
+      "size": "2809054"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALCO_PRESCRIPTION.FINEMAP.snp.bgz.tbi",
+      "size": "5139"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_ASTHMA.FINEMAP.config.bgz",
+      "size": "72791062"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_ASTHMA.FINEMAP.region.bgz",
+      "size": "1340"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_ASTHMA.FINEMAP.snp.bgz",
+      "size": "31657473"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_ASTHMA.FINEMAP.snp.bgz.tbi",
+      "size": "59659"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_RHINITIS.FINEMAP.config.bgz",
+      "size": "55606385"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_RHINITIS.FINEMAP.region.bgz",
+      "size": "1072"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_RHINITIS.FINEMAP.snp.bgz",
+      "size": "26637563"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ALLERG_RHINITIS.FINEMAP.snp.bgz.tbi",
+      "size": "45861"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AMN2.FINEMAP.config.bgz",
+      "size": "14649457"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AMN2.FINEMAP.region.bgz",
+      "size": "389"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AMN2.FINEMAP.snp.bgz",
+      "size": "6329774"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AMN2.FINEMAP.snp.bgz.tbi",
+      "size": "12565"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.FINEMAP.config.bgz",
+      "size": "938150"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.FINEMAP.region.bgz",
+      "size": "257"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.FINEMAP.snp.bgz",
+      "size": "1374885"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.FINEMAP.snp.bgz.tbi",
+      "size": "1835"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANOSMIA.FINEMAP.config.bgz",
+      "size": "4751923"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANOSMIA.FINEMAP.region.bgz",
+      "size": "256"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANOSMIA.FINEMAP.snp.bgz",
+      "size": "3045590"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANOSMIA.FINEMAP.snp.bgz.tbi",
+      "size": "4238"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANTIDEPRESSANTS.FINEMAP.config.bgz",
+      "size": "122897605"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANTIDEPRESSANTS.FINEMAP.region.bgz",
+      "size": "2158"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANTIDEPRESSANTS.FINEMAP.snp.bgz",
+      "size": "52839364"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ANTIDEPRESSANTS.FINEMAP.snp.bgz.tbi",
+      "size": "112789"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_COMPLIC.FINEMAP.config.bgz",
+      "size": "9310936"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_COMPLIC.FINEMAP.region.bgz",
+      "size": "355"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_COMPLIC.FINEMAP.snp.bgz",
+      "size": "4088116"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_COMPLIC.FINEMAP.snp.bgz.tbi",
+      "size": "8825"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_NOCOMPLIC.FINEMAP.config.bgz",
+      "size": "27085272"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_NOCOMPLIC.FINEMAP.region.bgz",
+      "size": "633"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_NOCOMPLIC.FINEMAP.snp.bgz",
+      "size": "11568259"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_APPENDACUT_NOCOMPLIC.FINEMAP.snp.bgz.tbi",
+      "size": "23482"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ARTRHO_POSTDYSENTERIC.FINEMAP.config.bgz",
+      "size": "904361"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ARTRHO_POSTDYSENTERIC.FINEMAP.region.bgz",
+      "size": "216"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ARTRHO_POSTDYSENTERIC.FINEMAP.snp.bgz",
+      "size": "1439629"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ARTRHO_POSTDYSENTERIC.FINEMAP.snp.bgz.tbi",
+      "size": "1863"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.FINEMAP.config.bgz",
+      "size": "60850853"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.FINEMAP.region.bgz",
+      "size": "1167"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.FINEMAP.snp.bgz",
+      "size": "27248444"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.FINEMAP.snp.bgz.tbi",
+      "size": "52210"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ALLERG.FINEMAP.config.bgz",
+      "size": "50477269"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ALLERG.FINEMAP.region.bgz",
+      "size": "980"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ALLERG.FINEMAP.snp.bgz",
+      "size": "23180886"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_ALLERG.FINEMAP.snp.bgz.tbi",
+      "size": "42156"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_CHILD_EXMORE.FINEMAP.config.bgz",
+      "size": "62522053"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_CHILD_EXMORE.FINEMAP.region.bgz",
+      "size": "1185"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_CHILD_EXMORE.FINEMAP.snp.bgz",
+      "size": "27728885"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_CHILD_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "53232"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.FINEMAP.config.bgz",
+      "size": "59158699"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.FINEMAP.region.bgz",
+      "size": "1134"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.FINEMAP.snp.bgz",
+      "size": "29158875"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.FINEMAP.snp.bgz.tbi",
+      "size": "51877"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_INFECTIONS.FINEMAP.config.bgz",
+      "size": "78491576"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_INFECTIONS.FINEMAP.region.bgz",
+      "size": "1438"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_INFECTIONS.FINEMAP.snp.bgz",
+      "size": "35138815"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_INFECTIONS.FINEMAP.snp.bgz.tbi",
+      "size": "66204"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_MIXED_EXMORE.FINEMAP.config.bgz",
+      "size": "2446751"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_MIXED_EXMORE.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_MIXED_EXMORE.FINEMAP.snp.bgz",
+      "size": "1814820"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_MIXED_EXMORE.FINEMAP.snp.bgz.tbi",
+      "size": "1522"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_NAS.FINEMAP.config.bgz",
+      "size": "68762019"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_NAS.FINEMAP.region.bgz",
+      "size": "1267"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_NAS.FINEMAP.snp.bgz",
+      "size": "32801802"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_NAS.FINEMAP.snp.bgz.tbi",
+      "size": "57135"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_OBESITY.FINEMAP.config.bgz",
+      "size": "28527197"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_OBESITY.FINEMAP.region.bgz",
+      "size": "650"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_OBESITY.FINEMAP.snp.bgz",
+      "size": "13059969"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_OBESITY.FINEMAP.snp.bgz.tbi",
+      "size": "24401"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_PNEUMONIA.FINEMAP.config.bgz",
+      "size": "44280058"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_PNEUMONIA.FINEMAP.region.bgz",
+      "size": "887"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_PNEUMONIA.FINEMAP.snp.bgz",
+      "size": "19273270"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_ASTHMA_PNEUMONIA.FINEMAP.snp.bgz.tbi",
+      "size": "35536"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD.FINEMAP.config.bgz",
+      "size": "20557543"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD.FINEMAP.region.bgz",
+      "size": "513"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD.FINEMAP.snp.bgz",
+      "size": "9466077"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD.FINEMAP.snp.bgz.tbi",
+      "size": "18769"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD_SWEDISH.FINEMAP.config.bgz",
+      "size": "38438099"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD_SWEDISH.FINEMAP.region.bgz",
+      "size": "784"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD_SWEDISH.FINEMAP.snp.bgz",
+      "size": "17826416"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUD_SWEDISH.FINEMAP.snp.bgz.tbi",
+      "size": "34535"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE.FINEMAP.config.bgz",
+      "size": "335944728"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE.FINEMAP.region.bgz",
+      "size": "5249"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE.FINEMAP.snp.bgz",
+      "size": "144678330"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE.FINEMAP.snp.bgz.tbi",
+      "size": "285215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.FINEMAP.config.bgz",
+      "size": "34733931"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.FINEMAP.region.bgz",
+      "size": "749"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.FINEMAP.snp.bgz",
+      "size": "18797357"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.FINEMAP.snp.bgz.tbi",
+      "size": "32413"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_NONTHYROID.FINEMAP.config.bgz",
+      "size": "142143452"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_NONTHYROID.FINEMAP.region.bgz",
+      "size": "2447"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_NONTHYROID.FINEMAP.snp.bgz",
+      "size": "63765115"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_AUTOIMMUNE_NONTHYROID.FINEMAP.snp.bgz.tbi",
+      "size": "122818"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BLEEDING.FINEMAP.config.bgz",
+      "size": "2805688"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BLEEDING.FINEMAP.region.bgz",
+      "size": "220"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BLEEDING.FINEMAP.snp.bgz",
+      "size": "1097573"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BLEEDING.FINEMAP.snp.bgz.tbi",
+      "size": "2510"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BMI_IRN.FINEMAP.config.bgz",
+      "size": "928263707"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BMI_IRN.FINEMAP.region.bgz",
+      "size": "14115"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BMI_IRN.FINEMAP.snp.bgz",
+      "size": "388463929"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BMI_IRN.FINEMAP.snp.bgz.tbi",
+      "size": "836405"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BRONCHITIS.FINEMAP.config.bgz",
+      "size": "8974266"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BRONCHITIS.FINEMAP.region.bgz",
+      "size": "336"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BRONCHITIS.FINEMAP.snp.bgz",
+      "size": "4962802"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_BRONCHITIS.FINEMAP.snp.bgz.tbi",
+      "size": "7492"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ADRENAL_GLAND_WIDE.FINEMAP.config.bgz",
+      "size": "583597"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ADRENAL_GLAND_WIDE.FINEMAP.region.bgz",
+      "size": "220"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ADRENAL_GLAND_WIDE.FINEMAP.snp.bgz",
+      "size": "917323"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ADRENAL_GLAND_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1741"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_AML_MDS_WIDE.FINEMAP.config.bgz",
+      "size": "2458552"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_AML_MDS_WIDE.FINEMAP.region.bgz",
+      "size": "217"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_AML_MDS_WIDE.FINEMAP.snp.bgz",
+      "size": "1160814"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_AML_MDS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1834"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ASTROCYTOMA_WIDE.FINEMAP.config.bgz",
+      "size": "1455607"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ASTROCYTOMA_WIDE.FINEMAP.region.bgz",
+      "size": "227"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ASTROCYTOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "1421936"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ASTROCYTOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2567"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_INCLAVO_WIDE.FINEMAP.config.bgz",
+      "size": "191052038"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_INCLAVO_WIDE.FINEMAP.region.bgz",
+      "size": "3191"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_INCLAVO_WIDE.FINEMAP.snp.bgz",
+      "size": "81924131"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_INCLAVO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "164148"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.FINEMAP.config.bgz",
+      "size": "185238472"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.FINEMAP.region.bgz",
+      "size": "3114"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "77098015"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "155921"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.FINEMAP.config.bgz",
+      "size": "7449679"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.FINEMAP.region.bgz",
+      "size": "316"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.FINEMAP.snp.bgz",
+      "size": "4550126"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5259"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BLADDER_WIDE.FINEMAP.config.bgz",
+      "size": "23285700"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BLADDER_WIDE.FINEMAP.region.bgz",
+      "size": "583"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BLADDER_WIDE.FINEMAP.snp.bgz",
+      "size": "12342107"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BLADDER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "21409"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BONE_CARTILAGE.FINEMAP.config.bgz",
+      "size": "1525137"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BONE_CARTILAGE.FINEMAP.region.bgz",
+      "size": "256"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BONE_CARTILAGE.FINEMAP.snp.bgz",
+      "size": "2398171"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BONE_CARTILAGE.FINEMAP.snp.bgz.tbi",
+      "size": "4926"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRAIN_WIDE.FINEMAP.config.bgz",
+      "size": "11478783"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRAIN_WIDE.FINEMAP.region.bgz",
+      "size": "370"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRAIN_WIDE.FINEMAP.snp.bgz",
+      "size": "6637792"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRAIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "9559"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERNEG_WIDE.FINEMAP.config.bgz",
+      "size": "39400599"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERNEG_WIDE.FINEMAP.region.bgz",
+      "size": "858"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERNEG_WIDE.FINEMAP.snp.bgz",
+      "size": "20302835"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERNEG_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "35867"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERPLUS_WIDE.FINEMAP.config.bgz",
+      "size": "142282012"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERPLUS_WIDE.FINEMAP.region.bgz",
+      "size": "2466"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERPLUS_WIDE.FINEMAP.snp.bgz",
+      "size": "60456818"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_ERPLUS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "117407"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_WIDE.FINEMAP.config.bgz",
+      "size": "156849266"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_WIDE.FINEMAP.region.bgz",
+      "size": "2707"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_WIDE.FINEMAP.snp.bgz",
+      "size": "68379814"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BREAST_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "134133"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRONCHUS_LUNG_WIDE.FINEMAP.config.bgz",
+      "size": "19563311"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRONCHUS_LUNG_WIDE.FINEMAP.region.bgz",
+      "size": "521"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRONCHUS_LUNG_WIDE.FINEMAP.snp.bgz",
+      "size": "10132815"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_BRONCHUS_LUNG_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "16479"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER.FINEMAP.config.bgz",
+      "size": "129142834"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER.FINEMAP.region.bgz",
+      "size": "2185"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER.FINEMAP.snp.bgz",
+      "size": "58863788"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER.FINEMAP.snp.bgz.tbi",
+      "size": "108480"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER_WIDE.FINEMAP.config.bgz",
+      "size": "125291511"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER_WIDE.FINEMAP.region.bgz",
+      "size": "2167"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER_WIDE.FINEMAP.snp.bgz",
+      "size": "55635026"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CANCER_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "103665"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CERVIX_UTERI_WIDE.FINEMAP.config.bgz",
+      "size": "2462476"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CERVIX_UTERI_WIDE.FINEMAP.region.bgz",
+      "size": "222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CERVIX_UTERI_WIDE.FINEMAP.snp.bgz",
+      "size": "992161"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CERVIX_UTERI_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2433"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.FINEMAP.config.bgz",
+      "size": "2301733"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.FINEMAP.snp.bgz",
+      "size": "1232532"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1879"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CLL_WIDE.FINEMAP.config.bgz",
+      "size": "30371854"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CLL_WIDE.FINEMAP.region.bgz",
+      "size": "659"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CLL_WIDE.FINEMAP.snp.bgz",
+      "size": "16132103"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CLL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "27096"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CML_WIDE.FINEMAP.config.bgz",
+      "size": "952957"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CML_WIDE.FINEMAP.region.bgz",
+      "size": "211"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CML_WIDE.FINEMAP.snp.bgz",
+      "size": "1543601"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CML_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2546"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO.FINEMAP.config.bgz",
+      "size": "26185053"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO.FINEMAP.region.bgz",
+      "size": "611"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO.FINEMAP.snp.bgz",
+      "size": "14302534"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "22655"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO_WIDE.FINEMAP.config.bgz",
+      "size": "26307017"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO_WIDE.FINEMAP.region.bgz",
+      "size": "628"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO_WIDE.FINEMAP.snp.bgz",
+      "size": "14295857"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_ADENO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "22674"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_WIDE.FINEMAP.config.bgz",
+      "size": "33001322"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_WIDE.FINEMAP.region.bgz",
+      "size": "727"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_WIDE.FINEMAP.snp.bgz",
+      "size": "16482244"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLON_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "29083"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL.FINEMAP.config.bgz",
+      "size": "47925270"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL.FINEMAP.region.bgz",
+      "size": "944"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL.FINEMAP.snp.bgz",
+      "size": "22549648"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL.FINEMAP.snp.bgz.tbi",
+      "size": "40349"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO.FINEMAP.config.bgz",
+      "size": "48321016"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO.FINEMAP.region.bgz",
+      "size": "974"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO.FINEMAP.snp.bgz",
+      "size": "21649469"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "41757"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO_WIDE.FINEMAP.config.bgz",
+      "size": "51045142"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO_WIDE.FINEMAP.region.bgz",
+      "size": "1037"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO_WIDE.FINEMAP.snp.bgz",
+      "size": "22558738"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_ADENO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "44056"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_WIDE.FINEMAP.config.bgz",
+      "size": "53737885"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_WIDE.FINEMAP.region.bgz",
+      "size": "1042"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_WIDE.FINEMAP.snp.bgz",
+      "size": "23645643"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_COLORECTAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "44621"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CORPUS_UTERI_WIDE.FINEMAP.config.bgz",
+      "size": "2409964"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CORPUS_UTERI_WIDE.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CORPUS_UTERI_WIDE.FINEMAP.snp.bgz",
+      "size": "1436390"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_CORPUS_UTERI_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2586"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DIGESTIVE_ORGANS.FINEMAP.config.bgz",
+      "size": "36376445"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DIGESTIVE_ORGANS.FINEMAP.region.bgz",
+      "size": "778"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DIGESTIVE_ORGANS.FINEMAP.snp.bgz",
+      "size": "17701902"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DIGESTIVE_ORGANS.FINEMAP.snp.bgz.tbi",
+      "size": "32089"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DLBCL_WIDE.FINEMAP.config.bgz",
+      "size": "7016553"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DLBCL_WIDE.FINEMAP.region.bgz",
+      "size": "299"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DLBCL_WIDE.FINEMAP.snp.bgz",
+      "size": "3013036"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_DLBCL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5303"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ENDOCRINE.FINEMAP.config.bgz",
+      "size": "32616417"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ENDOCRINE.FINEMAP.region.bgz",
+      "size": "732"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ENDOCRINE.FINEMAP.snp.bgz",
+      "size": "14679625"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_ENDOCRINE.FINEMAP.snp.bgz.tbi",
+      "size": "30314"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_ADNEXA_WIDE.FINEMAP.config.bgz",
+      "size": "904210"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_ADNEXA_WIDE.FINEMAP.region.bgz",
+      "size": "222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_ADNEXA_WIDE.FINEMAP.snp.bgz",
+      "size": "1213544"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_ADNEXA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2368"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_BRAIN_NEURO.FINEMAP.config.bgz",
+      "size": "9414317"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_BRAIN_NEURO.FINEMAP.region.bgz",
+      "size": "338"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_BRAIN_NEURO.FINEMAP.snp.bgz",
+      "size": "5444701"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_EYE_BRAIN_NEURO.FINEMAP.snp.bgz.tbi",
+      "size": "8993"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_FEMALE_GENITAL.FINEMAP.config.bgz",
+      "size": "4991427"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_FEMALE_GENITAL.FINEMAP.region.bgz",
+      "size": "272"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_FEMALE_GENITAL.FINEMAP.snp.bgz",
+      "size": "2459179"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_FEMALE_GENITAL.FINEMAP.snp.bgz.tbi",
+      "size": "4264"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM.FINEMAP.config.bgz",
+      "size": "4835142"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM.FINEMAP.region.bgz",
+      "size": "290"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM.FINEMAP.snp.bgz",
+      "size": "4612320"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM.FINEMAP.snp.bgz.tbi",
+      "size": "5251"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA.FINEMAP.config.bgz",
+      "size": "6832295"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA.FINEMAP.region.bgz",
+      "size": "301"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA.FINEMAP.snp.bgz",
+      "size": "4412787"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA.FINEMAP.snp.bgz.tbi",
+      "size": "5947"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA_WIDE.FINEMAP.config.bgz",
+      "size": "6835271"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA_WIDE.FINEMAP.region.bgz",
+      "size": "306"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "4430300"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_ASTROCYTOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5971"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_WIDE.FINEMAP.config.bgz",
+      "size": "4847183"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_WIDE.FINEMAP.region.bgz",
+      "size": "296"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_WIDE.FINEMAP.snp.bgz",
+      "size": "4617949"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_GBM_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5255"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK.FINEMAP.config.bgz",
+      "size": "2270735"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK.FINEMAP.region.bgz",
+      "size": "222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK.FINEMAP.snp.bgz",
+      "size": "1304507"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK.FINEMAP.snp.bgz.tbi",
+      "size": "1865"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK_WIDE.FINEMAP.config.bgz",
+      "size": "6372399"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK_WIDE.FINEMAP.region.bgz",
+      "size": "303"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK_WIDE.FINEMAP.snp.bgz",
+      "size": "4135510"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEAD_AND_NECK_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6217"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.FINEMAP.config.bgz",
+      "size": "7474258"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.FINEMAP.region.bgz",
+      "size": "317"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.FINEMAP.snp.bgz",
+      "size": "4223017"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "5217"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HYPOPHARYNX_WIDE.FINEMAP.config.bgz",
+      "size": "856785"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HYPOPHARYNX_WIDE.FINEMAP.region.bgz",
+      "size": "215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HYPOPHARYNX_WIDE.FINEMAP.snp.bgz",
+      "size": "1362038"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_HYPOPHARYNX_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1905"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.FINEMAP.config.bgz",
+      "size": "11741445"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.FINEMAP.region.bgz",
+      "size": "401"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.FINEMAP.snp.bgz",
+      "size": "5724710"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.FINEMAP.snp.bgz.tbi",
+      "size": "10807"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA_WIDE.FINEMAP.config.bgz",
+      "size": "11779028"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA_WIDE.FINEMAP.region.bgz",
+      "size": "412"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "5754197"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "10851"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.FINEMAP.config.bgz",
+      "size": "18633075"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.FINEMAP.region.bgz",
+      "size": "526"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.FINEMAP.snp.bgz",
+      "size": "9957786"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "19423"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LARYNX_WIDE.FINEMAP.config.bgz",
+      "size": "2313921"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LARYNX_WIDE.FINEMAP.region.bgz",
+      "size": "218"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LARYNX_WIDE.FINEMAP.snp.bgz",
+      "size": "1306931"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LARYNX_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1862"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIP_WIDE.FINEMAP.config.bgz",
+      "size": "2358094"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIP_WIDE.FINEMAP.region.bgz",
+      "size": "214"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIP_WIDE.FINEMAP.snp.bgz",
+      "size": "703711"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIP_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1512"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIQUID_CANCER.FINEMAP.config.bgz",
+      "size": "39479589"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIQUID_CANCER.FINEMAP.region.bgz",
+      "size": "820"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIQUID_CANCER.FINEMAP.snp.bgz",
+      "size": "18367816"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LIQUID_CANCER.FINEMAP.snp.bgz.tbi",
+      "size": "33178"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO.FINEMAP.config.bgz",
+      "size": "757138"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO.FINEMAP.region.bgz",
+      "size": "211"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO.FINEMAP.snp.bgz",
+      "size": "1213838"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO.FINEMAP.snp.bgz.tbi",
+      "size": "2353"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO_WIDE.FINEMAP.config.bgz",
+      "size": "758447"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO_WIDE.FINEMAP.region.bgz",
+      "size": "215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO_WIDE.FINEMAP.snp.bgz",
+      "size": "1216321"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NEUROENDO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2354"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NONSMALL_WIDE.FINEMAP.config.bgz",
+      "size": "12319190"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NONSMALL_WIDE.FINEMAP.region.bgz",
+      "size": "400"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NONSMALL_WIDE.FINEMAP.snp.bgz",
+      "size": "6014272"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_LUNG_NONSMALL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "9547"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.FINEMAP.config.bgz",
+      "size": "4596823"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.FINEMAP.region.bgz",
+      "size": "344"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.FINEMAP.snp.bgz",
+      "size": "5220839"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "7390"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MALE_GENITAL.FINEMAP.config.bgz",
+      "size": "181756217"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MALE_GENITAL.FINEMAP.region.bgz",
+      "size": "2977"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MALE_GENITAL.FINEMAP.snp.bgz",
+      "size": "74616668"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MALE_GENITAL.FINEMAP.snp.bgz.tbi",
+      "size": "151310"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.FINEMAP.config.bgz",
+      "size": "693730"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.FINEMAP.region.bgz",
+      "size": "232"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "1081003"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1820"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_SKIN_WIDE.FINEMAP.config.bgz",
+      "size": "56297561"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_SKIN_WIDE.FINEMAP.region.bgz",
+      "size": "1102"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_SKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "26017441"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_SKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "44087"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_WIDE.FINEMAP.config.bgz",
+      "size": "49081117"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_WIDE.FINEMAP.region.bgz",
+      "size": "960"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "20765054"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MELANOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "36828"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MENINGIOMA_WIDE.FINEMAP.config.bgz",
+      "size": "12362758"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MENINGIOMA_WIDE.FINEMAP.region.bgz",
+      "size": "388"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MENINGIOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "5664910"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MENINGIOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "11362"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MGUS_WIDE.FINEMAP.config.bgz",
+      "size": "6584945"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MGUS_WIDE.FINEMAP.region.bgz",
+      "size": "296"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MGUS_WIDE.FINEMAP.snp.bgz",
+      "size": "4210775"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MGUS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6784"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MULT_MYELOMA_WIDE.FINEMAP.config.bgz",
+      "size": "2450480"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MULT_MYELOMA_WIDE.FINEMAP.region.bgz",
+      "size": "227"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MULT_MYELOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "1464564"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MULT_MYELOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1879"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.FINEMAP.config.bgz",
+      "size": "2065798"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.FINEMAP.snp.bgz",
+      "size": "1453101"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2369"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL.FINEMAP.config.bgz",
+      "size": "4421628"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL.FINEMAP.region.bgz",
+      "size": "268"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL.FINEMAP.snp.bgz",
+      "size": "2867898"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL.FINEMAP.snp.bgz.tbi",
+      "size": "4289"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL_WIDE.FINEMAP.config.bgz",
+      "size": "11944931"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL_WIDE.FINEMAP.region.bgz",
+      "size": "399"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL_WIDE.FINEMAP.snp.bgz",
+      "size": "6838101"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_MYELOMA_MONOCLONAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "11086"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.FINEMAP.config.bgz",
+      "size": "819585"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.FINEMAP.region.bgz",
+      "size": "233"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.FINEMAP.snp.bgz",
+      "size": "1292633"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2516"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NONHODGKIN_WIDE.FINEMAP.config.bgz",
+      "size": "22927867"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NONHODGKIN_WIDE.FINEMAP.region.bgz",
+      "size": "561"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NONHODGKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "10008432"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NONHODGKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "17723"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO.FINEMAP.config.bgz",
+      "size": "4655135"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO.FINEMAP.region.bgz",
+      "size": "265"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO.FINEMAP.snp.bgz",
+      "size": "2911599"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "3986"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO_WIDE.FINEMAP.config.bgz",
+      "size": "4660631"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO_WIDE.FINEMAP.region.bgz",
+      "size": "271"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO_WIDE.FINEMAP.snp.bgz",
+      "size": "2915913"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_ADENO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "3971"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM.FINEMAP.config.bgz",
+      "size": "7090424"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM.FINEMAP.region.bgz",
+      "size": "302"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM.FINEMAP.snp.bgz",
+      "size": "3622529"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM.FINEMAP.snp.bgz.tbi",
+      "size": "6173"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM_WIDE.FINEMAP.config.bgz",
+      "size": "7139828"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM_WIDE.FINEMAP.region.bgz",
+      "size": "306"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM_WIDE.FINEMAP.snp.bgz",
+      "size": "3614347"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_NSCLC_SQUAM_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6186"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OESOPHAGUS_WIDE.FINEMAP.config.bgz",
+      "size": "4243583"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OESOPHAGUS_WIDE.FINEMAP.region.bgz",
+      "size": "270"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OESOPHAGUS_WIDE.FINEMAP.snp.bgz",
+      "size": "2642975"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OESOPHAGUS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4134"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNG_WIDE.FINEMAP.config.bgz",
+      "size": "2383926"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNG_WIDE.FINEMAP.region.bgz",
+      "size": "252"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNG_WIDE.FINEMAP.snp.bgz",
+      "size": "3858566"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNG_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4530"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNX_WIDE.FINEMAP.config.bgz",
+      "size": "2385769"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNX_WIDE.FINEMAP.region.bgz",
+      "size": "218"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNX_WIDE.FINEMAP.snp.bgz",
+      "size": "1637732"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OROPHARYNX_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1901"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OTHER_SKIN_WIDE.FINEMAP.config.bgz",
+      "size": "171977760"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OTHER_SKIN_WIDE.FINEMAP.region.bgz",
+      "size": "2862"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OTHER_SKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "77849205"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OTHER_SKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "151133"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO.FINEMAP.config.bgz",
+      "size": "1011912"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO.FINEMAP.region.bgz",
+      "size": "214"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO.FINEMAP.snp.bgz",
+      "size": "1633272"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO.FINEMAP.snp.bgz.tbi",
+      "size": "1964"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO_WIDE.FINEMAP.config.bgz",
+      "size": "1646799"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO_WIDE.FINEMAP.region.bgz",
+      "size": "254"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO_WIDE.FINEMAP.snp.bgz",
+      "size": "2620525"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_MUCINO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4227"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_SEROUS_WIDE.FINEMAP.config.bgz",
+      "size": "4254639"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_SEROUS_WIDE.FINEMAP.region.bgz",
+      "size": "272"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_SEROUS_WIDE.FINEMAP.snp.bgz",
+      "size": "2421867"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_OVARY_SEROUS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "3554"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.FINEMAP.config.bgz",
+      "size": "6753399"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.FINEMAP.region.bgz",
+      "size": "305"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.FINEMAP.snp.bgz",
+      "size": "3167676"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.FINEMAP.snp.bgz.tbi",
+      "size": "6550"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL_WIDE.FINEMAP.config.bgz",
+      "size": "6770535"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL_WIDE.FINEMAP.region.bgz",
+      "size": "308"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL_WIDE.FINEMAP.snp.bgz",
+      "size": "3178761"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_ADENO_DUCTAL_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6563"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_WIDE.FINEMAP.config.bgz",
+      "size": "6862489"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_WIDE.FINEMAP.region.bgz",
+      "size": "305"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_WIDE.FINEMAP.snp.bgz",
+      "size": "3331292"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PANCREAS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6555"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PROSTATE_WIDE.FINEMAP.config.bgz",
+      "size": "186729785"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PROSTATE_WIDE.FINEMAP.region.bgz",
+      "size": "3038"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PROSTATE_WIDE.FINEMAP.snp.bgz",
+      "size": "78858837"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_PROSTATE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "163596"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO.FINEMAP.config.bgz",
+      "size": "19587433"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO.FINEMAP.region.bgz",
+      "size": "506"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO.FINEMAP.snp.bgz",
+      "size": "9589507"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "15440"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO.FINEMAP.config.bgz",
+      "size": "22140075"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO.FINEMAP.region.bgz",
+      "size": "561"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO.FINEMAP.snp.bgz",
+      "size": "10478276"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO.FINEMAP.snp.bgz.tbi",
+      "size": "17849"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO_WIDE.FINEMAP.config.bgz",
+      "size": "24756483"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO_WIDE.FINEMAP.region.bgz",
+      "size": "607"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO_WIDE.FINEMAP.snp.bgz",
+      "size": "11783795"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_ADENO_MUCINO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "19953"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_WIDE.FINEMAP.config.bgz",
+      "size": "29320174"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_WIDE.FINEMAP.region.bgz",
+      "size": "645"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_WIDE.FINEMAP.snp.bgz",
+      "size": "13823784"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RECTUM_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "24934"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.FINEMAP.config.bgz",
+      "size": "17497383"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.FINEMAP.region.bgz",
+      "size": "480"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.FINEMAP.snp.bgz",
+      "size": "8841017"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.FINEMAP.snp.bgz.tbi",
+      "size": "13334"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SCLC_WIDE.FINEMAP.config.bgz",
+      "size": "2315902"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SCLC_WIDE.FINEMAP.region.bgz",
+      "size": "213"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SCLC_WIDE.FINEMAP.snp.bgz",
+      "size": "950503"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SCLC_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2317"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN.FINEMAP.config.bgz",
+      "size": "167437512"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN.FINEMAP.region.bgz",
+      "size": "2701"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN.FINEMAP.snp.bgz",
+      "size": "73568941"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN.FINEMAP.snp.bgz.tbi",
+      "size": "144701"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN_WIDE.FINEMAP.config.bgz",
+      "size": "180149320"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN_WIDE.FINEMAP.region.bgz",
+      "size": "2940"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "78675360"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "155688"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.FINEMAP.config.bgz",
+      "size": "12227210"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.FINEMAP.region.bgz",
+      "size": "470"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.FINEMAP.snp.bgz",
+      "size": "9225883"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.FINEMAP.snp.bgz.tbi",
+      "size": "15174"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE_WIDE.FINEMAP.config.bgz",
+      "size": "12246943"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE_WIDE.FINEMAP.region.bgz",
+      "size": "474"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE_WIDE.FINEMAP.snp.bgz",
+      "size": "9241877"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "15216"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_WIDE.FINEMAP.config.bgz",
+      "size": "7017087"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_WIDE.FINEMAP.region.bgz",
+      "size": "311"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_WIDE.FINEMAP.snp.bgz",
+      "size": "3531704"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SMALL_INTESTINE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "6410"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SOLID_CANCER.FINEMAP.config.bgz",
+      "size": "148411880"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SOLID_CANCER.FINEMAP.region.bgz",
+      "size": "2526"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SOLID_CANCER.FINEMAP.snp.bgz",
+      "size": "67385943"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SOLID_CANCER.FINEMAP.snp.bgz.tbi",
+      "size": "123823"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.FINEMAP.config.bgz",
+      "size": "16157434"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.FINEMAP.region.bgz",
+      "size": "451"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.FINEMAP.snp.bgz",
+      "size": "6044066"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.FINEMAP.snp.bgz.tbi",
+      "size": "10029"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.config.bgz",
+      "size": "27130779"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.region.bgz",
+      "size": "625"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "9548269"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "18955"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUOMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.config.bgz",
+      "size": "27107317"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUOMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.region.bgz",
+      "size": "634"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUOMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.snp.bgz",
+      "size": "9552638"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_SQUOMOUS_CELL_CARCINOMA_SKIN_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "18931"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO.FINEMAP.config.bgz",
+      "size": "8490111"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO.FINEMAP.region.bgz",
+      "size": "341"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO.FINEMAP.snp.bgz",
+      "size": "4566011"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "9503"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO_WIDE.FINEMAP.config.bgz",
+      "size": "8507385"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO_WIDE.FINEMAP.region.bgz",
+      "size": "351"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO_WIDE.FINEMAP.snp.bgz",
+      "size": "4577603"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_ADENO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "9543"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_WIDE.FINEMAP.config.bgz",
+      "size": "6907985"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_WIDE.FINEMAP.region.bgz",
+      "size": "312"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_WIDE.FINEMAP.snp.bgz",
+      "size": "3704531"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_STOMACH_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "7170"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.FINEMAP.config.bgz",
+      "size": "1642089"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.FINEMAP.region.bgz",
+      "size": "267"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "2599756"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "3753"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.FINEMAP.config.bgz",
+      "size": "3134002"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.FINEMAP.region.bgz",
+      "size": "273"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.FINEMAP.snp.bgz",
+      "size": "1973437"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4688"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_WIDE.FINEMAP.config.bgz",
+      "size": "8922813"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_WIDE.FINEMAP.region.bgz",
+      "size": "330"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_WIDE.FINEMAP.snp.bgz",
+      "size": "3614612"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TESTIS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "8218"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYMUS_WIDE.FINEMAP.config.bgz",
+      "size": "856298"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYMUS_WIDE.FINEMAP.region.bgz",
+      "size": "215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYMUS_WIDE.FINEMAP.snp.bgz",
+      "size": "1359224"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYMUS_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1876"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.FINEMAP.config.bgz",
+      "size": "917007"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.FINEMAP.region.bgz",
+      "size": "233"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.FINEMAP.snp.bgz",
+      "size": "1486189"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "2594"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_GLAND_WIDE.FINEMAP.config.bgz",
+      "size": "36842340"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_GLAND_WIDE.FINEMAP.region.bgz",
+      "size": "788"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_GLAND_WIDE.FINEMAP.snp.bgz",
+      "size": "17598903"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_GLAND_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "34353"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO.FINEMAP.config.bgz",
+      "size": "28808868"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO.FINEMAP.region.bgz",
+      "size": "682"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO.FINEMAP.snp.bgz",
+      "size": "13762396"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO.FINEMAP.snp.bgz.tbi",
+      "size": "26115"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO_WIDE.FINEMAP.config.bgz",
+      "size": "34673331"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO_WIDE.FINEMAP.region.bgz",
+      "size": "786"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO_WIDE.FINEMAP.snp.bgz",
+      "size": "17225568"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_THYROID_PAPILLARY_ADENO_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "33659"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONGUE_WIDE.FINEMAP.config.bgz",
+      "size": "4549589"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONGUE_WIDE.FINEMAP.region.bgz",
+      "size": "260"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONGUE_WIDE.FINEMAP.snp.bgz",
+      "size": "3242553"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONGUE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "4262"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.FINEMAP.config.bgz",
+      "size": "2355205"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.FINEMAP.region.bgz",
+      "size": "227"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.FINEMAP.snp.bgz",
+      "size": "1290453"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1927"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASETONGUE_WIDE.FINEMAP.config.bgz",
+      "size": "2351981"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASETONGUE_WIDE.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASETONGUE_WIDE.FINEMAP.snp.bgz",
+      "size": "1288298"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_TONSIL_BASETONGUE_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "1921"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_UNCERTAIN_SECONDARY.FINEMAP.config.bgz",
+      "size": "4740349"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_UNCERTAIN_SECONDARY.FINEMAP.region.bgz",
+      "size": "277"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_UNCERTAIN_SECONDARY.FINEMAP.snp.bgz",
+      "size": "2854501"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_UNCERTAIN_SECONDARY.FINEMAP.snp.bgz.tbi",
+      "size": "5103"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT.FINEMAP.config.bgz",
+      "size": "21098417"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT.FINEMAP.region.bgz",
+      "size": "530"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT.FINEMAP.snp.bgz",
+      "size": "11930146"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT.FINEMAP.snp.bgz.tbi",
+      "size": "21288"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT_WIDE.FINEMAP.config.bgz",
+      "size": "18686833"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT_WIDE.FINEMAP.region.bgz",
+      "size": "504"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT_WIDE.FINEMAP.snp.bgz",
+      "size": "9658830"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_C3_URINARY_TRACT_WIDE.FINEMAP.snp.bgz.tbi",
+      "size": "19144"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CAMPYLOENTERITIS.FINEMAP.config.bgz",
+      "size": "2160720"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CAMPYLOENTERITIS.FINEMAP.region.bgz",
+      "size": "212"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CAMPYLOENTERITIS.FINEMAP.snp.bgz",
+      "size": "1409674"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CAMPYLOENTERITIS.FINEMAP.snp.bgz.tbi",
+      "size": "1789"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CARDIAC_ARRHYTM.FINEMAP.config.bgz",
+      "size": "208564542"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CARDIAC_ARRHYTM.FINEMAP.region.bgz",
+      "size": "3419"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CARDIAC_ARRHYTM.FINEMAP.snp.bgz",
+      "size": "91708680"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CARDIAC_ARRHYTM.FINEMAP.snp.bgz.tbi",
+      "size": "179497"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN.FINEMAP.config.bgz",
+      "size": "96428097"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN.FINEMAP.region.bgz",
+      "size": "1637"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN.FINEMAP.snp.bgz",
+      "size": "39826757"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN.FINEMAP.snp.bgz.tbi",
+      "size": "75896"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ADRENAL.FINEMAP.config.bgz",
+      "size": "9245439"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ADRENAL.FINEMAP.region.bgz",
+      "size": "349"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ADRENAL.FINEMAP.snp.bgz",
+      "size": "4033109"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ADRENAL.FINEMAP.snp.bgz.tbi",
+      "size": "9382"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ASCENDING_COLON.FINEMAP.config.bgz",
+      "size": "9545098"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ASCENDING_COLON.FINEMAP.region.bgz",
+      "size": "354"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ASCENDING_COLON.FINEMAP.snp.bgz",
+      "size": "4929867"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ASCENDING_COLON.FINEMAP.snp.bgz.tbi",
+      "size": "8253"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.FINEMAP.config.bgz",
+      "size": "4631505"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.FINEMAP.region.bgz",
+      "size": "279"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.FINEMAP.snp.bgz",
+      "size": "2787705"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.FINEMAP.snp.bgz.tbi",
+      "size": "4736"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.FINEMAP.config.bgz",
+      "size": "2346191"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.FINEMAP.region.bgz",
+      "size": "225"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.FINEMAP.snp.bgz",
+      "size": "1551938"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.FINEMAP.snp.bgz.tbi",
+      "size": "1922"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.FINEMAP.config.bgz",
+      "size": "922804"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.FINEMAP.region.bgz",
+      "size": "231"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.FINEMAP.snp.bgz",
+      "size": "1487504"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.FINEMAP.snp.bgz.tbi",
+      "size": "2571"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.FINEMAP.config.bgz",
+      "size": "951140"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.FINEMAP.region.bgz",
+      "size": "227"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.FINEMAP.snp.bgz",
+      "size": "1457321"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.FINEMAP.snp.bgz.tbi",
+      "size": "2449"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BRAIN_CNS.FINEMAP.config.bgz",
+      "size": "6812897"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BRAIN_CNS.FINEMAP.region.bgz",
+      "size": "305"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BRAIN_CNS.FINEMAP.snp.bgz",
+      "size": "3645257"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BRAIN_CNS.FINEMAP.snp.bgz.tbi",
+      "size": "5319"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BREAST.FINEMAP.config.bgz",
+      "size": "7436297"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BREAST.FINEMAP.region.bgz",
+      "size": "315"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BREAST.FINEMAP.snp.bgz",
+      "size": "3113909"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_BREAST.FINEMAP.snp.bgz.tbi",
+      "size": "6842"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CAECUM.FINEMAP.config.bgz",
+      "size": "4753222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CAECUM.FINEMAP.region.bgz",
+      "size": "264"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CAECUM.FINEMAP.snp.bgz",
+      "size": "2396952"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CAECUM.FINEMAP.snp.bgz.tbi",
+      "size": "4480"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CHOROID.FINEMAP.config.bgz",
+      "size": "4709843"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CHOROID.FINEMAP.region.bgz",
+      "size": "267"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CHOROID.FINEMAP.snp.bgz",
+      "size": "2145196"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CHOROID.FINEMAP.snp.bgz.tbi",
+      "size": "4178"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CNS_NOS.FINEMAP.config.bgz",
+      "size": "618682"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CNS_NOS.FINEMAP.region.bgz",
+      "size": "214"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CNS_NOS.FINEMAP.snp.bgz",
+      "size": "1001032"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CNS_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "2232"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON.FINEMAP.config.bgz",
+      "size": "54781734"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON.FINEMAP.region.bgz",
+      "size": "1090"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON.FINEMAP.snp.bgz",
+      "size": "26758726"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON.FINEMAP.snp.bgz.tbi",
+      "size": "47882"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON_NOS.FINEMAP.config.bgz",
+      "size": "30397489"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON_NOS.FINEMAP.region.bgz",
+      "size": "689"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON_NOS.FINEMAP.snp.bgz",
+      "size": "15488143"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLON_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "28124"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLORECANI.FINEMAP.config.bgz",
+      "size": "76518924"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLORECANI.FINEMAP.region.bgz",
+      "size": "1415"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLORECANI.FINEMAP.snp.bgz",
+      "size": "36679097"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_COLORECANI.FINEMAP.snp.bgz.tbi",
+      "size": "65325"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_THX.FINEMAP.config.bgz",
+      "size": "853834"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_THX.FINEMAP.region.bgz",
+      "size": "221"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_THX.FINEMAP.snp.bgz",
+      "size": "1342955"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_THX.FINEMAP.snp.bgz.tbi",
+      "size": "1910"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.FINEMAP.config.bgz",
+      "size": "4644179"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.FINEMAP.region.bgz",
+      "size": "276"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.FINEMAP.snp.bgz",
+      "size": "2815484"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.FINEMAP.snp.bgz.tbi",
+      "size": "4455"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.FINEMAP.config.bgz",
+      "size": "4553495"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.FINEMAP.region.bgz",
+      "size": "275"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.FINEMAP.snp.bgz",
+      "size": "2467702"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.FINEMAP.snp.bgz.tbi",
+      "size": "3603"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.FINEMAP.config.bgz",
+      "size": "770811"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.FINEMAP.region.bgz",
+      "size": "219"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.FINEMAP.snp.bgz",
+      "size": "1218904"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "1897"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.FINEMAP.config.bgz",
+      "size": "9057059"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.FINEMAP.region.bgz",
+      "size": "351"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.FINEMAP.snp.bgz",
+      "size": "3685625"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.FINEMAP.snp.bgz.tbi",
+      "size": "7927"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HEART.FINEMAP.config.bgz",
+      "size": "987181"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HEART.FINEMAP.region.bgz",
+      "size": "213"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HEART.FINEMAP.snp.bgz",
+      "size": "1609795"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HEART.FINEMAP.snp.bgz.tbi",
+      "size": "2069"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HYPOPHARYNX.FINEMAP.config.bgz",
+      "size": "895065"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HYPOPHARYNX.FINEMAP.region.bgz",
+      "size": "220"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HYPOPHARYNX.FINEMAP.snp.bgz",
+      "size": "1422466"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_HYPOPHARYNX.FINEMAP.snp.bgz.tbi",
+      "size": "2406"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.FINEMAP.config.bgz",
+      "size": "220631020"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.FINEMAP.region.bgz",
+      "size": "3620"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.FINEMAP.snp.bgz",
+      "size": "87262287"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.FINEMAP.snp.bgz.tbi",
+      "size": "183273"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIP.FINEMAP.config.bgz",
+      "size": "1846382"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIP.FINEMAP.region.bgz",
+      "size": "215"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIP.FINEMAP.snp.bgz",
+      "size": "1325884"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIP.FINEMAP.snp.bgz.tbi",
+      "size": "1840"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPOMATOUS.FINEMAP.config.bgz",
+      "size": "17330703"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPOMATOUS.FINEMAP.region.bgz",
+      "size": "486"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPOMATOUS.FINEMAP.snp.bgz",
+      "size": "7571421"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPOMATOUS.FINEMAP.snp.bgz.tbi",
+      "size": "14275"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.FINEMAP.config.bgz",
+      "size": "1500621"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.FINEMAP.region.bgz",
+      "size": "237"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.FINEMAP.snp.bgz",
+      "size": "1103883"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.FINEMAP.snp.bgz.tbi",
+      "size": "2018"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.FINEMAP.config.bgz",
+      "size": "2392680"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.FINEMAP.region.bgz",
+      "size": "228"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.FINEMAP.snp.bgz",
+      "size": "1109275"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.FINEMAP.snp.bgz.tbi",
+      "size": "2581"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.FINEMAP.config.bgz",
+      "size": "842368"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.FINEMAP.region.bgz",
+      "size": "218"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.FINEMAP.snp.bgz",
+      "size": "1336769"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "2394"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.FINEMAP.config.bgz",
+      "size": "4815866"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.FINEMAP.region.bgz",
+      "size": "282"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.FINEMAP.snp.bgz",
+      "size": "2166759"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.FINEMAP.snp.bgz.tbi",
+      "size": "4744"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MEDIASTINUM.FINEMAP.config.bgz",
+      "size": "982449"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MEDIASTINUM.FINEMAP.region.bgz",
+      "size": "219"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MEDIASTINUM.FINEMAP.snp.bgz",
+      "size": "1602445"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MEDIASTINUM.FINEMAP.snp.bgz.tbi",
+      "size": "2494"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC.FINEMAP.config.bgz",
+      "size": "25685088"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC.FINEMAP.region.bgz",
+      "size": "614"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC.FINEMAP.snp.bgz",
+      "size": "11743364"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC.FINEMAP.snp.bgz.tbi",
+      "size": "21477"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.FINEMAP.config.bgz",
+      "size": "964854"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.FINEMAP.region.bgz",
+      "size": "222"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.FINEMAP.snp.bgz",
+      "size": "1535255"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.FINEMAP.snp.bgz.tbi",
+      "size": "2687"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.FINEMAP.config.bgz",
+      "size": "2660023"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.FINEMAP.region.bgz",
+      "size": "240"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.FINEMAP.snp.bgz",
+      "size": "1035837"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.FINEMAP.snp.bgz.tbi",
+      "size": "1553"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.FINEMAP.config.bgz",
+      "size": "9130911"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.FINEMAP.region.bgz",
+      "size": "357"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.FINEMAP.snp.bgz",
+      "size": "4787086"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.FINEMAP.snp.bgz.tbi",
+      "size": "6952"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.FINEMAP.config.bgz",
+      "size": "21309759"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.FINEMAP.region.bgz",
+      "size": "550"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.FINEMAP.snp.bgz",
+      "size": "9742775"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.FINEMAP.snp.bgz.tbi",
+      "size": "17580"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.FINEMAP.config.bgz",
+      "size": "1871445"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.FINEMAP.region.bgz",
+      "size": "236"
+    },
+    {
+      "name": "finemap/full/finemap/finngen_R13_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.FINEMAP.snp.bgz",
+      "size": "1401395"
+    }
+  ]
+}

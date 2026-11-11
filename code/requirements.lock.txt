@@ -1,0 +1,17 @@
+# A1 reproducibility lock — generated 2026-11-11
+# Python 3.13.14 (Windows)
+# 分析链仅依赖下列包；python-docx 仅用于中文报告排版，不参与统计。
+numpy==2.5.4
+scipy==1.18.1
+matplotlib==3.11.2
+pandas==3.1.0
+pyarrow==26.0.1
+requests==NOT_INSTALLED_OR_UNUSED
+python-docx==1.2.0
+
+# 关键设置（与代码一致，见 results/a1_version_snapshot.json）
+# LD clumping: 1000 Genomes EUR via Ensembl REST, r2 < 0.001, unknown pairs filled 0
+# coloc: ABF prior variance W=0.04, p1=1e-4, p2=1e-4, p12=1e-5 (sensitivity 1e-6 / 1e-4)
+# weighted median: bootstrap 2000; A18 IVW bootstrap: 5000
+# random seeds: 20261110 (weighted median / simulation / A18 bootstrap)
+# two-sided alpha=0.05; CI=1.959964; power target=80%

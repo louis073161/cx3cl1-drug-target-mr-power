@@ -1,0 +1,312 @@
+[
+ {
+  "initial_sample_size": "525 Sub-Saharan African ancestry individuals",
+  "replication_sample_size": "NA",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 15800632,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90650502",
+  "full_summary_stats_available": true,
+  "pubmed_id": 41507467,
+  "platforms": "NR [15800632] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "525 Sub-Saharan African (Uganda)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90650001-GCST90651000/GCST90650502",
+  "terms_of_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "bg_efo_traits": [],
+  "cohort": [
+   "UGR"
+  ],
+  "array_manufacturer": [],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90650502"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90650502/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "3,707 Greenlandic Inuit ancestry individuals",
+  "replication_sample_size": "NA",
+  "gxg": false,
+  "snp_count": 1600000,
+  "imputed": true,
+  "accession_id": "GCST90558167",
+  "full_summary_stats_available": false,
+  "pubmed_id": 39939757,
+  "platforms": "NR [1600000] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide sequencing"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "3707 Other admixed ancestry (Denmark, Greenland)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "NA",
+  "terms_of_license": "https://www.ebi.ac.uk/about/terms-of-use/",
+  "bg_efo_traits": [],
+  "cohort": [
+   "NR"
+  ],
+  "array_manufacturer": [],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90558167"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90558167/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "359 European ancestry females",
+  "replication_sample_size": "NA",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 4296841,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90503423",
+  "full_summary_stats_available": false,
+  "pubmed_id": 38326779,
+  "platforms": "Illumina [4296841] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "359 European (NR)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "NA",
+  "terms_of_license": "https://www.ebi.ac.uk/about/terms-of-use/",
+  "bg_efo_traits": [],
+  "cohort": [
+   "500FG",
+   "300BCG"
+  ],
+  "array_manufacturer": [
+   "Illumina"
+  ],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90503423"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90503423/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "318 European ancestry males",
+  "replication_sample_size": "NA",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 4296841,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90503357",
+  "full_summary_stats_available": false,
+  "pubmed_id": 38326779,
+  "platforms": "Illumina [4296841] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "318 European (NR)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "NA",
+  "terms_of_license": "https://www.ebi.ac.uk/about/terms-of-use/",
+  "bg_efo_traits": [],
+  "cohort": [
+   "500FG",
+   "300BCG"
+  ],
+  "array_manufacturer": [
+   "Illumina"
+  ],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90503357"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90503357/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "5,350 Icelandic ancestry individuals",
+  "replication_sample_size": "NA",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 7506463,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90088088",
+  "full_summary_stats_available": true,
+  "user_requested": false,
+  "pubmed_id": 35078996,
+  "platforms": "Illumina [7506463] (imputed)",
+  "disease_trait": "Serum levels of protein CX3CL1",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "5350 European (Iceland)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90088001-GCST90089000/GCST90088088",
+  "terms_of_license": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "bg_efo_traits": [],
+  "cohort": [
+   "AGES"
+  ],
+  "array_manufacturer": [
+   "Illumina"
+  ],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90088088"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90088088/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "21,758 European ancestry individuals",
+  "replication_sample_size": "9,173 individuals",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 20300000,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90012074",
+  "full_summary_stats_available": true,
+  "user_requested": false,
+  "pubmed_id": 33067605,
+  "platforms": "Affymetrix,Illumina [20300000] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "21758 European (NR)"
+  ],
+  "replication_ancestry": [
+   "9173 NR (NR, Sweden)"
+  ],
+  "full_summary_stats": "http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90012001-GCST90013000/GCST90012074",
+  "terms_of_license": "https://www.ebi.ac.uk/about/terms-of-use/",
+  "bg_efo_traits": [],
+  "array_manufacturer": [
+   "Illumina",
+   "Affymetrix"
+  ],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90012074"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90012074/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ },
+ {
+  "initial_sample_size": "982 Scottish ancestry individuals",
+  "gxe": false,
+  "gxg": false,
+  "snp_count": 7903493,
+  "imputed": true,
+  "pooled": false,
+  "accession_id": "GCST90000457",
+  "full_summary_stats_available": true,
+  "user_requested": false,
+  "pubmed_id": 32641083,
+  "platforms": "Illumina [7903493] (imputed)",
+  "disease_trait": "CX3CL1 levels",
+  "genotyping_technologies": [
+   "Genome-wide genotyping array"
+  ],
+  "efo_traits": [
+   {
+    "efo_id": "EFO_0009419",
+    "efo_trait": "CX3CL1 measurement"
+   }
+  ],
+  "discovery_ancestry": [
+   "982 European (U.K.)"
+  ],
+  "replication_ancestry": [],
+  "full_summary_stats": "http://ftp.ebi.ac.uk/pub/databases/gwas/summary_statistics/GCST90000001-GCST90001000/GCST90000457",
+  "terms_of_license": "https://www.ebi.ac.uk/about/terms-of-use/",
+  "bg_efo_traits": [],
+  "array_manufacturer": [
+   "Illumina"
+  ],
+  "_links": {
+   "self": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90000457"
+   },
+   "ancestries": {
+    "href": "https://www.ebi.ac.uk/gwas/rest/api/v2/studies/GCST90000457/ancestries{?sort,direction}",
+    "templated": true
+   }
+  }
+ }
+]

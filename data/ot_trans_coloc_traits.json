@@ -1,0 +1,41 @@
+{
+  "9:133273983": {
+    "n_coloc": 209,
+    "example_traits": [
+      "Free Cholesterol to Total Lipids in Chylomicrons and Extremely Large VLDL percentage",
+      "Red blood cell count",
+      "Metabolite levels (aspartylphenylalanine)",
+      "Trypsin-1 levels",
+      "Cholesteryl Esters in LDL"
+    ]
+  },
+  "9:76489957": {
+    "n_coloc": 4,
+    "example_traits": [
+      "Circulating CX3CL1 levels (id: OID00552_OID20976)",
+      "Red blood cell count",
+      "Circulating CX3CL1 levels (id: OID00806_OID20976)",
+      "mean corpuscular hemoglobin concentration (MCHC, mean, inv-norm transformed)"
+    ]
+  },
+  "19:48703728": {
+    "n_coloc": 1100,
+    "example_traits": [
+      "Hematocrit",
+      "Peptic ulcer disease or attention-deficit/hyperactivity disorder (pleiotropy)",
+      "Non-HDL cholesterol levels",
+      "Free Cholesterol to Cholesterol in HDL percentage",
+      "Non-cancer illness code, self-reported - hypertension (UKB data field 20002)"
+    ]
+  },
+  "10:63389329": {
+    "n_coloc": 2481,
+    "example_traits": [
+      "Vertex-wise sulcal depth",
+      "Circulating CCL5 levels",
+      "Platelet count",
+      "Circulating DKK1 levels",
+      "Circulating LTBR levels"
+    ]
+  }
+}

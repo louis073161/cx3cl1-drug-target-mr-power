@@ -1,0 +1,4005 @@
+{
+  "nextPageToken": "CjNzdW1tYXJ5X3N0YXRzL2Zpbm5nZW5fUjEzX0NEMl9CRU5JR05fU0NST1RVTS5nei50Ymk=",
+  "items": [
+    {
+      "name": "summary_stats/finngen_R13_AB1_ACTINOMYCOSIS.gz",
+      "size": "758615384"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ACTINOMYCOSIS.gz.tbi",
+      "size": "1760609"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ACTINOMYCOSIS_WIDE.gz",
+      "size": "758613554"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ACTINOMYCOSIS_WIDE.gz.tbi",
+      "size": "1760829"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_AMOEBIASIS.gz",
+      "size": "765353145"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_AMOEBIASIS.gz.tbi",
+      "size": "1761872"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_AMOEBIASIS_WIDE.gz",
+      "size": "772256361"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_AMOEBIASIS_WIDE.gz.tbi",
+      "size": "1762939"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANOGENITAL_HERPES_SIMPLEX.gz",
+      "size": "799201417"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANOGENITAL_HERPES_SIMPLEX.gz.tbi",
+      "size": "1768153"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANOGENITAL_HERPES_SIMPLEX_WIDE.gz",
+      "size": "801908408"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANOGENITAL_HERPES_SIMPLEX_WIDE.gz.tbi",
+      "size": "1768736"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANUG_WIDE.gz",
+      "size": "737327070"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ANUG_WIDE.gz.tbi",
+      "size": "1756614"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ARTHROPOD_WIDE.gz",
+      "size": "804331055"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ARTHROPOD_WIDE.gz.tbi",
+      "size": "1768898"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ASPERGILLOSIS.gz",
+      "size": "772209214"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ASPERGILLOSIS.gz.tbi",
+      "size": "1763137"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ATYPICAL_CNS_VIRUS.gz",
+      "size": "774089164"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ATYPICAL_CNS_VIRUS.gz.tbi",
+      "size": "1763280"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACTINF_NOS.gz",
+      "size": "808150880"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACTINF_NOS.gz.tbi",
+      "size": "1770009"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACTINF_NOS_WIDE.gz",
+      "size": "808466204"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACTINF_NOS_WIDE.gz.tbi",
+      "size": "1770298"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_BIR_OTHER_INF_AGENTS.gz",
+      "size": "801762064"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_BIR_OTHER_INF_AGENTS.gz.tbi",
+      "size": "1768270"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_BIR_OTHER_INF_AGENTS_WIDE.gz",
+      "size": "801948455"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_BIR_OTHER_INF_AGENTS_WIDE.gz.tbi",
+      "size": "1768382"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_INTEST_OTH.gz",
+      "size": "804585127"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_INTEST_OTH.gz.tbi",
+      "size": "1769380"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.gz",
+      "size": "804827151"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_BACT_INTEST_OTH_WIDE.gz.tbi",
+      "size": "1769244"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CANDIDIASIS.gz",
+      "size": "803530307"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CANDIDIASIS.gz.tbi",
+      "size": "1768635"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CANDIDIASIS_WIDE.gz",
+      "size": "804784299"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CANDIDIASIS_WIDE.gz.tbi",
+      "size": "1769518"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMYDIA_OTHER.gz",
+      "size": "799672622"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMYDIA_OTHER.gz.tbi",
+      "size": "1768548"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.gz",
+      "size": "801412814"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMYDIA_OTHER_WIDE.gz.tbi",
+      "size": "1768351"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMY_OTHER_WIDE.gz",
+      "size": "781586408"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHLAMY_OTHER_WIDE.gz.tbi",
+      "size": "1765031"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHOLERA_WIDE.gz",
+      "size": "750187743"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHOLERA_WIDE.gz.tbi",
+      "size": "1759568"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHROMOMYCOCIS_WIDE.gz",
+      "size": "757912612"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_CHROMOMYCOCIS_WIDE.gz.tbi",
+      "size": "1761158"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DENGUE_FEVER.gz",
+      "size": "747702066"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DENGUE_FEVER.gz.tbi",
+      "size": "1758804"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DENGUE_FEVER_WIDE.gz",
+      "size": "750107701"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DENGUE_FEVER_WIDE.gz.tbi",
+      "size": "1759941"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DERMATOPHYTOSIS.gz",
+      "size": "803002218"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DERMATOPHYTOSIS.gz.tbi",
+      "size": "1768690"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.gz",
+      "size": "807751025"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DERMATOPHYTOSIS_WIDE.gz.tbi",
+      "size": "1770274"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DIBTHERIA.gz",
+      "size": "745899575"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DIBTHERIA.gz.tbi",
+      "size": "1759155"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DIBTHERIA_WIDE.gz",
+      "size": "747917418"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_DIBTHERIA_WIDE.gz.tbi",
+      "size": "1759243"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EARLY_SYPHILIS.gz",
+      "size": "776171702"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EARLY_SYPHILIS.gz.tbi",
+      "size": "1763803"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EARLY_SYPHILIS_WIDE.gz",
+      "size": "778826227"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EARLY_SYPHILIS_WIDE.gz.tbi",
+      "size": "1764418"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EBV.gz",
+      "size": "801071916"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_EBV.gz.tbi",
+      "size": "1768363"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ENTEROBIASIS.gz",
+      "size": "760490358"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ENTEROBIASIS.gz.tbi",
+      "size": "1761006"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ENTEROBIASIS_WIDE.gz",
+      "size": "786579562"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ENTEROBIASIS_WIDE.gz.tbi",
+      "size": "1765762"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPELAS.gz",
+      "size": "807655171"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPELAS.gz.tbi",
+      "size": "1770059"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPELAS_WIDE.gz",
+      "size": "808613489"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPELAS_WIDE.gz.tbi",
+      "size": "1770542"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPLEOID_WIDE.gz",
+      "size": "760347516"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ERYSIPLEOID_WIDE.gz.tbi",
+      "size": "1761394"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GASTROENTERITIS_NOS.gz",
+      "size": "808494771"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GASTROENTERITIS_NOS.gz.tbi",
+      "size": "1770551"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.gz",
+      "size": "809435519"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GASTROENTERITIS_NOS_WIDE.gz.tbi",
+      "size": "1770843"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GONOCOCCAL.gz",
+      "size": "792451789"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GONOCOCCAL.gz.tbi",
+      "size": "1766658"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GONOCOCCAL_WIDE.gz",
+      "size": "793097382"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_GONOCOCCAL_WIDE.gz.tbi",
+      "size": "1767002"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTHIASES_NOS_WIDE.gz",
+      "size": "752787658"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTHIASES_NOS_WIDE.gz.tbi",
+      "size": "1759802"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTIASES.gz",
+      "size": "784606830"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTIASES.gz.tbi",
+      "size": "1765436"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTIASES_WIDE.gz",
+      "size": "795239766"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HELMINTIASES_WIDE.gz.tbi",
+      "size": "1767169"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HEPATITIS_A.gz",
+      "size": "759356265"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HEPATITIS_A.gz.tbi",
+      "size": "1760984"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HEPATITIS_B.gz",
+      "size": "760055164"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HEPATITIS_B.gz.tbi",
+      "size": "1761203"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HERPES_SIMPLEX.gz",
+      "size": "802683512"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HERPES_SIMPLEX.gz.tbi",
+      "size": "1768673"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.gz",
+      "size": "804510243"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HERPES_SIMPLEX_WIDE.gz.tbi",
+      "size": "1769289"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_INFECT_PARASITES.gz",
+      "size": "747166503"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_INFECT_PARASITES.gz.tbi",
+      "size": "1758421"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_INFECT_PARASITES_WIDE.gz",
+      "size": "751058434"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_INFECT_PARASITES_WIDE.gz.tbi",
+      "size": "1759863"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_NOS.gz",
+      "size": "770685028"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_HIV_NOS.gz.tbi",
+      "size": "1763189"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INFECT_PARASIT_WIDE.gz",
+      "size": "810405805"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INFECT_PARASIT_WIDE.gz.tbi",
+      "size": "1771732"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INTESTINAL_INFECTIONS.gz",
+      "size": "809145965"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INTESTINAL_INFECTIONS.gz.tbi",
+      "size": "1770511"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.gz",
+      "size": "809795386"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INTESTINAL_INFECTIONS_WIDE.gz.tbi",
+      "size": "1771061"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INT_HELMINTIASES_NOS_WIDE.gz",
+      "size": "752433296"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_INT_HELMINTIASES_NOS_WIDE.gz.tbi",
+      "size": "1760111"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LATE_SYPHILIS.gz",
+      "size": "779465156"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LATE_SYPHILIS.gz.tbi",
+      "size": "1764339"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LATE_SYPHILIS_WIDE.gz",
+      "size": "782858305"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LATE_SYPHILIS_WIDE.gz.tbi",
+      "size": "1765083"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LISTERIOSIS.gz",
+      "size": "761940242"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LISTERIOSIS.gz.tbi",
+      "size": "1761451"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LYME.gz",
+      "size": "805923022"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_LYME.gz.tbi",
+      "size": "1769558"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA.gz",
+      "size": "762542455"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA.gz.tbi",
+      "size": "1761411"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_FALCIPARIUM.gz",
+      "size": "750751448"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_FALCIPARIUM.gz.tbi",
+      "size": "1758893"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_NOS.gz",
+      "size": "749313872"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_NOS.gz.tbi",
+      "size": "1759179"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_NOS_WIDE.gz",
+      "size": "753775397"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MALARIA_NOS_WIDE.gz.tbi",
+      "size": "1760242"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MEASLES.gz",
+      "size": "777294699"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MEASLES.gz.tbi",
+      "size": "1764187"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MENINGOCOCCAL.gz",
+      "size": "772065593"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MENINGOCOCCAL.gz.tbi",
+      "size": "1762739"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MUMPS.gz",
+      "size": "790266565"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MUMPS.gz.tbi",
+      "size": "1766402"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYCOSES.gz",
+      "size": "804685386"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYCOSES.gz.tbi",
+      "size": "1769367"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYCOSES_WIDE.gz",
+      "size": "808817939"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYCOSES_WIDE.gz.tbi",
+      "size": "1770482"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYSOSIS_NOS.gz",
+      "size": "756800368"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYSOSIS_NOS.gz.tbi",
+      "size": "1760800"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYSOSIS_NOS_WIDE.gz",
+      "size": "784183554"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_MYSOSIS_NOS_WIDE.gz.tbi",
+      "size": "1765250"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACTERIAL.gz",
+      "size": "809685946"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACTERIAL.gz.tbi",
+      "size": "1771026"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.gz",
+      "size": "809824953"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACTERIAL_WIDE.gz.tbi",
+      "size": "1770693"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACT_INOTHER.gz",
+      "size": "776277986"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACT_INOTHER.gz.tbi",
+      "size": "1764048"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACT_INOTHER_WIDE.gz",
+      "size": "779677610"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_BACT_INOTHER_WIDE.gz.tbi",
+      "size": "1764334"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CESTODE.gz",
+      "size": "753401374"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CESTODE.gz.tbi",
+      "size": "1760326"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CHLAMYDIAE.gz",
+      "size": "778118966"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CHLAMYDIAE.gz.tbi",
+      "size": "1763864"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.gz",
+      "size": "782645654"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CHLAMYDIAE_WIDE.gz.tbi",
+      "size": "1765269"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CONDITIONS.gz",
+      "size": "779742860"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_CONDITIONS.gz.tbi",
+      "size": "1764596"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFECTIONS.gz",
+      "size": "801675825"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFECTIONS.gz.tbi",
+      "size": "1768250"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFECTIONS_WIDE.gz",
+      "size": "802483778"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFECTIONS_WIDE.gz.tbi",
+      "size": "1768660"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFESTATIONS.gz",
+      "size": "752758766"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFESTATIONS.gz.tbi",
+      "size": "1760039"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFESTATIONS_WIDE.gz",
+      "size": "784552082"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_INFESTATIONS_WIDE.gz.tbi",
+      "size": "1765082"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MOSQUITO_FEVER.gz",
+      "size": "749682898"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MOSQUITO_FEVER.gz.tbi",
+      "size": "1759677"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.gz",
+      "size": "766978104"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MOSQUITO_FEVER_WIDE.gz.tbi",
+      "size": "1761987"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MYCOBAC.gz",
+      "size": "783026802"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_MYCOBAC.gz.tbi",
+      "size": "1765274"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_PROTOZOAL.gz",
+      "size": "781533282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_PROTOZOAL.gz.tbi",
+      "size": "1764913"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_PROTOZOAL_WIDE.gz",
+      "size": "788116708"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_PROTOZOAL_WIDE.gz.tbi",
+      "size": "1766247"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SEPSIS.gz",
+      "size": "805452486"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SEPSIS.gz.tbi",
+      "size": "1769513"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SPIROCHAETAL.gz",
+      "size": "805891382"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SPIROCHAETAL.gz.tbi",
+      "size": "1769611"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.gz",
+      "size": "805166948"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SPIROCHAETAL_WIDE.gz.tbi",
+      "size": "1769420"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.gz",
+      "size": "787139162"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS.gz.tbi",
+      "size": "1766172"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.gz",
+      "size": "802251134"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_SUPERF_MYCOSIS_WIDE.gz.tbi",
+      "size": "1768643"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_VIRAL.gz",
+      "size": "804645232"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_VIRAL.gz.tbi",
+      "size": "1769333"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_VIRAL_WIDE.gz",
+      "size": "804941489"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_VIRAL_WIDE.gz.tbi",
+      "size": "1769674"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.gz",
+      "size": "760001679"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_OTHER_ZOONOTIC_WIDE.gz.tbi",
+      "size": "1761401"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PARASITIC_NOS.gz",
+      "size": "772020671"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PARASITIC_NOS.gz.tbi",
+      "size": "1762812"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST.gz",
+      "size": "798050269"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST.gz.tbi",
+      "size": "1768174"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST_WIDE.gz",
+      "size": "803778688"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_ACARIASIS_OTHERINFEST_WIDE.gz.tbi",
+      "size": "1769278"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_AND_PHTHIRIAASIS.gz",
+      "size": "754405316"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_AND_PHTHIRIAASIS.gz.tbi",
+      "size": "1760449"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_AND_PHTHIRIAASIS_WIDE.gz",
+      "size": "765432392"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PEDICULOSIS_AND_PHTHIRIAASIS_WIDE.gz.tbi",
+      "size": "1762052"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PNEUMOCYSTOSIS.gz",
+      "size": "784011631"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PNEUMOCYSTOSIS.gz.tbi",
+      "size": "1765336"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_POLIOMYELITIS.gz",
+      "size": "778975607"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_POLIOMYELITIS.gz.tbi",
+      "size": "1764074"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PROTOZOAL.gz",
+      "size": "791008495"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_PROTOZOAL.gz.tbi",
+      "size": "1766647"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RELAP_FEVER.gz",
+      "size": "750301478"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RELAP_FEVER.gz.tbi",
+      "size": "1759287"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RELAP_FEVER_WIDE.gz",
+      "size": "752599071"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RELAP_FEVER_WIDE.gz.tbi",
+      "size": "1759981"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RESP_TUBERCU_CONF.gz",
+      "size": "785406470"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RESP_TUBERCU_CONF.gz.tbi",
+      "size": "1765185"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RESP_TUBERCU_NONCONF.gz",
+      "size": "795834414"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RESP_TUBERCU_NONCONF.gz.tbi",
+      "size": "1767265"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RICKETTSIOSES.gz",
+      "size": "748710859"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RICKETTSIOSES.gz.tbi",
+      "size": "1758685"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RICKETTSIOSES_WIDE.gz",
+      "size": "748993437"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RICKETTSIOSES_WIDE.gz.tbi",
+      "size": "1758435"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RUBELLA.gz",
+      "size": "793010848"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_RUBELLA.gz.tbi",
+      "size": "1766923"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SALMONELLA_OTH.gz",
+      "size": "794617527"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SALMONELLA_OTH.gz.tbi",
+      "size": "1766979"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SALMONELLA_OTH_WIDE.gz",
+      "size": "796589657"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SALMONELLA_OTH_WIDE.gz.tbi",
+      "size": "1767537"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCABIES.gz",
+      "size": "796155874"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCABIES.gz.tbi",
+      "size": "1767039"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCABIES_WIDE.gz",
+      "size": "803209565"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCABIES_WIDE.gz.tbi",
+      "size": "1768556"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCARLET_FEVER.gz",
+      "size": "770293056"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCARLET_FEVER.gz.tbi",
+      "size": "1763188"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCARLET_FEVER_WIDE.gz",
+      "size": "773828210"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCARLET_FEVER_WIDE.gz.tbi",
+      "size": "1763640"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCHISTOSOMIASIS_WIDE.gz",
+      "size": "755837072"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SCHISTOSOMIASIS_WIDE.gz.tbi",
+      "size": "1760502"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.gz",
+      "size": "806179479"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_BACT_IMPL_WIDE.gz.tbi",
+      "size": "1769623"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.gz",
+      "size": "809325348"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_CONDITION_WIDE.gz.tbi",
+      "size": "1770949"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_FUNGAL_IMPL_WIDE.gz",
+      "size": "799656506"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_FUNGAL_IMPL_WIDE.gz.tbi",
+      "size": "1768205"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.gz",
+      "size": "808956525"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_IMPLICIT_WIDE.gz.tbi",
+      "size": "1770522"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_PARAS_IMPL_WIDE.gz",
+      "size": "764709200"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_PARAS_IMPL_WIDE.gz.tbi",
+      "size": "1761886"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_VIRAL_IMPL_WIDE.gz",
+      "size": "804076474"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEPSIS_VIRAL_IMPL_WIDE.gz.tbi",
+      "size": "1769555"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_INF_NOS.gz",
+      "size": "798709564"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_INF_NOS.gz.tbi",
+      "size": "1767588"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_POLIO.gz",
+      "size": "770053022"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_POLIO.gz.tbi",
+      "size": "1763007"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_POLIO_WIDE.gz",
+      "size": "772843514"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_POLIO_WIDE.gz.tbi",
+      "size": "1763360"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_TUBERCU.gz",
+      "size": "786657582"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULAE_TUBERCU.gz.tbi",
+      "size": "1765775"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.gz",
+      "size": "801344169"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEQULEAE_OF_INFECTIONS_AND_PARASITES.gz.tbi",
+      "size": "1768542"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION.gz",
+      "size": "804814369"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION.gz.tbi",
+      "size": "1769317"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_NOS.gz",
+      "size": "803741252"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_NOS.gz.tbi",
+      "size": "1768928"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_NOS_WIDE.gz",
+      "size": "804043140"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_NOS_WIDE.gz.tbi",
+      "size": "1769098"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.gz",
+      "size": "805059679"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SEXUAL_TRANSMISSION_WIDE.gz.tbi",
+      "size": "1769918"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SHIGELLOSIS.gz",
+      "size": "755753117"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SHIGELLOSIS.gz.tbi",
+      "size": "1760392"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SHIGELLOSIS_WIDE.gz",
+      "size": "768877137"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SHIGELLOSIS_WIDE.gz.tbi",
+      "size": "1762843"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.gz",
+      "size": "805861985"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SPIROCHE_OTHER_WIDE.gz.tbi",
+      "size": "1769564"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTO_SEPSIS.gz",
+      "size": "801924706"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTO_SEPSIS.gz.tbi",
+      "size": "1768232"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTSTAPHYCOCC_INOTHER.gz",
+      "size": "766133891"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTSTAPHYCOCC_INOTHER.gz.tbi",
+      "size": "1762187"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTSTAPHYCOCC_INOTHER_WIDE.gz",
+      "size": "771010772"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_STREPTSTAPHYCOCC_INOTHER_WIDE.gz.tbi",
+      "size": "1762734"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS.gz",
+      "size": "789057955"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS.gz.tbi",
+      "size": "1766281"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_NOS.gz",
+      "size": "753511995"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_NOS.gz.tbi",
+      "size": "1759840"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_NOS_WIDE.gz",
+      "size": "757065694"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_NOS_WIDE.gz.tbi",
+      "size": "1760939"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_WIDE.gz",
+      "size": "789059745"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_SYPHILIS_WIDE.gz.tbi",
+      "size": "1766240"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TICK_BORNE_ENCEPHALITIS.gz",
+      "size": "761472373"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TICK_BORNE_ENCEPHALITIS.gz.tbi",
+      "size": "1761025"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TICK_BORNE_ENCEPHALITIS_WIDE.gz",
+      "size": "763770853"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TICK_BORNE_ENCEPHALITIS_WIDE.gz.tbi",
+      "size": "1761727"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TOXOPLASMOSIS.gz",
+      "size": "764720371"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TOXOPLASMOSIS.gz.tbi",
+      "size": "1761805"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TRICHOMONIASIS.gz",
+      "size": "770283570"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TRICHOMONIASIS.gz.tbi",
+      "size": "1762715"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TRICHOMONIASIS_WIDE.gz",
+      "size": "772731548"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TRICHOMONIASIS_WIDE.gz.tbi",
+      "size": "1763029"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCULOSIS.gz",
+      "size": "800678612"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCULOSIS.gz.tbi",
+      "size": "1768471"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCU_MILIARY.gz",
+      "size": "748306321"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCU_MILIARY.gz.tbi",
+      "size": "1759349"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCU_OTH_ORG.gz",
+      "size": "788605934"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TUBERCU_OTH_ORG.gz.tbi",
+      "size": "1766095"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TULARAEMIA.gz",
+      "size": "778446481"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TULARAEMIA.gz.tbi",
+      "size": "1764426"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TULARAEMIA_WIDE.gz",
+      "size": "784617121"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TULARAEMIA_WIDE.gz.tbi",
+      "size": "1765491"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TYPHOIDPARATHYPHOID.gz",
+      "size": "760280416"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TYPHOIDPARATHYPHOID.gz.tbi",
+      "size": "1761251"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TYPHOIDPARATHYPHOID_WIDE.gz",
+      "size": "767404859"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_TYPHOIDPARATHYPHOID_WIDE.gz.tbi",
+      "size": "1762253"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VARICELLA.gz",
+      "size": "797303848"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VARICELLA.gz.tbi",
+      "size": "1767476"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VARICELLA_WIDE.gz",
+      "size": "798378921"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VARICELLA_WIDE.gz.tbi",
+      "size": "1767872"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAAL_CONJUNCT.gz",
+      "size": "787602106"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAAL_CONJUNCT.gz.tbi",
+      "size": "1766201"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAAL_CONJUNCT_WIDE.gz",
+      "size": "794524739"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAAL_CONJUNCT_WIDE.gz.tbi",
+      "size": "1766983"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_CNS.gz",
+      "size": "800167149"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_CNS.gz.tbi",
+      "size": "1768346"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_CNS_WIDE.gz",
+      "size": "800857864"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_CNS_WIDE.gz.tbi",
+      "size": "1768096"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_ENCEPHALITIS_NOS.gz",
+      "size": "786450805"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_ENCEPHALITIS_NOS.gz.tbi",
+      "size": "1765476"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS.gz",
+      "size": "800278595"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS.gz.tbi",
+      "size": "1768134"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.gz",
+      "size": "803940433"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEMOR_FEVER_NOS_WIDE.gz.tbi",
+      "size": "1769205"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEPATITIS.gz",
+      "size": "800546421"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_HEPATITIS.gz.tbi",
+      "size": "1767967"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_INOTHER.gz",
+      "size": "785859764"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_INOTHER.gz.tbi",
+      "size": "1765307"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_INOTHER_WIDE.gz",
+      "size": "790018353"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_INOTHER_WIDE.gz.tbi",
+      "size": "1766431"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_MENINGITIS.gz",
+      "size": "794337387"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_MENINGITIS.gz.tbi",
+      "size": "1766899"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_NOS.gz",
+      "size": "804128208"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_NOS.gz.tbi",
+      "size": "1768947"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_NOS_WIDE.gz",
+      "size": "804584759"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_NOS_WIDE.gz.tbi",
+      "size": "1769711"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.gz",
+      "size": "804032759"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS.gz.tbi",
+      "size": "1769175"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.gz",
+      "size": "804834521"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_OTHER_INTEST_INFECTIONS_WIDE.gz.tbi",
+      "size": "1769286"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.gz",
+      "size": "805586645"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE.gz.tbi",
+      "size": "1769778"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.gz",
+      "size": "808749476"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_MUCOUS_MEMBRANE_WIDE.gz.tbi",
+      "size": "1770653"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_NOS.gz",
+      "size": "794074174"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_NOS.gz.tbi",
+      "size": "1767271"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.gz",
+      "size": "799570347"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_SKIN_NOS_WIDE.gz.tbi",
+      "size": "1768337"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_WARTS.gz",
+      "size": "801792670"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_WARTS.gz.tbi",
+      "size": "1768481"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_WARTS_WIDE.gz",
+      "size": "804003093"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAL_WARTS_WIDE.gz.tbi",
+      "size": "1769278"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAN_CNS_INFECTIONS_NOS.gz",
+      "size": "777245085"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAN_CNS_INFECTIONS_NOS.gz.tbi",
+      "size": "1764227"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAN_CNS_INFECTIONS_NOS_WIDE.gz",
+      "size": "781304349"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_VIRAN_CNS_INFECTIONS_NOS_WIDE.gz.tbi",
+      "size": "1764673"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_WHOOPCOUGH.gz",
+      "size": "767188607"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_WHOOPCOUGH.gz.tbi",
+      "size": "1762316"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_WHOOPCOUGH_WIDE.gz",
+      "size": "780973594"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_WHOOPCOUGH_WIDE.gz.tbi",
+      "size": "1765023"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_YAWNS_WIDE.gz",
+      "size": "759217043"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_YAWNS_WIDE.gz.tbi",
+      "size": "1761212"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOONOTIC_BACTERIAL.gz",
+      "size": "784654738"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOONOTIC_BACTERIAL.gz.tbi",
+      "size": "1765276"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOONOTIC_BACTERIAL_WIDE.gz",
+      "size": "791671398"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOONOTIC_BACTERIAL_WIDE.gz.tbi",
+      "size": "1766864"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOSTER.gz",
+      "size": "804163310"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOSTER.gz.tbi",
+      "size": "1769247"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOSTER_WIDE.gz",
+      "size": "806545652"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AB1_ZOSTER_WIDE.gz.tbi",
+      "size": "1769996"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABDOM_HERNIA.gz",
+      "size": "806418989"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABDOM_HERNIA.gz.tbi",
+      "size": "1769598"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABDOM_HERNIA_POSTOP.gz",
+      "size": "804298544"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABDOM_HERNIA_POSTOP.gz.tbi",
+      "size": "1769077"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABPA.gz",
+      "size": "758670466"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ABPA.gz.tbi",
+      "size": "1760769"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.gz",
+      "size": "770323485"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ACUTE_DRUGADVERS_INTERSTITIAL_LUNG_DISORD.gz.tbi",
+      "size": "1763263"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_AM_EXMORE.gz",
+      "size": "800912166"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_AM_EXMORE.gz.tbi",
+      "size": "1768271"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_EO_EXMORE.gz",
+      "size": "797447476"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_EO_EXMORE.gz.tbi",
+      "size": "1767280"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_LO_EXMORE.gz",
+      "size": "804141477"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_LO_EXMORE.gz.tbi",
+      "size": "1769340"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_U_EXMORE.gz",
+      "size": "775550204"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AD_U_EXMORE.gz.tbi",
+      "size": "1763120"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCODELIRIUM.gz",
+      "size": "799612405"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCODELIRIUM.gz.tbi",
+      "size": "1767874"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOHOLACUTE10.gz",
+      "size": "804747563"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOHOLACUTE10.gz.tbi",
+      "size": "1769173"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOPANCACU.gz",
+      "size": "793067961"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOPANCACU.gz.tbi",
+      "size": "1766837"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOPANCCHRON.gz",
+      "size": "797961610"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCOPANCCHRON.gz.tbi",
+      "size": "1767697"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCO_PRESCRIPTION.gz",
+      "size": "801657848"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALCO_PRESCRIPTION.gz.tbi",
+      "size": "1768118"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERGIC_CONTACT_DERMA_DRUGS_CONTACT_W_SKIN.gz",
+      "size": "789112968"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERGIC_CONTACT_DERMA_DRUGS_CONTACT_W_SKIN.gz.tbi",
+      "size": "1766461"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERG_ASTHMA.gz",
+      "size": "805125135"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERG_ASTHMA.gz.tbi",
+      "size": "1769237"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERG_RHINITIS.gz",
+      "size": "804811283"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ALLERG_RHINITIS.gz.tbi",
+      "size": "1769257"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AMN2.gz",
+      "size": "801178733"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AMN2.gz.tbi",
+      "size": "1768312"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.gz",
+      "size": "776807154"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANAPH_SHOCK_ADVER_EFFECT_CORRE_DRUG_MEDICAM_PROPE_ADMINISTE.gz.tbi",
+      "size": "1763879"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANOSMIA.gz",
+      "size": "788120075"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANOSMIA.gz.tbi",
+      "size": "1766267"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANTIDEPRESSANTS.gz",
+      "size": "808401578"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ANTIDEPRESSANTS.gz.tbi",
+      "size": "1770546"
+    },
+    {
+      "name": "summary_stats/finngen_R13_APPENDACUT_COMPLIC.gz",
+      "size": "804498666"
+    },
+    {
+      "name": "summary_stats/finngen_R13_APPENDACUT_COMPLIC.gz.tbi",
+      "size": "1769099"
+    },
+    {
+      "name": "summary_stats/finngen_R13_APPENDACUT_NOCOMPLIC.gz",
+      "size": "807520357"
+    },
+    {
+      "name": "summary_stats/finngen_R13_APPENDACUT_NOCOMPLIC.gz.tbi",
+      "size": "1770144"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ARTHRO_SPEC.gz",
+      "size": "788276619"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ARTHRO_SPEC.gz.tbi",
+      "size": "1765863"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ARTRHO_POSTDYSENTERIC.gz",
+      "size": "773561932"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ARTRHO_POSTDYSENTERIC.gz.tbi",
+      "size": "1763596"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.gz",
+      "size": "806932486"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_ACUTE_RESPIRATORY_INFECTIONS.gz.tbi",
+      "size": "1770133"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_ALLERG.gz",
+      "size": "803839639"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_ALLERG.gz.tbi",
+      "size": "1768897"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_CHILD_EXMORE.gz",
+      "size": "803377779"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_CHILD_EXMORE.gz.tbi",
+      "size": "1768876"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.gz",
+      "size": "801567545"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_EOSINOPHIL_SUGG.gz.tbi",
+      "size": "1768271"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_INFECTIONS.gz",
+      "size": "808215862"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_INFECTIONS.gz.tbi",
+      "size": "1770241"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_MIXED_EXMORE.gz",
+      "size": "798977169"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_MIXED_EXMORE.gz.tbi",
+      "size": "1767764"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_NAS.gz",
+      "size": "807422602"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_NAS.gz.tbi",
+      "size": "1769745"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_OBESITY.gz",
+      "size": "805241683"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_OBESITY.gz.tbi",
+      "size": "1769286"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_OPPORTUNIST_INFECTIONS.gz",
+      "size": "795744452"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_OPPORTUNIST_INFECTIONS.gz.tbi",
+      "size": "1767201"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_PNEUMONIA.gz",
+      "size": "805581049"
+    },
+    {
+      "name": "summary_stats/finngen_R13_ASTHMA_PNEUMONIA.gz.tbi",
+      "size": "1769790"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUD.gz",
+      "size": "806304055"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUD.gz.tbi",
+      "size": "1769654"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUD_SWEDISH.gz",
+      "size": "808377822"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUD_SWEDISH.gz.tbi",
+      "size": "1770122"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOHEP.gz",
+      "size": "772575190"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOHEP.gz.tbi",
+      "size": "1763258"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE.gz",
+      "size": "810559695"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE.gz.tbi",
+      "size": "1771282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.gz",
+      "size": "800399293"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE_HYPERTHYROIDISM.gz.tbi",
+      "size": "1768449"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE_NONTHYROID.gz",
+      "size": "809488396"
+    },
+    {
+      "name": "summary_stats/finngen_R13_AUTOIMMUNE_NONTHYROID.gz.tbi",
+      "size": "1770606"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BACT_INTEST_INFECTION_NOS.gz",
+      "size": "800258074"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BACT_INTEST_INFECTION_NOS.gz.tbi",
+      "size": "1768239"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BLEEDING.gz",
+      "size": "808989254"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BLEEDING.gz.tbi",
+      "size": "1770861"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BMI_IRN.gz",
+      "size": "604052556"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BMI_IRN.gz.tbi",
+      "size": "1724013"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BRONCHITIS.gz",
+      "size": "809668881"
+    },
+    {
+      "name": "summary_stats/finngen_R13_BRONCHITIS.gz.tbi",
+      "size": "1771141"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ACCESSORY_SINUS_WIDE.gz",
+      "size": "761720081"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ACCESSORY_SINUS_WIDE.gz.tbi",
+      "size": "1761367"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ADRENAL_GLAND_WIDE.gz",
+      "size": "770095475"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ADRENAL_GLAND_WIDE.gz.tbi",
+      "size": "1762745"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ALL_WIDE.gz",
+      "size": "766782885"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ALL_WIDE.gz.tbi",
+      "size": "1762187"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_AML_MDS.gz",
+      "size": "787092283"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_AML_MDS.gz.tbi",
+      "size": "1765723"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_AML_WIDE.gz",
+      "size": "775009374"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_AML_WIDE.gz.tbi",
+      "size": "1763721"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ANUS_ANALCANAL_WIDE.gz",
+      "size": "778375787"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ANUS_ANALCANAL_WIDE.gz.tbi",
+      "size": "1764008"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ASTROCYTOMA_WIDE.gz",
+      "size": "759421810"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ASTROCYTOMA_WIDE.gz.tbi",
+      "size": "1761132"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.gz",
+      "size": "807125210"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BASAL_CELL_CARCINOMA_WIDE.gz.tbi",
+      "size": "1769849"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BASEOFTONGUE_WIDE.gz",
+      "size": "772153039"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BASEOFTONGUE_WIDE.gz.tbi",
+      "size": "1763316"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.gz",
+      "size": "799860498"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BILIARY_GALLBLADDER_WIDE.gz.tbi",
+      "size": "1767980"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BLADDER_WIDE.gz",
+      "size": "803503469"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BLADDER_WIDE.gz.tbi",
+      "size": "1768629"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BONE_CARTILAGE.gz",
+      "size": "774391549"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BONE_CARTILAGE.gz.tbi",
+      "size": "1763405"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BRAIN_WIDE.gz",
+      "size": "798288530"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BRAIN_WIDE.gz.tbi",
+      "size": "1767768"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_ERNEG_WIDE.gz",
+      "size": "804181962"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_ERNEG_WIDE.gz.tbi",
+      "size": "1769114"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_ERPLUS_WIDE.gz",
+      "size": "804554155"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_ERPLUS_WIDE.gz.tbi",
+      "size": "1769203"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_WIDE.gz",
+      "size": "805646519"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BREAST_WIDE.gz.tbi",
+      "size": "1769281"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BRONCHUS_LUNG_WIDE.gz",
+      "size": "805097690"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_BRONCHUS_LUNG_WIDE.gz.tbi",
+      "size": "1769313"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CANCER.gz",
+      "size": "811434773"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CANCER.gz.tbi",
+      "size": "1770644"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CANCER_WIDE.gz",
+      "size": "811531469"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CANCER_WIDE.gz.tbi",
+      "size": "1771184"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_ADENO.gz",
+      "size": "758511390"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_ADENO.gz.tbi",
+      "size": "1760840"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_SQUAM.gz",
+      "size": "767877504"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_SQUAM.gz.tbi",
+      "size": "1762072"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_UTERI_WIDE.gz",
+      "size": "790103071"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CERVIX_UTERI_WIDE.gz.tbi",
+      "size": "1766619"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CHONDROSARCOMA_WIDE.gz",
+      "size": "761307271"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CHONDROSARCOMA_WIDE.gz.tbi",
+      "size": "1761359"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CIRCULATING_LYMPHOID.gz",
+      "size": "765284623"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CIRCULATING_LYMPHOID.gz.tbi",
+      "size": "1761591"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.gz",
+      "size": "791895697"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CIRCULATING_LYMPHOID_WIDE.gz.tbi",
+      "size": "1766341"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CLL_WIDE.gz",
+      "size": "791646735"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CLL_WIDE.gz.tbi",
+      "size": "1766687"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CML_WIDE.gz",
+      "size": "773929844"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CML_WIDE.gz.tbi",
+      "size": "1763407"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLON_ADENO.gz",
+      "size": "803175388"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLON_ADENO.gz.tbi",
+      "size": "1768625"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLON_WIDE.gz",
+      "size": "804805171"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLON_WIDE.gz.tbi",
+      "size": "1769174"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL.gz",
+      "size": "805213365"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL.gz.tbi",
+      "size": "1769228"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL_ADENO.gz",
+      "size": "804804005"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL_ADENO.gz.tbi",
+      "size": "1768846"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL_NEUROENDO.gz",
+      "size": "780411980"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_COLORECTAL_NEUROENDO.gz.tbi",
+      "size": "1764363"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CORPUS_UTERI_WIDE.gz",
+      "size": "801435256"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_CORPUS_UTERI_WIDE.gz.tbi",
+      "size": "1768508"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_DIGESTIVE_ORGANS.gz",
+      "size": "805994251"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_DIGESTIVE_ORGANS.gz.tbi",
+      "size": "1769763"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_DLBCL_WIDE.gz",
+      "size": "796401176"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_DLBCL_WIDE.gz.tbi",
+      "size": "1767233"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ENDOCRINE.gz",
+      "size": "800246172"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ENDOCRINE.gz.tbi",
+      "size": "1767971"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EPENDYDOMA.gz",
+      "size": "747505856"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EPENDYDOMA.gz.tbi",
+      "size": "1759121"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EYE_ADNEXA_WIDE.gz",
+      "size": "783860486"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EYE_ADNEXA_WIDE.gz.tbi",
+      "size": "1765332"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EYE_BRAIN_NEURO.gz",
+      "size": "797129266"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_EYE_BRAIN_NEURO.gz.tbi",
+      "size": "1767455"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_FEMALE_GENITAL.gz",
+      "size": "803302505"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_FEMALE_GENITAL.gz.tbi",
+      "size": "1768699"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_FIBROSARCOMA_WIDE.gz",
+      "size": "771939834"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_FIBROSARCOMA_WIDE.gz.tbi",
+      "size": "1763060"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GALLBLADDER_WIDE.gz",
+      "size": "768838068"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GALLBLADDER_WIDE.gz.tbi",
+      "size": "1762112"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GASTRINT_STROM.gz",
+      "size": "774601728"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GASTRINT_STROM.gz.tbi",
+      "size": "1763890"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GBM.gz",
+      "size": "780597812"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GBM.gz.tbi",
+      "size": "1764523"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GBM_ASTROCYTOMA.gz",
+      "size": "784816086"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GBM_ASTROCYTOMA.gz.tbi",
+      "size": "1765028"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GUM_WIDE.gz",
+      "size": "773688421"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_GUM_WIDE.gz.tbi",
+      "size": "1763210"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HEAD_AND_NECK.gz",
+      "size": "801107501"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HEAD_AND_NECK.gz.tbi",
+      "size": "1768311"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.gz",
+      "size": "791629710"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HEPATOCELLU_CARC_WIDE.gz.tbi",
+      "size": "1766382"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HYPOPHARYNX_WIDE.gz",
+      "size": "766158243"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_HYPOPHARYNX_WIDE.gz.tbi",
+      "size": "1762092"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KAPOSI_SARCOMA_WIDE.gz",
+      "size": "747338615"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KAPOSI_SARCOMA_WIDE.gz.tbi",
+      "size": "1758917"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_CHROMOPHOBE.gz",
+      "size": "761266772"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_CHROMOPHOBE.gz.tbi",
+      "size": "1761167"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.gz",
+      "size": "795931964"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_CLEAR_CELL_CARCINOMA.gz.tbi",
+      "size": "1767028"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.gz",
+      "size": "802498637"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_NOTRENALPELVIS_WIDE.gz.tbi",
+      "size": "1768375"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_PAPILLARYADENO.gz",
+      "size": "775683778"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_KIDNEY_PAPILLARYADENO.gz.tbi",
+      "size": "1763740"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LARYNX_WIDE.gz",
+      "size": "786975418"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LARYNX_WIDE.gz.tbi",
+      "size": "1765808"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LEIOMYOSARCOMA_WIDE.gz",
+      "size": "773671581"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LEIOMYOSARCOMA_WIDE.gz.tbi",
+      "size": "1763342"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIPOSARCOMA_WIDE.gz",
+      "size": "775032647"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIPOSARCOMA_WIDE.gz.tbi",
+      "size": "1763541"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIP_WIDE.gz",
+      "size": "776815246"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIP_WIDE.gz.tbi",
+      "size": "1763926"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIQUID_CANCER.gz",
+      "size": "805843206"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LIQUID_CANCER.gz.tbi",
+      "size": "1769518"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LUNG_NEUROENDO.gz",
+      "size": "771293720"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LUNG_NEUROENDO.gz.tbi",
+      "size": "1763271"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LUNG_NONSMALL_WIDE.gz",
+      "size": "804352850"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_LUNG_NONSMALL_WIDE.gz.tbi",
+      "size": "1768989"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.gz",
+      "size": "771642774"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MACROGLOBULINEMIA_WIDE.gz.tbi",
+      "size": "1762605"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MALE_GENITAL.gz",
+      "size": "805398349"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MALE_GENITAL.gz.tbi",
+      "size": "1769489"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.gz",
+      "size": "779567742"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MANTLE_CELL_LYMPHOMA_WIDE.gz.tbi",
+      "size": "1764302"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MARGINAL_ZONE_LYMPHOMA_WIDE.gz",
+      "size": "782389128"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MARGINAL_ZONE_LYMPHOMA_WIDE.gz.tbi",
+      "size": "1765129"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MELANOMA_SKIN_WIDE.gz",
+      "size": "804085045"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MELANOMA_SKIN_WIDE.gz.tbi",
+      "size": "1768521"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MELANOMA_WIDE.gz",
+      "size": "804590734"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MELANOMA_WIDE.gz.tbi",
+      "size": "1769014"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MENINGES_WIDE.gz",
+      "size": "758753823"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MENINGES_WIDE.gz.tbi",
+      "size": "1761093"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MENINGIOMA_WIDE.gz",
+      "size": "797649222"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MENINGIOMA_WIDE.gz.tbi",
+      "size": "1767775"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MESOTHELIOMA_WIDE.gz",
+      "size": "780653211"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MESOTHELIOMA_WIDE.gz.tbi",
+      "size": "1764818"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MESTOTHEL_SOFTTISSUE.gz",
+      "size": "795277159"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MESTOTHEL_SOFTTISSUE.gz.tbi",
+      "size": "1767240"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MGUS_WIDE.gz",
+      "size": "797608586"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MGUS_WIDE.gz.tbi",
+      "size": "1767456"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MULT_MYELOMA_WIDE.gz",
+      "size": "796675390"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MULT_MYELOMA_WIDE.gz.tbi",
+      "size": "1767214"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.gz",
+      "size": "792660988"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MYELODYSP_SYNDR_WIDE.gz.tbi",
+      "size": "1766652"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MYELOMA_MONOCLONAL.gz",
+      "size": "790507503"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_MYELOMA_MONOCLONAL.gz.tbi",
+      "size": "1766493"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.gz",
+      "size": "774916235"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NASAL_CAVITY_SINUSES_WIDE.gz.tbi",
+      "size": "1763711"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NASOPHARYNX_WIDE.gz",
+      "size": "762184845"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NASOPHARYNX_WIDE.gz.tbi",
+      "size": "1761378"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NONHODGKIN_WIDE.gz",
+      "size": "803464623"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NONHODGKIN_WIDE.gz.tbi",
+      "size": "1768902"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NSCLC_ADENO.gz",
+      "size": "800153276"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NSCLC_ADENO.gz.tbi",
+      "size": "1767721"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NSCLC_SQUAM.gz",
+      "size": "797221548"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_NSCLC_SQUAM.gz.tbi",
+      "size": "1767107"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OESOPHAGUS_WIDE.gz",
+      "size": "794522739"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OESOPHAGUS_WIDE.gz.tbi",
+      "size": "1767407"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ORALCAVITY_WIDE.gz",
+      "size": "795638580"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_ORALCAVITY_WIDE.gz.tbi",
+      "size": "1767203"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OROPHARYNG_WIDE.gz",
+      "size": "761391188"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OROPHARYNG_WIDE.gz.tbi",
+      "size": "1761167"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OROPHARYNX_WIDE.gz",
+      "size": "786031828"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OROPHARYNX_WIDE.gz.tbi",
+      "size": "1765620"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OSTEOSARCOMA_WIDE.gz",
+      "size": "757968528"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OSTEOSARCOMA_WIDE.gz.tbi",
+      "size": "1761072"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OTHER_SKIN_WIDE.gz",
+      "size": "807753196"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OTHER_SKIN_WIDE.gz.tbi",
+      "size": "1769729"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_ENDOMETROID.gz",
+      "size": "765232458"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_ENDOMETROID.gz.tbi",
+      "size": "1761973"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_ENDOMETROID_WIDE.gz",
+      "size": "771900706"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_ENDOMETROID_WIDE.gz.tbi",
+      "size": "1762940"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_GRANULOSA.gz",
+      "size": "757936953"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_GRANULOSA.gz.tbi",
+      "size": "1760900"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_MUCINO.gz",
+      "size": "762011158"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_MUCINO.gz.tbi",
+      "size": "1761163"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_MUCINO_WIDE.gz",
+      "size": "768323394"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_MUCINO_WIDE.gz.tbi",
+      "size": "1762653"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_SEROUS.gz",
+      "size": "767533045"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_SEROUS.gz.tbi",
+      "size": "1762082"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_SEROUS_WIDE.gz",
+      "size": "792098374"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_SEROUS_WIDE.gz.tbi",
+      "size": "1766683"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_WIDE.gz",
+      "size": "798954574"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_OVARY_WIDE.gz.tbi",
+      "size": "1767355"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PALATE_WIDE.gz",
+      "size": "765329673"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PALATE_WIDE.gz.tbi",
+      "size": "1762208"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_ADENO.gz",
+      "size": "791285966"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_ADENO.gz.tbi",
+      "size": "1766629"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.gz",
+      "size": "793823586"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_ADENO_DUCTAL.gz.tbi",
+      "size": "1767102"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_DUCTAL.gz",
+      "size": "769007141"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_DUCTAL.gz.tbi",
+      "size": "1762416"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_NEUROENDOCRINE.gz",
+      "size": "765388857"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_NEUROENDOCRINE.gz.tbi",
+      "size": "1762463"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_WIDE.gz",
+      "size": "801959319"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PANCREAS_WIDE.gz.tbi",
+      "size": "1768577"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PAROTIDGLAND_WIDE.gz",
+      "size": "775066098"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PAROTIDGLAND_WIDE.gz.tbi",
+      "size": "1764013"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PENIS_WIDE.gz",
+      "size": "767378589"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PENIS_WIDE.gz.tbi",
+      "size": "1762306"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PERIPHERAL_NERVES_AUTONOMIC3_NERVESYSTEM_WIDE.gz",
+      "size": "754170973"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PERIPHERAL_NERVES_AUTONOMIC3_NERVESYSTEM_WIDE.gz.tbi",
+      "size": "1759369"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PROSTATE_WIDE.gz",
+      "size": "805406568"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_PROSTATE_WIDE.gz.tbi",
+      "size": "1769347"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTOSIGMOID_JUNCTION_WIDE.gz",
+      "size": "791544792"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTOSIGMOID_JUNCTION_WIDE.gz.tbi",
+      "size": "1766404"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_ADENO.gz",
+      "size": "802017911"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_ADENO.gz.tbi",
+      "size": "1768282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_ADENO_MUCINO.gz",
+      "size": "802171559"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_ADENO_MUCINO.gz.tbi",
+      "size": "1768543"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_MUCINO.gz",
+      "size": "760803420"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_MUCINO.gz.tbi",
+      "size": "1761270"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_NEUROENDOCRINE.gz",
+      "size": "757358038"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_NEUROENDOCRINE.gz.tbi",
+      "size": "1761045"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_WIDE.gz",
+      "size": "803251400"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RECTUM_WIDE.gz.tbi",
+      "size": "1768823"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RENAL_CELL_CARCINOMA.gz",
+      "size": "793783217"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RENAL_CELL_CARCINOMA.gz.tbi",
+      "size": "1766874"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RENAL_PELVIS_WIDE.gz",
+      "size": "778760772"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RENAL_PELVIS_WIDE.gz.tbi",
+      "size": "1764251"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.gz",
+      "size": "805117430"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RESPIRATORY_INTRATHORACIC.gz.tbi",
+      "size": "1769295"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RETROPERITONEUM_PERITONEUM_WIDE.gz",
+      "size": "783017064"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RETROPERITONEUM_PERITONEUM_WIDE.gz.tbi",
+      "size": "1764858"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RHABDOMYOSARCOMA_WIDE.gz",
+      "size": "748850260"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_RHABDOMYOSARCOMA_WIDE.gz.tbi",
+      "size": "1759354"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SCLC_WIDE.gz",
+      "size": "789957348"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SCLC_WIDE.gz.tbi",
+      "size": "1766319"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SKIN.gz",
+      "size": "808057942"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SKIN.gz.tbi",
+      "size": "1769916"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_ADENO.gz",
+      "size": "753474497"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_ADENO.gz.tbi",
+      "size": "1760177"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.gz",
+      "size": "780306924"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_NEUROENDOCRINE.gz.tbi",
+      "size": "1764352"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_WIDE.gz",
+      "size": "792307384"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SMALL_INTESTINE_WIDE.gz.tbi",
+      "size": "1766676"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SOLID_CANCER.gz",
+      "size": "811442230"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SOLID_CANCER.gz.tbi",
+      "size": "1771246"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SPINAL_CORD_CRANIAL_AND_OTHER_CNS_WIDE.gz",
+      "size": "771646402"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SPINAL_CORD_CRANIAL_AND_OTHER_CNS_WIDE.gz.tbi",
+      "size": "1762813"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.gz",
+      "size": "801497663"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN.gz.tbi",
+      "size": "1768055"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.gz",
+      "size": "802875287"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_SQUAMOUS_CELL_CARCINOMA_SKIN_WIDE.gz.tbi",
+      "size": "1768904"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_ADENO.gz",
+      "size": "791904169"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_ADENO.gz.tbi",
+      "size": "1766813"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_NEUROENDOCRINE.gz",
+      "size": "760664340"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_NEUROENDOCRINE.gz.tbi",
+      "size": "1761131"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_WIDE.gz",
+      "size": "799661983"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_STOMACH_WIDE.gz.tbi",
+      "size": "1767969"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.gz",
+      "size": "767887357"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_NONSEMINOMA_WIDE.gz.tbi",
+      "size": "1762196"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.gz",
+      "size": "776239600"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_SEMINOMA_WIDE.gz.tbi",
+      "size": "1763551"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_WIDE.gz",
+      "size": "787196400"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TESTIS_WIDE.gz.tbi",
+      "size": "1765516"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYMUS_WIDE.gz",
+      "size": "759900256"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYMUS_WIDE.gz.tbi",
+      "size": "1761171"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.gz",
+      "size": "776105994"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_FOLLICULAR_WIDE.gz.tbi",
+      "size": "1763741"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_GLAND_WIDE.gz",
+      "size": "800065202"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_GLAND_WIDE.gz.tbi",
+      "size": "1767961"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_MEDULLARY_WIDE.gz",
+      "size": "751447314"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_MEDULLARY_WIDE.gz.tbi",
+      "size": "1759826"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_PAPILLARY_ADENO.gz",
+      "size": "797351587"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_THYROID_PAPILLARY_ADENO.gz.tbi",
+      "size": "1767482"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONGUE_WIDE.gz",
+      "size": "789599992"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONGUE_WIDE.gz.tbi",
+      "size": "1766106"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL.gz",
+      "size": "780809656"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL.gz.tbi",
+      "size": "1764652"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL_BASEOFTONGUE.gz",
+      "size": "785948785"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL_BASEOFTONGUE.gz.tbi",
+      "size": "1765507"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.gz",
+      "size": "788482551"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_TONSIL_BASEOFTONGUE_WIDE.gz.tbi",
+      "size": "1766105"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_UNCERTAIN_SECONDARY.gz",
+      "size": "803713771"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_UNCERTAIN_SECONDARY.gz.tbi",
+      "size": "1769005"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_URETER_WIDE.gz",
+      "size": "771386274"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_URETER_WIDE.gz.tbi",
+      "size": "1762938"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_URINARY_TRACT.gz",
+      "size": "802003877"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_URINARY_TRACT.gz.tbi",
+      "size": "1768521"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_VAGINA_WIDE.gz",
+      "size": "755958489"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_VAGINA_WIDE.gz.tbi",
+      "size": "1760415"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_VULVA_WIDE.gz",
+      "size": "779353339"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_VULVA_WIDE.gz.tbi",
+      "size": "1764041"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_WILMS_TUMOR_WIDE.gz",
+      "size": "766438999"
+    },
+    {
+      "name": "summary_stats/finngen_R13_C3_WILMS_TUMOR_WIDE.gz.tbi",
+      "size": "1762121"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CAMPYLOENTERITIS.gz",
+      "size": "790729805"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CAMPYLOENTERITIS.gz.tbi",
+      "size": "1766513"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CARDIAC_ARRHYTM.gz",
+      "size": "809410858"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CARDIAC_ARRHYTM.gz.tbi",
+      "size": "1770711"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CARDIOMYOPATHY_DRUGS_OTHER_EXTER_AGENTS.gz",
+      "size": "748916612"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CARDIOMYOPATHY_DRUGS_OTHER_EXTER_AGENTS.gz.tbi",
+      "size": "1759089"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN.gz",
+      "size": "810402103"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN.gz.tbi",
+      "size": "1771073"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ADRENAL.gz",
+      "size": "800604627"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ADRENAL.gz.tbi",
+      "size": "1768360"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ANUS_ANAL_CANAL.gz",
+      "size": "791162876"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ANUS_ANAL_CANAL.gz.tbi",
+      "size": "1766776"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_APPENDIX.gz",
+      "size": "776295082"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_APPENDIX.gz.tbi",
+      "size": "1763734"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ASCENDING_COLON.gz",
+      "size": "803057643"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ASCENDING_COLON.gz.tbi",
+      "size": "1768772"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BLADDER.gz",
+      "size": "773895841"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BLADDER.gz.tbi",
+      "size": "1763382"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.gz",
+      "size": "801126733"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_CARTILAGE.gz.tbi",
+      "size": "1768086"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_CARTILAGE_NOS.gz",
+      "size": "770138054"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_CARTILAGE_NOS.gz.tbi",
+      "size": "1762698"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.gz",
+      "size": "793253318"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_LONG_LOWER.gz.tbi",
+      "size": "1766798"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_LOWER_JAW.gz",
+      "size": "760934054"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_LOWER_JAW.gz.tbi",
+      "size": "1761479"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SCAPULA_LONG_UPPER.gz",
+      "size": "776174971"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SCAPULA_LONG_UPPER.gz.tbi",
+      "size": "1763800"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.gz",
+      "size": "774875811"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SHORT_LOWER.gz.tbi",
+      "size": "1763601"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.gz",
+      "size": "782539860"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SHORT_UPPER.gz.tbi",
+      "size": "1765220"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SKULL_FACE.gz",
+      "size": "774507129"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BONE_SKULL_FACE.gz.tbi",
+      "size": "1763919"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_CNS.gz",
+      "size": "799699409"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_CNS.gz.tbi",
+      "size": "1768074"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_INFRATENT.gz",
+      "size": "766104631"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_INFRATENT.gz.tbi",
+      "size": "1761893"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_NOS.gz",
+      "size": "767026562"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_NOS.gz.tbi",
+      "size": "1762171"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_SUPRATENT.gz",
+      "size": "782801586"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRAIN_SUPRATENT.gz.tbi",
+      "size": "1765295"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BREAST.gz",
+      "size": "803283386"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BREAST.gz.tbi",
+      "size": "1768497"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRONCHUS_LUNG.gz",
+      "size": "779483257"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_BRONCHUS_LUNG.gz.tbi",
+      "size": "1764328"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CAECUM.gz",
+      "size": "802030059"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CAECUM.gz.tbi",
+      "size": "1768578"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CAROTIDBODY.gz",
+      "size": "753292834"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CAROTIDBODY.gz.tbi",
+      "size": "1760257"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CERVIX_UTERI.gz",
+      "size": "768062105"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CERVIX_UTERI.gz.tbi",
+      "size": "1762194"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CHOROID.gz",
+      "size": "798583620"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CHOROID.gz.tbi",
+      "size": "1767803"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CILIARY.gz",
+      "size": "756289739"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CILIARY.gz.tbi",
+      "size": "1760471"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CNS_NOS.gz",
+      "size": "758713834"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CNS_NOS.gz.tbi",
+      "size": "1760978"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLON.gz",
+      "size": "807207904"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLON.gz.tbi",
+      "size": "1769922"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLON_NOS.gz",
+      "size": "805072237"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLON_NOS.gz.tbi",
+      "size": "1769100"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLORECANI.gz",
+      "size": "807995297"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_COLORECANI.gz.tbi",
+      "size": "1770421"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONJUNCTIVA.gz",
+      "size": "792040983"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONJUNCTIVA.gz.tbi",
+      "size": "1766584"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNECTIVE_SOFT.gz",
+      "size": "801822358"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNECTIVE_SOFT.gz.tbi",
+      "size": "1768643"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_ABD.gz",
+      "size": "753799450"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_ABD.gz.tbi",
+      "size": "1760282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_PELVIS.gz",
+      "size": "754036826"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_PELVIS.gz.tbi",
+      "size": "1759924"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_THX.gz",
+      "size": "760633347"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_THX.gz.tbi",
+      "size": "1761368"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_TRUNK.gz",
+      "size": "766911698"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_TRUNK.gz.tbi",
+      "size": "1762166"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.gz",
+      "size": "795388669"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CONNSOFT_UPPERLIMB.gz.tbi",
+      "size": "1766982"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CORNEA.gz",
+      "size": "745702998"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CORNEA.gz.tbi",
+      "size": "1758990"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CORPUS_UTERI.gz",
+      "size": "771953388"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CORPUS_UTERI.gz.tbi",
+      "size": "1763008"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.gz",
+      "size": "791584010"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_CRANIAL_NERVE.gz.tbi",
+      "size": "1766419"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DESCENDING_COLON.gz",
+      "size": "799699966"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DESCENDING_COLON.gz.tbi",
+      "size": "1768013"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.gz",
+      "size": "766309112"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DIGESTIVE_NOS.gz.tbi",
+      "size": "1762099"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DUODENUM.gz",
+      "size": "789146597"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_DUODENUM.gz.tbi",
+      "size": "1766100"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EAR_NASAL_SINUS.gz",
+      "size": "794651709"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EAR_NASAL_SINUS.gz.tbi",
+      "size": "1767381"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EAR_RESP.gz",
+      "size": "800714286"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EAR_RESP.gz.tbi",
+      "size": "1768330"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_NOS.gz",
+      "size": "757784221"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_NOS.gz.tbi",
+      "size": "1760728"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.gz",
+      "size": "803166091"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_OTH.gz.tbi",
+      "size": "1769035"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_PANCREAS.gz",
+      "size": "764521551"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ENDOCRINE_PANCREAS.gz.tbi",
+      "size": "1762082"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EPIDIDYMIS.gz",
+      "size": "756110698"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EPIDIDYMIS.gz.tbi",
+      "size": "1760464"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EXTRAHEPATIC_BILE.gz",
+      "size": "755823240"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EXTRAHEPATIC_BILE.gz.tbi",
+      "size": "1760746"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EYE.gz",
+      "size": "801577610"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_EYE.gz.tbi",
+      "size": "1768455"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FEMALE_GEN_NOS.gz",
+      "size": "756619027"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FEMALE_GEN_NOS.gz.tbi",
+      "size": "1760524"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FEMALE_GEN_OTH.gz",
+      "size": "796215631"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FEMALE_GEN_OTH.gz.tbi",
+      "size": "1767263"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FLOOROFMOUTH.gz",
+      "size": "757853544"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_FLOOROFMOUTH.gz.tbi",
+      "size": "1760700"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEAMANGIOMA_LYMPHANGIOMA.gz",
+      "size": "801440612"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEAMANGIOMA_LYMPHANGIOMA.gz.tbi",
+      "size": "1768423"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEART.gz",
+      "size": "757199738"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEART.gz.tbi",
+      "size": "1760508"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEMANGIOMA.gz",
+      "size": "801086622"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HEMANGIOMA.gz.tbi",
+      "size": "1768393"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HYPOPHARYNX.gz",
+      "size": "759961250"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_HYPOPHARYNX.gz.tbi",
+      "size": "1760535"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_INTRATHORACIC.gz",
+      "size": "774701467"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_INTRATHORACIC.gz.tbi",
+      "size": "1763261"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_INTRATHORACIC_NOS.gz",
+      "size": "752554636"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_INTRATHORACIC_NOS.gz.tbi",
+      "size": "1759805"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_KIDNEY.gz",
+      "size": "793028864"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_KIDNEY.gz.tbi",
+      "size": "1767327"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LARYNX.gz",
+      "size": "792412216"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LARYNX.gz.tbi",
+      "size": "1767159"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.gz",
+      "size": "808245182"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LEIOMYOMA_UTERI.gz.tbi",
+      "size": "1770024"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIP.gz",
+      "size": "787994523"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIP.gz.tbi",
+      "size": "1765961"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPOMATOUS.gz",
+      "size": "804835610"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPOMATOUS.gz.tbi",
+      "size": "1769430"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_INTRATHO.gz",
+      "size": "754596603"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_INTRATHO.gz.tbi",
+      "size": "1760646"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_NOS.gz",
+      "size": "801736441"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_NOS.gz.tbi",
+      "size": "1768117"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.gz",
+      "size": "799291470"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_HEADFACENECK.gz.tbi",
+      "size": "1768202"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.gz",
+      "size": "800660933"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_LIMBS.gz.tbi",
+      "size": "1768037"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.gz",
+      "size": "769998134"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_NOS.gz.tbi",
+      "size": "1762748"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.gz",
+      "size": "803115929"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIPO_SKIN_TRUNK.gz.tbi",
+      "size": "1768840"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIVER.gz",
+      "size": "787552713"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIVER.gz.tbi",
+      "size": "1766032"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIVE_BILE.gz",
+      "size": "789625322"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LIVE_BILE.gz.tbi",
+      "size": "1766493"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LYMPHANGIOMA.gz",
+      "size": "771935984"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LYMPHANGIOMA.gz.tbi",
+      "size": "1762978"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LYMPHNODES.gz",
+      "size": "753292832"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_LYMPHNODES.gz.tbi",
+      "size": "1759952"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MALE_GEN.gz",
+      "size": "787418170"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MALE_GEN.gz.tbi",
+      "size": "1765936"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MEDIASTINUM.gz",
+      "size": "755638149"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MEDIASTINUM.gz.tbi",
+      "size": "1760829"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC.gz",
+      "size": "804130800"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC.gz.tbi",
+      "size": "1769346"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.gz",
+      "size": "766130760"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_EAR.gz.tbi",
+      "size": "1762162"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_EYELID.gz",
+      "size": "774064738"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_EYELID.gz.tbi",
+      "size": "1763394"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_FACE.gz",
+      "size": "798562131"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_FACE.gz.tbi",
+      "size": "1767899"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_LIP.gz",
+      "size": "773076878"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_LIP.gz.tbi",
+      "size": "1763461"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.gz",
+      "size": "796085185"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_LOWERLIMB.gz.tbi",
+      "size": "1767105"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.gz",
+      "size": "800411995"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_NOS.gz.tbi",
+      "size": "1768263"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_SCALPNECK.gz",
+      "size": "788744593"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_SCALPNECK.gz.tbi",
+      "size": "1766217"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.gz",
+      "size": "802396055"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_TRUNK.gz.tbi",
+      "size": "1768616"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.gz",
+      "size": "788989846"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MELANOCYTIC_UPPERLIMB.gz.tbi",
+      "size": "1766163"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES.gz",
+      "size": "802084767"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES.gz.tbi",
+      "size": "1768628"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_CEREBRAL.gz",
+      "size": "801618196"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_CEREBRAL.gz.tbi",
+      "size": "1768376"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_NOS.gz",
+      "size": "782688398"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_NOS.gz.tbi",
+      "size": "1765105"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_SPINAL.gz",
+      "size": "776193634"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MENINGES_SPINAL.gz.tbi",
+      "size": "1763669"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MOUTH_NOS.gz",
+      "size": "792583171"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MOUTH_NOS.gz.tbi",
+      "size": "1766663"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MOUTH_PHARYNX.gz",
+      "size": "802442358"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_MOUTH_PHARYNX.gz.tbi",
+      "size": "1768489"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_NASOPHARYNX.gz",
+      "size": "773336935"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_NASOPHARYNX.gz.tbi",
+      "size": "1763426"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_NOS.gz",
+      "size": "782208574"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_NOS.gz.tbi",
+      "size": "1765053"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OESOPHAGUS.gz",
+      "size": "776570746"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OESOPHAGUS.gz.tbi",
+      "size": "1764131"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ORBIT_NOS.gz",
+      "size": "766245491"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_ORBIT_NOS.gz.tbi",
+      "size": "1761708"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OROPHA_OTHER.gz",
+      "size": "772730486"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OROPHA_OTHER.gz.tbi",
+      "size": "1763185"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OTHERDIGESTIVE.gz",
+      "size": "803882933"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OTHERDIGESTIVE.gz.tbi",
+      "size": "1768847"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OTHER_NOS.gz",
+      "size": "792653640"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OTHER_NOS.gz.tbi",
+      "size": "1766915"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OVARY.gz",
+      "size": "803804591"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_OVARY.gz.tbi",
+      "size": "1769039"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PANCREAS.gz",
+      "size": "788165616"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PANCREAS.gz.tbi",
+      "size": "1766229"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PARATHYROID.gz",
+      "size": "776977163"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PARATHYROID.gz.tbi",
+      "size": "1764155"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PAROTID.gz",
+      "size": "800739389"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PAROTID.gz.tbi",
+      "size": "1768274"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PELVIC_BONES_SACRUM_COCCYX.gz",
+      "size": "759072731"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PELVIC_BONES_SACRUM_COCCYX.gz.tbi",
+      "size": "1761130"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PENIS.gz",
+      "size": "751196337"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PENIS.gz.tbi",
+      "size": "1759282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PERIPH_AUTO_NEURO.gz",
+      "size": "781983447"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PERIPH_AUTO_NEURO.gz.tbi",
+      "size": "1765179"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PHARYNX_NOS.gz",
+      "size": "770186637"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PHARYNX_NOS.gz.tbi",
+      "size": "1762642"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PINEAL.gz",
+      "size": "752211282"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PINEAL.gz.tbi",
+      "size": "1759815"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PITUITARY_CRANIPHAR.gz",
+      "size": "796414649"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PITUITARY_CRANIPHAR.gz.tbi",
+      "size": "1767338"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PROSTATE.gz",
+      "size": "768995658"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_PROSTATE.gz.tbi",
+      "size": "1762265"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTOSIGMOID_JUNC.gz",
+      "size": "795821984"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTOSIGMOID_JUNC.gz.tbi",
+      "size": "1767232"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTUM.gz",
+      "size": "802402568"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTUM.gz.tbi",
+      "size": "1768807"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTUM_ANAL.gz",
+      "size": "804162825"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RECTUM_ANAL.gz.tbi",
+      "size": "1768910"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RENALPELVIS.gz",
+      "size": "747202934"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RENALPELVIS.gz.tbi",
+      "size": "1758955"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RESPIRATORY_NOS.gz",
+      "size": "751104701"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RESPIRATORY_NOS.gz.tbi",
+      "size": "1759378"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RETINA.gz",
+      "size": "762748781"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RETINA.gz.tbi",
+      "size": "1761511"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RETROPERITONEUM_PERITONEUM.gz",
+      "size": "763692806"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RETROPERITONEUM_PERITONEUM.gz.tbi",
+      "size": "1761628"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RIBS_STERNUM_CLAVICLE.gz",
+      "size": "751353430"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_RIBS_STERNUM_CLAVICLE.gz.tbi",
+      "size": "1759925"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY.gz",
+      "size": "801714676"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY.gz.tbi",
+      "size": "1768620"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY_KNOWN.gz",
+      "size": "801324106"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY_KNOWN.gz.tbi",
+      "size": "1768346"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY_NOS.gz",
+      "size": "790616767"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SALIVARY_NOS.gz.tbi",
+      "size": "1766521"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SCROTUM.gz",
+      "size": "760089885"
+    },
+    {
+      "name": "summary_stats/finngen_R13_CD2_BENIGN_SCROTUM.gz.tbi",
+      "size": "1761059"
+    }
+  ]
+}

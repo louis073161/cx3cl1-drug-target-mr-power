@@ -1,0 +1,22 @@
+{
+ "id": "UKB_PPP_EUR_CX3CL1_P78423_OID20976_v1",
+ "studyType": "pqtl",
+ "nSamples": 33436,
+ "publicationFirstAuthor": null,
+ "publicationDate": null,
+ "publicationJournal": null,
+ "pubmedId": null,
+ "publicationTitle": null,
+ "ldPopulationStructure": [
+  {
+   "ldPopulation": "nfe",
+   "relativeSampleSize": 1
+  }
+ ],
+ "discoverySamples": [
+  {
+   "sampleSize": 33436
+  }
+ ],
+ "hasSumstats": true
+}

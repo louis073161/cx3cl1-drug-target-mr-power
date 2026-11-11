@@ -1,0 +1,20 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Tue, 10 Nov 2026 08:02:34 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: https://opengwas.io/files/eqtl-a-ENSG00000006210/eqtl-a-ENSG00000006210.vcf.gz
+
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 404 Not Found
+Server: openresty
+Date: Tue, 10 Nov 2026 08:02:38 GMT
+Content-Type: text/html
+Content-Length: 2048
+Connection: keep-alive
+ETag: "68b7f8d6-800"
+

@@ -1,0 +1,1166 @@
+{
+  "data": {
+    "credibleSets": {
+      "rows": [
+        {
+          "studyLocusId": "02b26dd07ae20c92a7516accc38f6a1b",
+          "chromosome": "1",
+          "position": 21345480,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 5,
+            "rows": [
+              {
+                "posteriorProbability": 0.4686020574929259,
+                "beta": 0.038684337698101666,
+                "standardError": null,
+                "logBF": 23.60860677164537,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "1_21345480_G_A",
+                  "rsIds": [
+                    "rs114921587"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.17780557559275148,
+                "beta": 0.03794420911251571,
+                "standardError": null,
+                "logBF": 22.639543536235546,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "1_21335198_C_T",
+                  "rsIds": [
+                    "rs61781599"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.14016093998624335,
+                "beta": 0.03776029409723979,
+                "standardError": null,
+                "logBF": 22.401644188546488,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "1_21338912_C_T",
+                  "rsIds": [
+                    "rs61781600"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.1396477041046458,
+                "beta": 0.03775745105702248,
+                "standardError": null,
+                "logBF": 22.39797570676067,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "1_21333868_A_G",
+                  "rsIds": [
+                    "rs61781598"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.04165310237938147,
+                "beta": 0.03680793362790316,
+                "standardError": null,
+                "logBF": 21.188228707596796,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "1_21331647_C_T",
+                  "rsIds": [
+                    "rs34693054"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "105c82670c90ca735dd8eaca4df8364c",
+          "chromosome": "16",
+          "position": 57379748,
+          "isTransQtl": false,
+          "credibleSetIndex": 2,
+          "locus": {
+            "count": 1,
+            "rows": [
+              {
+                "posteriorProbability": 1,
+                "beta": 0.13660051070809745,
+                "standardError": null,
+                "logBF": 323.6319920405631,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "16_57379748_C_T",
+                  "rsIds": [
+                    "rs62037084"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "312b1628eb38833d38b456bb79a4ac99",
+          "chromosome": "19",
+          "position": 48703728,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 29,
+            "rows": [
+              {
+                "posteriorProbability": 0.07173598652674709,
+                "beta": 0.03947069488983784,
+                "standardError": null,
+                "logBF": 24.610785085536524,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703728_G_A",
+                  "rsIds": [
+                    "rs602662"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.06543526095094648,
+                "beta": 0.03940240890588756,
+                "standardError": null,
+                "logBF": 24.518853831144877,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48704000_T_C",
+                  "rsIds": [
+                    "rs603985"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.06241606475398699,
+                "beta": 0.03936727430184341,
+                "standardError": null,
+                "logBF": 24.47161524992587,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703998_A_G",
+                  "rsIds": [
+                    "rs485073"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.048339461201085565,
+                "beta": 0.0391766394801296,
+                "standardError": null,
+                "logBF": 24.216040788890826,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703949_A_G",
+                  "rsIds": [
+                    "rs485186"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.043275874993045554,
+                "beta": 0.03909381431682495,
+                "standardError": null,
+                "logBF": 24.105387879927417,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703205_C_T",
+                  "rsIds": [
+                    "rs681343"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.04056853625231504,
+                "beta": 0.03904537724462334,
+                "standardError": null,
+                "logBF": 24.040785356713027,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705286_T_C",
+                  "rsIds": [
+                    "rs507766"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.039904560533161264,
+                "beta": 0.03903299475700056,
+                "standardError": null,
+                "logBF": 24.02428317614487,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705244_A_G",
+                  "rsIds": [
+                    "rs507855"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.035390902351057324,
+                "beta": 0.038942806841160166,
+                "standardError": null,
+                "logBF": 23.904247351081793,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48704535_G_A",
+                  "rsIds": [
+                    "rs2251034"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03516698769621721,
+                "beta": 0.03893803226218076,
+                "standardError": null,
+                "logBF": 23.8979003527127,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703417_G_A",
+                  "rsIds": [
+                    "rs601338"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03351926007118374,
+                "beta": 0.038901914257923734,
+                "standardError": null,
+                "logBF": 23.849912760825518,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705307_C_T",
+                  "rsIds": [
+                    "rs507711"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03220525151067339,
+                "beta": 0.038871789523167354,
+                "standardError": null,
+                "logBF": 23.809922089350124,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48704297_C_T",
+                  "rsIds": [
+                    "rs571689"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03178342005105805,
+                "beta": 0.03886185240486531,
+                "standardError": null,
+                "logBF": 23.796737331481022,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48704394_T_C",
+                  "rsIds": [
+                    "rs570794"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03155249108478588,
+                "beta": 0.038856355289522956,
+                "standardError": null,
+                "logBF": 23.789445102302828,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48704461_T_C",
+                  "rsIds": [
+                    "rs569970"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03126308597416536,
+                "beta": 0.03884940799041882,
+                "standardError": null,
+                "logBF": 23.78023059940787,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705372_G_C",
+                  "rsIds": [
+                    "rs506897"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03119925175196213,
+                "beta": 0.038847866797466324,
+                "standardError": null,
+                "logBF": 23.77818667192292,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705753_T_C",
+                  "rsIds": [
+                    "rs503279"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.0294267840701742,
+                "beta": 0.03880373823169286,
+                "standardError": null,
+                "logBF": 23.719697842114247,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705721_A_G",
+                  "rsIds": [
+                    "rs632111"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.029210764083782197,
+                "beta": 0.03879817566825673,
+                "standardError": null,
+                "logBF": 23.712329834055993,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48703160_A_G",
+                  "rsIds": [
+                    "rs492602"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.02886616981720279,
+                "beta": 0.038789214892061864,
+                "standardError": null,
+                "logBF": 23.700462874580932,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48706082_T_C",
+                  "rsIds": [
+                    "rs2548459"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.02861311135252687,
+                "beta": 0.03878256467371775,
+                "standardError": null,
+                "logBF": 23.69165761137831,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705969_G_A",
+                  "rsIds": [
+                    "rs633372"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.02608162044001971,
+                "beta": 0.03871253302304432,
+                "standardError": null,
+                "logBF": 23.59902342826856,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705608_G_A",
+                  "rsIds": [
+                    "rs504963"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.025049118494407812,
+                "beta": 0.0386819567095499,
+                "standardError": null,
+                "logBF": 23.558631196771668,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48705087_AC_A",
+                  "rsIds": [
+                    "rs28362844"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.0224735263358191,
+                "beta": 0.03859970344844145,
+                "standardError": null,
+                "logBF": 23.450130568871604,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48702915_C_T",
+                  "rsIds": [
+                    "rs516246"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.01993678743820273,
+                "beta": 0.038508701936315295,
+                "standardError": null,
+                "logBF": 23.330359199833687,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48706068_C_T",
+                  "rsIds": [
+                    "rs2548458"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.019431655801153858,
+                "beta": 0.03848917524218529,
+                "standardError": null,
+                "logBF": 23.304696038255706,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48702851_C_G",
+                  "rsIds": [
+                    "rs679574"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.019173927081424097,
+                "beta": 0.03847901193132483,
+                "standardError": null,
+                "logBF": 23.291343951359163,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "19_48702888_G_C",
+                  "rsIds": [
+                    "rs516316"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "5f533ad5a1087ee0686b019baa3abc55",
+          "chromosome": "9",
+          "position": 133273983,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 1,
+            "rows": [
+              {
+                "posteriorProbability": 1,
+                "beta": 0.800946827565519,
+                "standardError": null,
+                "logBF": 85306.94816484996,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_133273983_A_G",
+                  "rsIds": [
+                    "rs507666"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "96cd06ea1449715fd7741da171fc5341",
+          "chromosome": "16",
+          "position": 57374992,
+          "isTransQtl": false,
+          "credibleSetIndex": 3,
+          "locus": {
+            "count": 3,
+            "rows": [
+              {
+                "posteriorProbability": 0.5151327954112225,
+                "beta": -0.06526534523675329,
+                "standardError": null,
+                "logBF": 72.49612635505429,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "16_57374992_T_C",
+                  "rsIds": [
+                    "rs223872"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.34584769533327825,
+                "beta": -0.0650917641039185,
+                "standardError": null,
+                "logBF": 72.09770012371105,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "16_57373734_C_T",
+                  "rsIds": [
+                    "rs668100"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.13901950738430086,
+                "beta": -0.06469295297421915,
+                "standardError": null,
+                "logBF": 71.18631589664014,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "16_57381313_C_T",
+                  "rsIds": [
+                    "rs183420"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "9fb1e3ab58dd58aeced2b00fac53d7b5",
+          "chromosome": "3",
+          "position": 39265671,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 1,
+            "rows": [
+              {
+                "posteriorProbability": 0.9999997218589162,
+                "beta": 0.05101060005366826,
+                "standardError": null,
+                "logBF": 41.892364986573625,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "3_39265671_G_A",
+                  "rsIds": [
+                    "rs3732378"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "a942008d9325d8570565bb7dbac25017",
+          "chromosome": "10",
+          "position": 63389329,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 116,
+            "rows": [
+              {
+                "posteriorProbability": 0.03183146494773806,
+                "beta": -0.039072728451441184,
+                "standardError": null,
+                "logBF": 24.11850280663381,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63389329_G_A",
+                  "rsIds": [
+                    "rs9414801"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.015972797776301048,
+                "beta": 0.03855269742347658,
+                "standardError": null,
+                "logBF": 23.428934678661093,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63511728_A_T",
+                  "rsIds": [
+                    "rs10740131"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.014521290183724108,
+                "beta": 0.03848029697248898,
+                "standardError": null,
+                "logBF": 23.33366340335654,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63399012_AAAG_A",
+                  "rsIds": [
+                    "rs67434572"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.013726364432597985,
+                "beta": 0.0384374501749418,
+                "standardError": null,
+                "logBF": 23.27736593694461,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63402393_G_A",
+                  "rsIds": [
+                    "rs7896783"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.013621773899263886,
+                "beta": 0.038431625105076105,
+                "standardError": null,
+                "logBF": 23.26971707675622,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63395125_A_G",
+                  "rsIds": [
+                    "rs10761751"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.013616258529805487,
+                "beta": 0.03843131666702572,
+                "standardError": null,
+                "logBF": 23.26931210113633,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63391199_T_G",
+                  "rsIds": [
+                    "rs7095571"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.01338415445697106,
+                "beta": 0.03841821978642215,
+                "standardError": null,
+                "logBF": 23.252119046316103,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63402240_T_A",
+                  "rsIds": [
+                    "rs7912893"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.013171464050701923,
+                "beta": 0.03840601335822292,
+                "standardError": null,
+                "logBF": 23.2361002174367,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63364338_C_G",
+                  "rsIds": [
+                    "rs10822163"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.012931159386091714,
+                "beta": 0.038391977902443926,
+                "standardError": null,
+                "logBF": 23.217687397407314,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63400561_T_C",
+                  "rsIds": [
+                    "rs10761752"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.01281865461856585,
+                "beta": 0.03838531516244828,
+                "standardError": null,
+                "logBF": 23.208949044314835,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63402144_A_AAC",
+                  "rsIds": [
+                    "rs34309561"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.012818654618563801,
+                "beta": 0.03838531516244816,
+                "standardError": null,
+                "logBF": 23.208949044314675,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63402143_G_A",
+                  "rsIds": [
+                    "rs10761753"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.012404572977967834,
+                "beta": 0.03836026808759188,
+                "standardError": null,
+                "logBF": 23.176112735449937,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63371680_CATA_C",
+                  "rsIds": [
+                    "rs10546984"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.01233523608256248,
+                "beta": 0.03835599080604755,
+                "standardError": null,
+                "logBF": 23.170507431320107,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63517266_G_A",
+                  "rsIds": [
+                    "rs7082470"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.012225747505602201,
+                "beta": 0.038349186445409925,
+                "standardError": null,
+                "logBF": 23.161591721423083,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63521234_C_A",
+                  "rsIds": [
+                    "rs7075901"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011917186228504585,
+                "beta": 0.03832967068552148,
+                "standardError": null,
+                "logBF": 23.136029121395197,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63379150_T_G",
+                  "rsIds": [
+                    "rs7910927"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011876909405528305,
+                "beta": 0.03832708531942173,
+                "standardError": null,
+                "logBF": 23.132643671318473,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63367498_G_A",
+                  "rsIds": [
+                    "rs10822164"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.01184214400602907,
+                "beta": 0.03832484653051764,
+                "standardError": null,
+                "logBF": 23.129712236931795,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63491048_G_A",
+                  "rsIds": [
+                    "rs10740129"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011697249286733609,
+                "beta": 0.03831544298330215,
+                "standardError": null,
+                "logBF": 23.117401252743456,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63368859_G_A",
+                  "rsIds": [
+                    "rs10761750"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011455034184118832,
+                "beta": 0.03829945491208912,
+                "standardError": null,
+                "logBF": 23.096476842389354,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63361805_C_A",
+                  "rsIds": [
+                    "rs12355784"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011280629891687198,
+                "beta": 0.038287727882576346,
+                "standardError": null,
+                "logBF": 23.0811346282514,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63451175_A_G",
+                  "rsIds": [
+                    "rs10740126"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011248869577069337,
+                "beta": 0.038285572411283636,
+                "standardError": null,
+                "logBF": 23.078315183842424,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63430567_G_A",
+                  "rsIds": [
+                    "rs10761766"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.011222795962892851,
+                "beta": 0.03828379823341233,
+                "standardError": null,
+                "logBF": 23.07599460588341,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63447258_C_T",
+                  "rsIds": [
+                    "rs10509186"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.010925864897360586,
+                "beta": 0.03826329173224809,
+                "standardError": null,
+                "logBF": 23.049180446933523,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63515167_A_G",
+                  "rsIds": [
+                    "rs10761779"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.010868613139514028,
+                "beta": 0.03825927252958211,
+                "standardError": null,
+                "logBF": 23.04392664921099,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63501416_CT_C",
+                  "rsIds": [
+                    "rs34524635"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.010853592485972405,
+                "beta": 0.038258214469456674,
+                "standardError": null,
+                "logBF": 23.042543672160257,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "10_63449849_T_C",
+                  "rsIds": [
+                    "rs10740125"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "c15cb81f1392af292afeb46a6c8cbb5e",
+          "chromosome": "9",
+          "position": 76489957,
+          "isTransQtl": true,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 13,
+            "rows": [
+              {
+                "posteriorProbability": 0.12170250062506849,
+                "beta": 0.035605093518787545,
+                "standardError": null,
+                "logBF": 19.85245768147841,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76489957_T_C",
+                  "rsIds": [
+                    "rs502417"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.12030643718407237,
+                "beta": 0.0355956434873679,
+                "standardError": null,
+                "logBF": 19.8409202652188,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76490762_A_ACT",
+                  "rsIds": [
+                    "rs34397338"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.11592465836004263,
+                "beta": 0.0355652373633456,
+                "standardError": null,
+                "logBF": 19.803818617438406,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76485879_T_C",
+                  "rsIds": [
+                    "rs785914"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.09446335745401863,
+                "beta": 0.03539698536841605,
+                "standardError": null,
+                "logBF": 19.599090141737907,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76492707_A_G",
+                  "rsIds": [
+                    "rs2480213"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.08995926597385057,
+                "beta": 0.035356716503804314,
+                "standardError": null,
+                "logBF": 19.550235101827997,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76495244_A_G",
+                  "rsIds": [
+                    "rs602075"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.07818111115223715,
+                "beta": 0.03524079422879462,
+                "standardError": null,
+                "logBF": 19.40990620724938,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76499316_T_C",
+                  "rsIds": [
+                    "rs513301"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.07404905418918568,
+                "beta": 0.03519583561831652,
+                "standardError": null,
+                "logBF": 19.35560590227786,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76499468_T_C",
+                  "rsIds": [
+                    "rs512269"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.07023661305055194,
+                "beta": 0.035152015919041185,
+                "standardError": null,
+                "logBF": 19.302747862739423,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76486090_A_G",
+                  "rsIds": [
+                    "rs785916"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.06932924421923793,
+                "beta": 0.035141228032313204,
+                "standardError": null,
+                "logBF": 19.289744945929524,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76486065_G_A",
+                  "rsIds": [
+                    "rs785915"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.06014710189779506,
+                "beta": 0.03502314002364428,
+                "standardError": null,
+                "logBF": 19.147671394252352,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76498638_G_T",
+                  "rsIds": [
+                    "rs785928"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.03948944594548667,
+                "beta": 0.03467105558936314,
+                "standardError": null,
+                "logBF": 18.72691157919434,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76501820_GA_G",
+                  "rsIds": [
+                    "rs36047120"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.015403573892693147,
+                "beta": 0.03387002694014141,
+                "standardError": null,
+                "logBF": 17.785477687692094,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76506169_G_T",
+                  "rsIds": [
+                    "rs785907"
+                  ]
+                }
+              },
+              {
+                "posteriorProbability": 0.007629258097367225,
+                "beta": -0.03325963555958923,
+                "standardError": null,
+                "logBF": 17.082868739866132,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "9_76472958_G_A",
+                  "rsIds": [
+                    "rs11792509"
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "e4083b0d7c6524ad5ae57f28fc0b1d2d",
+          "chromosome": "16",
+          "position": 57375150,
+          "isTransQtl": false,
+          "credibleSetIndex": 1,
+          "locus": {
+            "count": 1,
+            "rows": [
+              {
+                "posteriorProbability": 1,
+                "beta": -0.16575159021097435,
+                "standardError": null,
+                "logBF": 477.60211678899367,
+                "r2Overall": null,
+                "is95CredibleSet": true,
+                "variant": {
+                  "id": "16_57375150_AAAG_A",
+                  "rsIds": [
+                    "rs201651944"
+                  ]
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

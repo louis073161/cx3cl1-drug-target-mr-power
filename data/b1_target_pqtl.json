@@ -1,0 +1,998 @@
+{
+ "PCSK9": {
+  "ensembl": "ENSG00000169174",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55039974,
+    "beta": -0.22389590964681255,
+    "zScore": -41.5063918000691,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55039974_G_T",
+     "rsIds": [
+      "rs11591147"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55053501,
+    "beta": 0.09541876848621206,
+    "zScore": 20.130564107237,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55053501_G_A",
+     "rsIds": [
+      "rs499883"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55208327,
+    "beta": -0.13228822201045182,
+    "zScore": -19.464749503472753,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55208327_C_T",
+     "rsIds": [
+      "rs12750160"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55170567,
+    "beta": -0.15150768994878341,
+    "zScore": -18.732646489118636,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55170567_T_C",
+     "rsIds": [
+      "rs72660594"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55253493,
+    "beta": 0.036680323987012126,
+    "zScore": 15.643684690278345,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55253493_G_T",
+     "rsIds": [
+      "rs7551981"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55034352,
+    "beta": -0.048578800678401216,
+    "zScore": -14.526377245579464,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55034352_C_A",
+     "rsIds": [
+      "rs2479404"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55190402,
+    "beta": -0.0418622353343814,
+    "zScore": -12.484837512446818,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55190402_G_T",
+     "rsIds": [
+      "rs287227"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55172402,
+    "beta": 0.06548409041173738,
+    "zScore": 11.97200091674483,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55172402_G_A",
+     "rsIds": [
+      "rs1165222"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55053079,
+    "beta": 0.033222743517298994,
+    "zScore": 10.571416899959278,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55053079_C_T",
+     "rsIds": [
+      "rs7552841"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 56261242,
+    "beta": -0.04484874647701012,
+    "zScore": -8.271140566987057,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_56261242_G_A",
+     "rsIds": [
+      "rs758700698"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55466942,
+    "beta": -0.030365385141985925,
+    "zScore": -6.333095384342956,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55466942_G_C",
+     "rsIds": [
+      "rs561018840"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55062956,
+    "beta": 0.03291170530489278,
+    "zScore": 5.9987384356602185,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55062956_G_A",
+     "rsIds": [
+      "rs12067569"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_PCSK9_Q8NBP7_OID20235_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 55053395,
+    "beta": -0.04579676407221506,
+    "zScore": -5.224947257383967,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_55053395_A_T",
+     "rsIds": [
+      "rs41294825"
+     ]
+    }
+   }
+  ]
+ },
+ "LDLR": {
+  "ensembl": "ENSG00000130164",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_LDLR_P01130_OID20240_v1",
+    "studyType": "pqtl",
+    "chromosome": "19",
+    "position": 8364439,
+    "beta": -0.04279391981357276,
+    "zScore": -8.036561866708551,
+    "isTransQtl": false,
+    "variant": {
+     "id": "19_8364439_G_A",
+     "rsIds": [
+      "rs116843064"
+     ]
+    }
+   }
+  ]
+ },
+ "IL6R": {
+  "ensembl": "ENSG00000160712",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154453788,
+    "beta": 0.7759829862096316,
+    "zScore": 141.53014001398347,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154453788_C_T",
+     "rsIds": [
+      "rs4129267"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153898007,
+    "beta": 0.15277556502561537,
+    "zScore": 23.633893845801875,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153898007_A_C",
+     "rsIds": [
+      "rs563409636"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154311889,
+    "beta": 0.1271655830401899,
+    "zScore": 21.105688518433045,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154311889_T_TTTTG",
+     "rsIds": [
+      "rs113800458"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154449078,
+    "beta": 0.18729938357959552,
+    "zScore": -19.319225816371638,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154449078_G_A",
+     "rsIds": [
+      "rs61812599"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153970117,
+    "beta": -0.1611314762693246,
+    "zScore": -18.460427770827263,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153970117_C_T",
+     "rsIds": [
+      "rs28654266"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153527732,
+    "beta": -0.06733492480563863,
+    "zScore": -15.171792328874703,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153527732_C_A",
+     "rsIds": [
+      "rs2265081"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153907812,
+    "beta": 0.0894727163304935,
+    "zScore": 14.325309715279287,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153907812_T_C",
+     "rsIds": [
+      "rs138696756"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153886712,
+    "beta": 0.09330620247111394,
+    "zScore": 14.27538412284228,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153886712_C_T",
+     "rsIds": [
+      "rs150097095"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153520107,
+    "beta": -0.05554614343470188,
+    "zScore": -14.101125376446348,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153520107_G_A",
+     "rsIds": [
+      "rs192159309"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153742478,
+    "beta": -0.10788134980354455,
+    "zScore": -13.974719414010808,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153742478_CTG_C",
+     "rsIds": [
+      "rs35008806"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153869556,
+    "beta": 0.07760593381322486,
+    "zScore": 13.401644854786662,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153869556_C_T",
+     "rsIds": [
+      "rs111237020"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153546699,
+    "beta": 0.05311481554389869,
+    "zScore": 11.096191787432756,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153546699_G_A",
+     "rsIds": [
+      "rs79940391"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 152799487,
+    "beta": 0.055831323057235926,
+    "zScore": 10.885402253409765,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_152799487_T_A",
+     "rsIds": [
+      "rs72702900"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153913869,
+    "beta": 0.08409146445628579,
+    "zScore": 10.838637920932682,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153913869_G_A",
+     "rsIds": [
+      "rs145534566"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154025208,
+    "beta": 0.07859164012245384,
+    "zScore": 10.674151893614768,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154025208_G_A",
+     "rsIds": [
+      "rs146954548"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153832254,
+    "beta": 0.07167639751738765,
+    "zScore": 10.300738636681336,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153832254_A_G",
+     "rsIds": [
+      "rs142221689"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153517675,
+    "beta": -0.04862352299767706,
+    "zScore": -10.18544127142298,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153517675_C_T",
+     "rsIds": [
+      "rs181694482"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154587122,
+    "beta": -0.027096911855713182,
+    "zScore": -8.70373180256151,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154587122_T_C",
+     "rsIds": [
+      "rs2131902"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154282169,
+    "beta": -0.042833320751863746,
+    "zScore": -8.501777958239513,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154282169_TTTTTG_T",
+     "rsIds": [
+      "rs60407285"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154917009,
+    "beta": 0.04323952157436003,
+    "zScore": 8.268933777767007,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154917009_C_A",
+     "rsIds": [
+      "rs1218592"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153526169,
+    "beta": 0.049286673411098304,
+    "zScore": 8.209878120951046,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153526169_G_C",
+     "rsIds": [
+      "rs77543908"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154981990,
+    "beta": 0.036578985132567694,
+    "zScore": 7.415197847475259,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154981990_C_T",
+     "rsIds": [
+      "rs183051150"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 155658383,
+    "beta": 0.037188377689651615,
+    "zScore": 6.889609806207466,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_155658383_G_C",
+     "rsIds": [
+      "rs764508016"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 152789322,
+    "beta": -0.03276255200523453,
+    "zScore": -6.288852767685088,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_152789322_C_T",
+     "rsIds": [
+      "rs79266973"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 152786339,
+    "beta": -0.03267533044783912,
+    "zScore": -6.253676193348918,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_152786339_T_C",
+     "rsIds": [
+      "rs76539966"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 155349777,
+    "beta": 0.030682701350954186,
+    "zScore": 6.213818785225134,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_155349777_G_T",
+     "rsIds": [
+      "rs190242920"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 152744038,
+    "beta": 0.030931399842714993,
+    "zScore": 5.958257101491064,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_152744038_G_A",
+     "rsIds": [
+      "rs551896384"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154221949,
+    "beta": 0.05298127403630697,
+    "zScore": 5.907961938052239,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154221949_C_G",
+     "rsIds": [
+      "rs192917473"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 155214836,
+    "beta": 0.038910799547954324,
+    "zScore": 5.892558060997705,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_155214836_C_A",
+     "rsIds": [
+      "rs186369638"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153451755,
+    "beta": 0.041451190793105254,
+    "zScore": 5.889089813140446,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153451755_G_A",
+     "rsIds": [
+      "rs111875284"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 153972118,
+    "beta": 0.1265628908202767,
+    "zScore": 5.720423700172539,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_153972118_C_T",
+     "rsIds": [
+      "rs35138279"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL6R_P08887_OID20385_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 154980581,
+    "beta": -0.03309733891987385,
+    "zScore": -5.6746457384590485,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_154980581_G_A",
+     "rsIds": [
+      "rs750422535"
+     ]
+    }
+   }
+  ]
+ },
+ "CRP": {
+  "ensembl": "ENSG00000132693",
+  "cis": []
+ },
+ "HMGCR": {
+  "ensembl": "ENSG00000113161",
+  "cis": []
+ },
+ "CETP": {
+  "ensembl": "ENSG00000087237",
+  "cis": []
+ },
+ "AGT": {
+  "ensembl": "ENSG00000135744",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_AGT_P01019_OID30709_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 230734905,
+    "beta": 0.3382316331300982,
+    "zScore": 42.134830265883465,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_230734905_A_G",
+     "rsIds": [
+      "rs6660955"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_AGT_P01019_OID30709_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 230741654,
+    "beta": 0.13708217510926166,
+    "zScore": 34.12816436538977,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_230741654_G_T",
+     "rsIds": [
+      "rs1317764"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_AGT_P01019_OID30709_v1",
+    "studyType": "pqtl",
+    "chromosome": "1",
+    "position": 230733891,
+    "beta": -0.30664760877348984,
+    "zScore": -8.816120331001692,
+    "isTransQtl": false,
+    "variant": {
+     "id": "1_230733891_G_A",
+     "rsIds": [
+      "rs10495299"
+     ]
+    }
+   }
+  ]
+ },
+ "ACE": {
+  "ensembl": "ENSG00000159640",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 63488670,
+    "beta": -0.36911870938376296,
+    "zScore": -59.18197484105867,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_63488670_G_A",
+     "rsIds": [
+      "rs4343"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 63571559,
+    "beta": -0.47141746319694994,
+    "zScore": -17.48890966086027,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_63571559_G_A",
+     "rsIds": [
+      "rs12452187"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 63175821,
+    "beta": -0.08840615295856463,
+    "zScore": -9.409794489393668,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_63175821_G_C",
+     "rsIds": [
+      "rs72845209"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 63071110,
+    "beta": -0.07819771119035493,
+    "zScore": -8.01035406323491,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_63071110_TTTAC_T",
+     "rsIds": [
+      "rs147919058"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 62832833,
+    "beta": -0.04113280592291548,
+    "zScore": -6.9198783443425365,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_62832833_G_A",
+     "rsIds": [
+      "rs190188937"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_ACE_P12821_OID30696_v1",
+    "studyType": "pqtl",
+    "chromosome": "17",
+    "position": 62918716,
+    "beta": -0.04024533315564428,
+    "zScore": -6.07344004907561,
+    "isTransQtl": false,
+    "variant": {
+     "id": "17_62918716_C_A",
+     "rsIds": [
+      "rs117053546"
+     ]
+    }
+   }
+  ]
+ },
+ "SERPINE1": {
+  "ensembl": "ENSG00000106366",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_SERPINE1_P05121_OID20342_v1",
+    "studyType": "pqtl",
+    "chromosome": "7",
+    "position": 101132927,
+    "beta": -0.05842103161634481,
+    "zScore": -12.699643902267038,
+    "isTransQtl": false,
+    "variant": {
+     "id": "7_101132927_A_G",
+     "rsIds": [
+      "rs2227674"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_SERPINE1_P05121_OID20342_v1",
+    "studyType": "pqtl",
+    "chromosome": "7",
+    "position": 101135257,
+    "beta": -0.0506592115592801,
+    "zScore": -10.995629094539934,
+    "isTransQtl": false,
+    "variant": {
+     "id": "7_101135257_GAGAGAGAA_G",
+     "rsIds": [
+      "rs376009915"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_SERPINE1_P05121_OID20342_v1",
+    "studyType": "pqtl",
+    "chromosome": "7",
+    "position": 101856650,
+    "beta": 0.04077583961364147,
+    "zScore": 7.5357472621662085,
+    "isTransQtl": false,
+    "variant": {
+     "id": "7_101856650_G_A",
+     "rsIds": [
+      "rs139141690"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_SERPINE1_P05121_OID20342_v1",
+    "studyType": "pqtl",
+    "chromosome": "7",
+    "position": 100433879,
+    "beta": -0.027718901845175524,
+    "zScore": -5.979341342364707,
+    "isTransQtl": false,
+    "variant": {
+     "id": "7_100433879_C_CCTATTCTCTAGCCCTT",
+     "rsIds": [
+      "rs3919"
+     ]
+    }
+   }
+  ]
+ },
+ "GLP1R": {
+  "ensembl": "ENSG00000112164",
+  "cis": []
+ },
+ "IL1RN": {
+  "ensembl": "ENSG00000136689",
+  "cis": [
+   {
+    "studyId": "UKB_PPP_EUR_IL1RN_P18510_OID20700_v1",
+    "studyType": "pqtl",
+    "chromosome": "2",
+    "position": 113083453,
+    "beta": -0.0936262547840244,
+    "zScore": -27.403113678644864,
+    "isTransQtl": false,
+    "variant": {
+     "id": "2_113083453_A_G",
+     "rsIds": [
+      "rs6734238"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL1RN_P18510_OID20700_v1",
+    "studyType": "pqtl",
+    "chromosome": "2",
+    "position": 113058513,
+    "beta": -0.0727636172078117,
+    "zScore": -18.29255063423774,
+    "isTransQtl": false,
+    "variant": {
+     "id": "2_113058513_T_A",
+     "rsIds": [
+      "rs2441374"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL1RN_P18510_OID20700_v1",
+    "studyType": "pqtl",
+    "chromosome": "2",
+    "position": 113131484,
+    "beta": 0.05883431544136811,
+    "zScore": 12.146894195825169,
+    "isTransQtl": false,
+    "variant": {
+     "id": "2_113131484_G_A",
+     "rsIds": [
+      "rs452204"
+     ]
+    }
+   },
+   {
+    "studyId": "UKB_PPP_EUR_IL1RN_P18510_OID20700_v1",
+    "studyType": "pqtl",
+    "chromosome": "2",
+    "position": 113410206,
+    "beta": -0.02862889190844286,
+    "zScore": -8.451111455317392,
+    "isTransQtl": false,
+    "variant": {
+     "id": "2_113410206_G_C",
+     "rsIds": [
+      "rs4849214"
+     ]
+    }
+   }
+  ]
+ }
+}

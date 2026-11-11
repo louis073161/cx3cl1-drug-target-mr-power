@@ -1,0 +1,1070 @@
+{
+  "data": {
+    "credibleSets": {
+      "count": 9,
+      "rows": [
+        {
+          "studyLocusId": "02b26dd07ae20c92a7516accc38f6a1b",
+          "chromosome": "1",
+          "position": 21345480,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 7.294481725240837,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 0.8973123366637256,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 11,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.13366598296402904,
+                "h4": 0.8663340170359709,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.005964127317443028
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.8124202884866323,
+                "h4": 0.18757971151336766,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.000213228983808022
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.2595177656422686,
+                "h4": 0.7404822343577314,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.002647735023107269
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.4056806063092761,
+                "h4": 0.594319393690724,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.0013531831391057284
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.6464451826455089,
+                "h4": 0.35355481735449124,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.0005070090212961273
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.6631647970570564,
+                "h4": 0.33683520294294356,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.00046727075681351
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.7119410652841145,
+                "h4": 0.2880589347158855,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.0003719496991965022
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.662493381751954,
+                "h4": 0.33750661824804606,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.000471657374336652
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.643638380451941,
+                "h4": 0.35636161954805906,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.00050947932854881
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.3299639496267408,
+                "h4": 0.6700360503732592,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.0018649225057593194
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.1790767507207318,
+                "h4": 0.8209232492792683,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.004195956821259319
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "105c82670c90ca735dd8eaca4df8364c",
+          "chromosome": "16",
+          "position": 57379748,
+          "isTransQtl": false,
+          "credibleSetlog10BF": 136.76010819352965,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 1,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 0,
+            "rows": []
+          }
+        },
+        {
+          "studyLocusId": "312b1628eb38833d38b456bb79a4ac99",
+          "chromosome": "19",
+          "position": 48703728,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 8.565654171549136,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 0.9456947581281265,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 1100,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.030459390550764433,
+                "h4": 0.9695406094492356,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 22,
+                "clpp": 0.028208970951544274
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.031076510606308637,
+                "h4": 0.9689234893936913,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 28,
+                "clpp": 0.02751880098443758
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.028371916623777155,
+                "h4": 0.9716280833762228,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 6,
+                "clpp": 0.031461618992333594
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03275385706857885,
+                "h4": 0.9672461429314212,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 28,
+                "clpp": 0.02595530337726365
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.036238657096399,
+                "h4": 0.963761342903601,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 27,
+                "clpp": 0.02351647849095971
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.8433003924902895,
+                "h4": 0.15669960750971051,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 4,
+                "clpp": 0.00016793070511402766
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.028506504977159,
+                "h4": 0.9714934950228411,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 26,
+                "clpp": 0.029957316753114305
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03147557267990533,
+                "h4": 0.9685244273200946,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 5,
+                "clpp": 0.027036826830309793
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03085919198743324,
+                "h4": 0.9691408080125667,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 23,
+                "clpp": 0.027540322308901466
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0333966625390963,
+                "h4": 0.9666033374609037,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 23,
+                "clpp": 0.025426039953950506
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.49645620424059544,
+                "h4": 0.5035437957594044,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 12,
+                "clpp": 0.0009153607234619778
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.06637446785827154,
+                "h4": 0.9336255321417284,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 21,
+                "clpp": 0.0125698286413992
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.11508839551391553,
+                "h4": 0.8849116044860845,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 21,
+                "clpp": 0.00690441749877819
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.6924877403121644,
+                "h4": 0.30751225968783547,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 8,
+                "clpp": 0.0004007224229879176
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03018374959465244,
+                "h4": 0.9698162504053477,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 21,
+                "clpp": 0.028262280729256718
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03056606364638515,
+                "h4": 0.9694339363536149,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 23,
+                "clpp": 0.027856116459878743
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.2342265137476081,
+                "h4": 0.7657734862523919,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 8,
+                "clpp": 0.002947590587925286
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.04630627927731718,
+                "h4": 0.9536937207226828,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.01852547178080716
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.01951643487445754,
+                "h4": 0.9804835651255425,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 21,
+                "clpp": 0.043388338133201414
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03419898497938873,
+                "h4": 0.9658010150206111,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 25,
+                "clpp": 0.02491999786033137
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.030985098077194,
+                "h4": 0.9690149019228059,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 5,
+                "clpp": 0.02785460804250264
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.03465121582353952,
+                "h4": 0.9653487841764604,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 28,
+                "clpp": 0.024616445121654815
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.031043309529645003,
+                "h4": 0.9689566904703549,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 28,
+                "clpp": 0.027489806522619092
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.06509163293638867,
+                "h4": 0.9349083670636114,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 20,
+                "clpp": 0.012835326780737344
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.390770488619104,
+                "h4": 0.6092295113808961,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 5,
+                "clpp": 0.0014100226895490285
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "5f533ad5a1087ee0686b019baa3abc55",
+          "chromosome": "9",
+          "position": 133273983,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 37044.79615094039,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 1,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 209,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.003932524421363448,
+                "h4": 0.9960674755786366,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.194208647266906
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.999999915718039
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999999987485353
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9998442696142198
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999971878827159
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9997386921903322
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0025591712796358946,
+                "h4": 0.9974408287203641,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.270857401161051
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 1
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "96cd06ea1449715fd7741da171fc5341",
+          "chromosome": "16",
+          "position": 57374992,
+          "isTransQtl": false,
+          "credibleSetlog10BF": 27.981268319449416,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 0.9878574052281169,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 0,
+            "rows": []
+          }
+        },
+        {
+          "studyLocusId": "9fb1e3ab58dd58aeced2b00fac53d7b5",
+          "chromosome": "3",
+          "position": 39265671,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 14.831140593478851,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 1,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 91,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9909756550525686
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0066990184389170105,
+                "h4": 0.993300981561083,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.12331943650596083
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9881079787815518
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218589162
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997171153201
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9527458638919203
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997217597741
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9994591631369911
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9998268154226614
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.006372443059126063,
+                "h4": 0.993627556940874,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.1317853126648265
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218589162
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0063006494822160745,
+                "h4": 0.9936993505177839,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.13406581577991614
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9991972294176559
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218589162
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.008403701915076129,
+                "h4": 0.9915962980849239,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.10113939917847754
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218577145
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9969870630459948
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 2.525523881398126e-05,
+                "h4": 0.9999747447611861,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9385708301078862
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9770384531292471
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999989141927441
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 2.5707168188033914e-05,
+                "h4": 0.9999742928318119,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9371172536275157
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 2.3463506542628872e-05,
+                "h4": 0.9999765364934574,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9442546675678903
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218147741
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0007850694437726815,
+                "h4": 0.9992149305562273,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.5322627308886322
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0,
+                "h4": 1,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 1,
+                "clpp": 0.9999997218587741
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "a942008d9325d8570565bb7dbac25017",
+          "chromosome": "10",
+          "position": 63389329,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 8.412727608465744,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 0.954514640782989,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 2481,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.21119057839037547,
+                "h4": 0.7888094216096246,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 92,
+                "clpp": 0.00336907109017705
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.3690428586724322,
+                "h4": 0.6309571413275679,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 10,
+                "clpp": 0.0015949053664593461
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.6360627737702957,
+                "h4": 0.36393722622970437,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 8,
+                "clpp": 0.0005240922513003427
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.25840163082408457,
+                "h4": 0.7415983691759154,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 10,
+                "clpp": 0.002645348958250758
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.12791650029637602,
+                "h4": 0.872083499703624,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 100,
+                "clpp": 0.006126894163640469
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.3076876238205463,
+                "h4": 0.6923123761794536,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 41,
+                "clpp": 0.0020308193585296406
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.127907084417973,
+                "h4": 0.872092915582027,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 100,
+                "clpp": 0.006128681796509105
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.10883841011022548,
+                "h4": 0.8911615898897746,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 103,
+                "clpp": 0.007345867237475921
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.23800634462723239,
+                "h4": 0.7619936553727676,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 89,
+                "clpp": 0.002893378042499991
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.10370497022779919,
+                "h4": 0.8962950297722008,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 63,
+                "clpp": 0.00776655295642283
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.10971603126403451,
+                "h4": 0.8902839687359655,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 99,
+                "clpp": 0.007290068612726765
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.2705382389939797,
+                "h4": 0.7294617610060203,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 75,
+                "clpp": 0.002433795667900477
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.16130736354128342,
+                "h4": 0.8386926364587166,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 91,
+                "clpp": 0.004685183827106507
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.09323586144440095,
+                "h4": 0.906764138555599,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 92,
+                "clpp": 0.008728489650565234
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.32136441592660225,
+                "h4": 0.6786355840733979,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 11,
+                "clpp": 0.0019128733664824065
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.11126981198590331,
+                "h4": 0.8887301880140966,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 98,
+                "clpp": 0.007174199950662119
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.2050215699293355,
+                "h4": 0.7949784300706646,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 107,
+                "clpp": 0.0034946067667304243
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.10418015473535178,
+                "h4": 0.8958198452646482,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 88,
+                "clpp": 0.007730331550575759
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.1129382778982665,
+                "h4": 0.8870617221017335,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 100,
+                "clpp": 0.007052957492088132
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.13163040607382423,
+                "h4": 0.8683695939261757,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 96,
+                "clpp": 0.005935849235097471
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.09643538213308192,
+                "h4": 0.903564617866918,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 77,
+                "clpp": 0.008400624536896975
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.26497783435744143,
+                "h4": 0.7350221656425586,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 74,
+                "clpp": 0.0025072471805848507
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.11545272969970002,
+                "h4": 0.8845472703003,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 100,
+                "clpp": 0.006885790030136613
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.2028992758167637,
+                "h4": 0.7971007241832364,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 94,
+                "clpp": 0.00353892635366168
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.14750116375764555,
+                "h4": 0.8524988362423545,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 92,
+                "clpp": 0.00520499979893877
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "c15cb81f1392af292afeb46a6c8cbb5e",
+          "chromosome": "9",
+          "position": 76489957,
+          "isTransQtl": true,
+          "credibleSetlog10BF": 6.09749659306675,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 0.9643169498413899,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 4,
+            "rows": [
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.0652118063448277,
+                "h4": 0.9347881936551723,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 13,
+                "clpp": 0.012900820178185649
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.010215942397573419,
+                "h4": 0.9897840576024266,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 11,
+                "clpp": 0.08279004369743422
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.07647673818799287,
+                "h4": 0.9235232618120072,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 13,
+                "clpp": 0.010860992438791548
+              },
+              {
+                "rightStudyType": "gwas",
+                "h3": 0.1395659535784795,
+                "h4": 0.8604340464215204,
+                "colocalisationMethod": "COLOC_PIP_ECAVIAR",
+                "numberColocalisingVariants": 12,
+                "clpp": 0.005569952773351946
+              }
+            ]
+          }
+        },
+        {
+          "studyLocusId": "e4083b0d7c6524ad5ae57f28fc0b1d2d",
+          "chromosome": "16",
+          "position": 57375150,
+          "isTransQtl": false,
+          "credibleSetlog10BF": 203.62848374922766,
+          "finemappingMethod": "SuSiE-inf",
+          "confidence": "SuSiE fine-mapped credible set with out-of-sample LD",
+          "purityMeanR2": 1,
+          "ldSet": [],
+          "colocalisation": {
+            "count": 0,
+            "rows": []
+          }
+        }
+      ]
+    }
+  }
+}

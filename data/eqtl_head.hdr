@@ -1,0 +1,16 @@
+HTTP/1.1 200 Connection Established
+
+HTTP/1.1 206 Partial Content
+server: nginx
+date: Tue, 10 Nov 2026 07:54:01 GMT
+content-type: application/octet-stream
+content-length: 1024
+last-modified: Fri, 11 Sep 2020 17:08:49 GMT
+etag: "5f5baf21-133d2b47"
+content-range: bytes 0-1023/322775879
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+referrer-policy: strict-origin-when-cross-origin
+permissions-policy: geolocation=()
+strict-transport-security: max-age=31536000; includeSubDomains
+
