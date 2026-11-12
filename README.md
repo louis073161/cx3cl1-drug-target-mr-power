@@ -10,13 +10,13 @@ controls and region-wide colocalisation.
 | Artefact | Identifier | Role |
 | --- | --- | --- |
 | Retrospective OSF registration | https://osf.io/apwe2 ; DOI 10.17605/OSF.IO/APWE2 | Frozen analysis plan, Secondary Data Preregistration, deposited 11 November 2026, CC0 1.0 Universal |
-| Zenodo archived snapshot | DOI shown on the Zenodo record page for this deposit | Immutable, versioned copy of this package |
-| GitHub repository | Linked from the Zenodo record field "Repository URL" | Living code repository |
+| Zenodo archived snapshot | https://doi.org/10.5281/zenodo.24137602 ; DOI 10.5281/zenodo.24137602 | Immutable, versioned copy of this package |
+| GitHub repository | https://github.com/louis073161/cx3cl1-drug-target-mr-power | Living code repository |
 
-The OSF registration is frozen and is not modified by this release. The Zenodo
-record links to the OSF registration (Related works: DOI 10.17605/OSF.IO/APWE2,
-relation "isSupplementTo") and to the GitHub repository (Repository URL). The
-GitHub README and the manuscript cite all three identifiers.
+The OSF registration (10.17605/OSF.IO/APWE2, https://osf.io/apwe2) is frozen and is not modified by
+this release. The Zenodo record links to the OSF registration and to this
+GitHub repository (https://github.com/louis073161/cx3cl1-drug-target-mr-power); the manuscript, cover letter and declarations
+cite all three identifiers.
 
 ## Reproduce offline (no network required)
 
